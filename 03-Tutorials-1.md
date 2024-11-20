@@ -38,3 +38,5 @@ Figuren einrichten:
 
 
 
+## nerdY weiß:
+Die Bilder für dieses Spiel haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
