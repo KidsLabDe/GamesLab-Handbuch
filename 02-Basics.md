@@ -6,7 +6,7 @@
 
 # Die Scratch Benutzeroberfläche
 
-![02-Übersicht Scratch IDE](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/02-Übersicht Scratch IDE.png)
+![02-Übersicht Scratch IDE](screenshots/02-Übersicht Scratch IDE.png)
 
 ## Die Bühne
 
@@ -142,7 +142,7 @@ So geht's:
    • Deine Katze tanzt!
    • Zum Stoppen klickst du auf das rote Stopp-Zeichen
 
-![02-TanzeKatze](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/02-TanzeKatze.png)
+![02-TanzeKatze](/screenshots/02-TanzeKatze.png)
 
 Challenge:
 ------
