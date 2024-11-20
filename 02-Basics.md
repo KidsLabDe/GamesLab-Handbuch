@@ -6,7 +6,7 @@
 
 # Die Scratch Benutzeroberfläche
 
-![02-Übersicht Scratch IDE](/screenshots/02-ÜbersichtScratchIDE.png)
+![02-Übersicht Scratch IDE](/screenshots/02-UebersichtScratchIDE.png)
 
 ## Die Bühne
 
