@@ -46,6 +46,8 @@
 3. Klicke auf den Block
 4. Die Katze bewegt sich!
 
+
+![Programm für die TanzeKatze](screenshots/02-TanzeKatze.png)
 ---
 
 
