@@ -28,6 +28,11 @@ Figuren einrichten:
 
 ![03-Programm Sauger](/screenshots/03-ProgrammSauger.png)
 
+### und fertig:
+
+https://scratch.mit.edu/projects/1099494165
+
+
 ## Challenge:
 
 - Timer hinzufügen
