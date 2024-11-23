@@ -4,7 +4,7 @@
 
 
 
-# Die Scratch Benutzeroberfläche
+# Movie Director 🎬 [⭐]
 
 ![02-Übersicht Scratch IDE](/screenshots/02-UebersichtScratchIDE.png)
 
@@ -17,7 +17,7 @@
 ## Deine Figuren
 
 - Links unten siehst du alle Figuren in deinem Projekt
-- Am Anfang ist nur die `Scratch`-Katze da
+- Am Anfang ist nur die Scratch-Katze da
 - Mit dem "+"-Button kannst du neue Figuren hinzufügen:
   - Fertige Figuren aus der Bibliothek wählen
   - Eigene Figuren malen
@@ -56,26 +56,19 @@ Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30>
 
 ## Challenge
 
-- füge den Block "wenn auf figur geklickt" und "wechsle zum nächsten kostüm"
+- füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
   - ![alt text](scratch/click-block.png)
   - ![alt text](scratch/naechstes-kostuem.png)
 - Klicke auf die Katze, was passiert?
+- Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
 ---
 
 
 
-# Scratch Account
 
-<!-- Machen wir hier auch die Zugangsdaten zum eintragen, oder das alles am Ende, das man es einfacher findet? gw -->
+Checkliste:
 
-- Wie melde ich mich an?
-  - Datensparsamkeit!
-- Veröffentlichen von Spielen
-- 
-
----
-
-
-
----
-
+- [ ] Du kannst deinem Mitschüler erklären, was sie wo im Arbeitsbereich befindet
+- [ ] Die Katze dreht sich fleißig im Kreis, wenn du die grüne Flagge klickst
+- [ ] Sie ist animiert, wenn man auf sie klickt
+- [ ] Du hast der Katze einen Bart, rote Augen oder Eselsohren gemalt 
