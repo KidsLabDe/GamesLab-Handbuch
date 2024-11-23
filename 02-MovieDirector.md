@@ -68,7 +68,7 @@ Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30>
 
 Checkliste:
 
-- [ ] Du kannst deinem Mitschüler erklären, was sie wo im Arbeitsbereich befindet
+- [ ] Du kannst deinem Mitschüler erklären, was sich wo im Arbeitsbereich befindet
 - [ ] Die Katze dreht sich fleißig im Kreis, wenn du die grüne Flagge klickst
 - [ ] Sie ist animiert, wenn man auf sie klickt
 - [ ] Du hast der Katze einen Bart, rote Augen oder Eselsohren gemalt 
