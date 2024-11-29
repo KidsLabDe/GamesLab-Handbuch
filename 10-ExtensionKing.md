@@ -1,7 +1,7 @@
 # Extension King 🧩 [⭐⭐⭐⭐]
 Power-Up! Nutze die geheimen Superkräfte von Scratch-Erweiterungen und TurboWarp.
 
-[comment]: soll auf 2 seiten passen. 
+[comment]: soll auf 2 seiten passen. Also gerne kürzen!
 
 ## TurboWarp
 
