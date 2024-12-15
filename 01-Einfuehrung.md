@@ -14,9 +14,7 @@ Willkommen im GamesLab Handbuch! Hier geht es darum, **wie du selbst Spiele entw
 
 ### NerdY Fun-Fact: 
 
-Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen 500.000 neue Projekte dazu! Aus **jedem** Land der Welt.
-
-
+Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen **500.000** neue Projekte dazu! Es gibt Scratches aus **jedem** Land unserer Welt.
 
 # Was ist Scratch?
 

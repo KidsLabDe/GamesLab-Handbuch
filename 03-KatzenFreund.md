@@ -1,9 +1,22 @@
 
 # Katzen Freund 😺 [⭐]
 
-# # Kater Einstein vs. Evil-Staubsauger
+### NerdY Fun-Fact
+
+Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katzen auf der ganzen Welt haben seitdem einen neuen Erzfeind - oder ein neues Transportmittel! 🤖
+
+### Was du hier lernst
+
+- Steuerung mit Pfeiltasten programmieren
+- Kollisionen erkennen und darauf reagieren
+- Punkte sammeln und zählen
+- Mit Zufallspositionen arbeiten
+
+## Kater Einstein vs. Evil-Staubsauger
 
 Kater Einstein, das klügste Haustier der Stadt, muss vor einem durchgedrehten Saugroboter fliehen. Sammle Wollknäule für Extra-Power!
+
+
 
 ![03-Figuren](screenshots/03-Figuren.png)
 
@@ -31,11 +44,25 @@ Figuren einrichten:
 
 https://scratch.mit.edu/projects/1099494165
 
+### Profi-Tricks 🎓
 
-## Challenges:
+1. Smooth Movement
+   - Kleinere Schritte für flüssigere Bewegung
+   - Beschleunigung einbauen
+   - Prelle von Rand ab
+2. Cleverer Staubsauger
+   - Verschiedene Bewegungsmuster
+   - Geschwindigkeit erhöhen mit Zeit
+   - "Wütend" werden bei Punkten
+3. Power-Up System
+   - Verschiedene Power-Up Typen
+   - Zeitlich begrenzte Effekte
+   - Combo-System
 
-- [ ] Timer hinzufügen
-- [ ] Saugroboter wird schneller
+## Challenges  🎯
+
+- [ ] Füge einen Timer hinzu
+- [ ] Mache den Staubsauger schneller
 
 
 ## Checkliste

@@ -1,12 +1,17 @@
-
-
----
-
-
-
 # Movie Director 🎬 [⭐]
 
-![02-Übersicht Scratch IDE](/screenshots/02-UebersichtScratchIDE.png)
+### NerdY Fun-Fact
+
+Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß "Fantasmagorie". Er bestand aus über 700 einzelnen Zeichnungen, die nacheinander fotografiert wurden! 📽️
+
+### Was du hier lernst
+
+- Die Scratch-Oberfläche kennenlernen
+- Figuren und Sprites steuern
+- Erste Animationen erstellen
+- Mit der Bühne und Kostümen arbeiten
+
+![02-Übersicht Scratch IDE](screenshots/02-UebersichtScratchIDE.png)
 
 ## Die Bühne
 
@@ -54,21 +59,38 @@ Und jetzt mach noch ein ganzes Programm draus!
 
 Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30> 
 
-## Challenge
+### Profi-Tricks 🎓
+
+1. Figuren schnell duplizieren
+   - Rechtsklick auf Figur → Duplizieren
+   - Spart Zeit beim Erstellen ähnlicher Figuren
+2. Kostüme clever nutzen
+   - Kostüme für verschiedene Zustände
+   - Animation durch Kostümwechsel
+   - Kostüme aus der Bibliothek mixen
+3. Ordnung im Projekt
+   - Figuren sinnvoll benennen
+   - Blöcke kommentieren
+   - Ähnliche Blöcke gruppieren
+
+## Challenge 🎯
+
+Mach aus der Katze einen Filmstar!
 
 - füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
   - ![alt text](scratch/click-block.png)
   - ![alt text](scratch/naechstes-kostuem.png)
 - Klicke auf die Katze, was passiert?
 - Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+
 ---
 
 
 
-
-Checkliste:
+## Checkliste:
 
 - [ ] Du kannst deinem Mitschüler erklären, was sich wo im Arbeitsbereich befindet
 - [ ] Die Katze dreht sich fleißig im Kreis, wenn du die grüne Flagge klickst
 - [ ] Sie ist animiert, wenn man auf sie klickt
 - [ ] Du hast der Katze einen Bart, rote Augen oder Eselsohren gemalt 
+- [ ] Die Katze ist verschwunden! Und du hast sie wiedergefunden (außerhalb der Bühne)
