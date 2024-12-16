@@ -73,7 +73,7 @@ Als erstes wieder unsere Fabrik:
 - Geh zur Figur oder Stelle, wie es funkelt
 - erzeug ganz viele Klone...
 
-![08-Sparkle1](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/08-Sparkle1.png)
+![08-Sparkle1](screenshots/08-Sparkle1.png)
 
 ## ... und die Kids!
 
@@ -96,13 +96,13 @@ Als erstes wieder unsere Fabrik:
 >
 > Jeder soll sich anders bewegen, der eine links, der andere rechts, schneller und langsamer. Hier brauchen wir `lokale` Variable. 
 >
-> ![LokaleVariable](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/LokaleVariable.png)
+> ![LokaleVariable](screenshots/LokaleVariable.png)
 
  
 
 
 
-![08-Sparkle2](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/08-Sparkle2.png)
+![08-Sparkle2](screenshots/08-Sparkle2.png)
 
 
 

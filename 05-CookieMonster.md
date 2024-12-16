@@ -30,7 +30,7 @@ Du kannst:
 
 ## Die Variablen!
 
-### Nerdy-Erklärbox: Var-I-Was?
+### Nerdy-Erkläromat: Var-I-Was?
 
 Eine Variable ist wie eine beschriftete Box, in der du Dinge aufbewahren kannst. Stell dir vor, du hast mehrere Kisten:
 

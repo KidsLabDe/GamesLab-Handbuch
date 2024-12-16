@@ -35,7 +35,7 @@ Obacht - es gibt 2 `spiele Klang`-Befehl:
 - Der `spiele Klang`-Befehl startet das Abspielen, aber das Programm läuft weiter.
 - Der `spiele Klang ... ganz` wartet an dies Stelle solange, bis der ganze Klang gespielt ist, erst dann läuft der rest des Programmes weiter.
 
- # Challenges
+ # NerdY-Side-Quests
 
 - [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
 ![alt text](scratch/ton-effekt.png)
