@@ -6,156 +6,60 @@
 > ### NerdY Fun-Fact
 >
 > Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸
->
 
-### Was ein High-Score System können muss
-```
-Must-Have:
-✓ Punkte sammeln & speichern
-✓ Top-Scores anzeigen
-✓ Neuen Highscore erkennen
+## Was du hier lernst 🎯
 
-Nice-to-Have:
-✓ Spielername eingeben
-✓ Datum speichern
-✓ Mehrere Kategorien
-```
+- Ein Highscore-System entwickeln
+- Mit Cloud-Variablen arbeiten
+- Daten dauerhaft speichern
+- Eine Bestenliste programmieren
+- Mit dem Scratch Community-System interagieren
 
 ### Teil 1: Die Basics
 
 #### Punkte sammeln
-```scratch
-wenn grüne Flagge angeklickt
-setze [Score v] auf (0)
-setze [Highscore v] auf (0)
 
-wenn <Münze berührt>
-ändere [Score v] um (10)
-wenn <(Score) > (Highscore)>
-    setze [Highscore v] auf (Score)
-    spiele Ton (victory v)
-ende
-```
+Puntke haben wir bis her ja auch schon gesammelt - dafür nimmst du eine Variable!
 
-#### Top 3 speichern
-```scratch
-// In Liste [Highscores v] speichern
-wenn <(Score) > (Element (1) von [Highscores v])>
-    füge (Score) am Anfang von [Highscores v] ein
-    lösche (4) von [Highscores v]
-ende
-```
+<img src="screenshots/07-punkte.png" alt="07-punkte" style="zoom:50%;" />
+
+- Am Anfang: `setze Punkte auf 0`
+- Wenn die Katze den leckeren `Tako` berührt...
+- ... dann `ändere Punkte um 1`
+
+#### Punkte abspeichern
+
+Jedesmal, wenn du dein Spiel neu lädst, sind ja alle Variablen zurückgesetzt. Zum Speichern gibt es eine erweiterte Variablen-Art, die `Cloud-Variable`. 
+
+<img src="screenshots/07-cloud-var.png" alt="07-cloud-var" style="zoom:50%;" />
+
+Einfach prüfen, ob der aktuelle Punktestand größer ist, als der Highscore - wenn ja: denn ist ein neuer Highscore erreicht!
+
+<img src="screenshots/07-punkte-high.png" alt="07-punkte-high" style="zoom:50%;" />
+
+
+
+> [!WARNING]
+>
+> ## NerdY Pannenhilfe 🚑
+>
+> Um Cloud-Variablen benutzen zu können, musst du ein "Verifizierter" Scratcher sein. Mit einem neuen Konto bist du erst mal nur ein NPC - du musst dir den Status als echter Scratcher erst verdienen. Dazu musst du:
+>
+> - aktiv auf Scratch sein
+> - Projekte veröffentlichen
+> - Andere Projekte kommentieren und liken
+>
+>  Das geschieht nach frühestens zwei Wochen durch einen Link (*Become a Scratcher*) auf der Profilseite hinter dem Profilbild.
+>
+> Warum? Mit Cloud-Variablen kann man Blödsinn anstellen. Mehr Infos findest du hier: https://de.scratch-wiki.info/wiki/R%C3%A4nge
 
 ### Teil 2: Pimp my Highscore!
 
-#### Name eingeben
-```
-1. Textfeld erstellen
-2. Auf Enter-Taste warten
-3. Namen mit Score speichern
-```
+Aber da geht noch mehr:
 
-#### Coole Anzeige
-- Goldene Schrift für #1
-- Silber für #2
-- Bronze für #3
-- Blink-Effekt bei neuem Rekord
+- Top 5 Liste
+- Namenseingabe
+- Datum & Uhrzeit
 
-#### Extra Features
-- Achievements freischalten
-- Medaillen sammeln
-- Statistiken speichern
-
-### Profi-Tricks 💡
-
-1. **Speichern & Laden**
-   - Highscores in Listen speichern
-   - Zwischen Spielsessions behalten
-   - Backup-System einbauen
-
-2. **Anti-Cheat**
-   - Score-Limits einbauen
-   - Unmögliche Werte erkennen
-   - Zeitstempel prüfen
-
-3. **Score-Balancing**
-   - Faire Punkteverteilung
-   - Bonus-Multiplikatoren
-   - Kombo-System
-
-### Debug-Corner 🔧
-Typische Probleme und Lösungen:
-```
-Problem: Scores verschwinden
-Lösung: Cloudspeicher nutzen
-
-Problem: Falsche Sortierung
-Lösung: Bubblesort-Algorithmus
-
-Problem: Zahlen zu groß
-Lösung: Score-Grenzwerte
-```
-
-### Challenge: Das ultimative Highscore-System
-Baue ein System mit:
-1. Top 5 Liste
-2. Namenseingabe
-3. Datum & Uhrzeit
-4. Animation bei neuem Rekord
-5. Statistik-Seite
-
-### DIY: Score-Baukasten
-Mix & Match diese Features:
-
-**Anzeige:**
-- [ ] Scrollende Liste
-- [ ] Animierte Zahlen
-- [ ] Podest für Top 3
-- [ ] Medalien & Badges
-
-**Features:**
-- [ ] Verschiedene Kategorien
-- [ ] Tages-/Wochen-Bestenlisten
-- [ ] Persönliche Bestleistungen
-- [ ] Freunde-Rangliste
-
-### Profi-Level: Online-Highscores
-```
-Mit TurboWarp & Cloud:
-1. Cloud-Variable erstellen
-2. Daten verschlüsseln
-3. Scores synchronisieren
-4. Weltweite Bestenliste
-```
-
-### Checkliste: Ist dein System bereit?
-- [ ] Scores werden korrekt gespeichert
-- [ ] Sortierung funktioniert
-- [ ] Anti-Cheat aktiv
-- [ ] Backup vorhanden
-- [ ] User-Feedback eingebaut
-- [ ] Performance optimiert
-
-### Extra Credit 🌟
-- Erstelle ein Replay-System
-- Baue eine Statistik-Seite
-- Entwickle Achievements
-- Füge Seasons/Events ein
-
-### Quick-Reference: Highscore-Formeln
-```
-Punkt-Berechnung:
-Basis + (Zeit-Bonus * Multiplikator)
-
-Kombo-System:
-Score = Punkte * (1 + Kombo/10)
-
-Level-Bonus:
-Bonus = Grundwert * Level-Faktor
-```
-
-Remember: Ein gutes Highscore-System motiviert die Spieler, immer wieder zu spielen und sich zu verbessern! 🎮
-
-
----
+Und das findest du alles hier: https://pad.kidslab.de/p/GamesLab-Highscore (QR Code)
 

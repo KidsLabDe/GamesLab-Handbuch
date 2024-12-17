@@ -8,4 +8,8 @@ Willkommen im GamesLab Handbuch! Hier geht es darum, **wie du selbst Spiele entw
 
 *Lass uns loslegen und gemeinsam richtig tolle Spiele bauen!*
 
+Gregor, Regine, Irmel, MatzE, Daniel ... und alle anderen Mentorinnen und Mentoren 
+
+![Mentoren](bilder/Mentoren.jpg)
+
 ---

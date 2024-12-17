@@ -60,11 +60,9 @@ Du kannst:
 
 Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du heraus, wenn du die QR-Code scannst!
 
-| Back-Oma                               | Bäckerei                                           | Auto-Klicker                             | Erklärung                             |
-| -------------------------------------- | -------------------------------------------------- | ---------------------------------------- | ------------------------------------- |
-| ![clicker-oma](bilder/clicker-oma.png) | ![clicker-baeckerei](bilder/clicker-baeckerei.png) | ![clicker-auto](bilder/clicker-auto.png) | https://kidslab.de/scratch/05-upgrade |
-
-
+| Back-Oma                               | Bäckerei                                           | Auto-Klicker                             | Erklärung                                                |
+| -------------------------------------- | -------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------- |
+| ![clicker-oma](bilder/clicker-oma.png) | ![clicker-baeckerei](bilder/clicker-baeckerei.png) | ![clicker-auto](bilder/clicker-auto.png) | https://pad.kidslab.de/p/GamesLab-CookieMaster (QR Code) |
 
 > [!IMPORTANT]
 >
@@ -78,6 +76,6 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 >
 > <img src="screenshots/05-cookie-effect.png" alt="05-cookie-effect" style="zoom:33%;" />
 
-Remember: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
+**Remember**: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
 
 ---

@@ -7,11 +7,18 @@ Abrakadabra! Zaubere magische Effekte in dein Spiel und lass es in neuem Glanz e
 >
 > Die berühmten Partikeleffekte in Mario Kart entstanden ursprünglich durch einen Bug - die Entwickler fanden sie aber so cool, dass sie sie im Spiel gelassen haben! 🏎️✨
 
+## Was du hier lernst 🎯
+
+- Visuelle Effekte in deine Spiele einbauen
+- Partikel-Systeme mit Klonen erstellen
+- Mit Bewegungs- und Grafikeffekten arbeiten
+- Animationen und Übergänge programmieren
+
 # Effekte-Spotlight: Paralax-Effekt!
 
 Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Paralax-Effekt!
 
-# Wie funktioniert das?
+## Wie funktioniert das?
 
 ### Dinge im Hintergrund: 
 - bewegen sich langsamer
@@ -23,16 +30,15 @@ Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Parala
 
 
 
-
-![alt text](bilder/paralax.jpg)
+<img src="bilder/paralax.jpg" alt="alt text" style="zoom:50%;" />
 
 ### So gehts:
 
-![Variable erstellen](screenshots/paralax/Variable-erstellen-beschriftet.png)
+<img src="screenshots/paralax/Variable-erstellen-beschriftet.png" alt="Variable erstellen" style="zoom:33%;" />
 
-![alt text](screenshots/paralax/Paralax-Code-Master.png) [alt text](08-EffectWizard.md)
+<img src="screenshots/paralax/Paralax-Code-Master.png" alt="alt text" style="zoom:50%;" /> [](08-EffectWizard.md)
 
-![alt text](screenshots/paralax/Paralax-Code-Klone.png)
+<img src="screenshots/paralax/Paralax-Code-Klone.png" alt="alt text" style="zoom:50%;" />
 
 (Beispielprojekt - QR Code? https://scratch.mit.edu/projects/1103943291/)
 
@@ -48,7 +54,7 @@ Eignet sich super für Super-Power, Power-Ups oder Unverwundbarkeit.
 
 Und wieder sind die Klone am Start!
 
-![alt text](screenshots/08-Regenbogen-Effekt.png)
+<img src="screenshots/08-Regenbogen-Effekt.png" alt="alt text" style="zoom:50%;" />
 
 Beispiel: https://scratch.mit.edu/projects/1103963666/
 
@@ -72,7 +78,7 @@ Als erstes wieder unsere Fabrik:
 - Geh zur Figur oder Stelle, wie es funkelt
 - erzeug ganz viele Klone...
 
-![08-Sparkle1](screenshots/08-Sparkle1.png)
+<img src="screenshots/08-Sparkle1.png" alt="08-Sparkle1" style="zoom:50%;" />
 
 ## ... und die Kids!
 
@@ -101,7 +107,7 @@ Als erstes wieder unsere Fabrik:
 
 
 
-![08-Sparkle2](screenshots/08-Sparkle2.png)
+<img src="screenshots/08-Sparkle2.png" alt="08-Sparkle2" style="zoom:50%;" />
 
 
 

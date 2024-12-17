@@ -7,39 +7,37 @@ Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Ga
 >
 > ### NerdY Fun-Fact
 >
-> Wusstest du? Das berühmte Nintendo "Ba-Ding" Sound-Logo wurde 1983 von Koji Kondo komponiert - dem gleichen Komponisten, der auch die Super Mario und Zelda Musik geschrieben hat!
+> Das erste Videospiel-Intro überhaupt war eine simple Animation im Spiel "Space Invaders" (1978) - die außerirdischen Invasoren marschierten von oben nach unten ins Bild! Space Invader ist so berühmt, dass es sogar sein eigenes Emojy hat 
 >
+> # 👾
 
 ### Was du hier lernst
 - Ein packendes Intro für dein Spiel erstellen
 - Dramatische Game-Over Screens designen  
 - Text-Effekte und Animationen
 - Sound und Musik wirkungsvoll einsetzen
+- Wie du mit `Nachrichten` zwischen den Figuren kommunizieren kannst 
+
+> [!NOTE]
+>
+> ### Nerdy-Erkläromat: Nachrichten senden und empfangen
+>
+> Für das Intro, Game-Over etc. müssen wir die einzelnen Figuren im Scratch miteinander "verdrahten". Das heißt, wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt "Game Over" ist.
+>
+> Mit den Nachrichten können die Figuren sozusagen Gedankenübertragen:
+>
+> | ![09-nachricht-senden](screenshots/09-nachricht-senden.png) | ![09-nachrichten](screenshots/09-nachrichten.png) | ![09-nachricht-empfangen](screenshots/09-nachricht-empfangen.png) |
+>| ----------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+> 
+> Das nutzen wir auch, um den Figuren unseres Spiel mitzuteilen, dass jetzt Zeit für ihren Auftritt ist. Oder eben Schluss: Game Over!
 
 ### Teil 1: Das Intro
 #### So fesselst du deine Spieler von Anfang an
 
-1. **Der große Auftritt: Titel-Animation**
-   - Trick: Lass deinen Spieltitel nicht einfach erscheinen - bring ihn in Bewegung!
-   ```
-   Beispiel-Code:
-   - Titel von außerhalb der Bühne einfliegen lassen
-   - Mit Größenänderung arbeiten (klein -> groß)
-   - Farb- oder Transparenz-Effekte nutzen
-   ```
+**Der große Auftritt: Titel-Animation**
 
-2. **Sound macht's spannend**
-   - Wähle passende Sounds für:
-     - Das Erscheinen des Titels
-     - Hintergrundmusik 
-     - Start-Button Klick
-   - Tipp: Weniger ist mehr! Ein kurzer, prägnanter Sound ist oft besser als lange Musik
-
-3. **Lebendiger Hintergrund**
-   - Statische Hintergründe sind langweilig! Probiere:
-     - Sich bewegende Wolken/Sterne
-     - Farbwechsel-Effekte
-     - Partikel-Systeme (Regen, Schnee, Funken)
+- Trick: Lass deinen Spieltitel nicht einfach erscheinen - bring ihn in Bewegung!
+- Arbeite mit Farb- und Größenänderungen
 
 ### Teil 2: Game Over mit Stil
 #### Aus Spielende mach Spielerlebnis
@@ -49,90 +47,14 @@ Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Ga
    - Screen-Shake beim Game Over
    - Dramatische Musik oder Sound-Effekte
 
-2. **Statistik mit Wow-Effekt**
-   ```
-   Zeige an:
-   - Erreichte Punktzahl
-   - Gespielte Zeit
-   - Gesammelte Items
-   - Neuer Highscore?
-   ```
-
-3. **Der Neustart-Hook**
+2. **Der Neustart-Hook**
    - Motivierende Nachricht
    - "Noch ein Versuch?"-Button mit Animation
    - Tipp: Ein schneller Neustart hält die Spieler bei der Stange!
+   
 
-### DIY: Intro-Baukasten
-Mix & Match diese Elemente für dein eigenes Intro:
+Wie das alles geht, erfährst Du hier:
 
-**Titel-Effekte:**
-- [ ] Einflieg-Animation
-- [ ] Größenänderung
-- [ ] Farbwechsel
-- [ ] Partikel
-- [ ] Glühen
-
-**Sound-Effekte:**
-- [ ] Start-Sound
-- [ ] Hintergrundmusik
-- [ ] Button-Sounds
-- [ ] Ambiente-Geräusche
-
-**Hintergrund:**
-- [ ] Bewegte Elemente
-- [ ] Farbverlauf
-- [ ] Parallax-Scrolling
-- [ ] Wetter-Effekte
-
-### Profi-Tipps
-1. **Timing ist alles**
-   - Intro sollte nicht länger als 3-5 Sekunden sein
-   - Game Over Screen: 2-3 Sekunden Pause vor Neustart-Option
-
-2. **Skip-Option**
-   - Lass Spieler das Intro überspringen (Leertaste/Klick)
-   - Speichere die Skip-Präferenz
-
-3. **Performance**
-   - Zu viele Partikel = Ruckeln
-   - Sounds vorher laden
-   - Effekte clever kombinieren
-
-### Debug-Ecke
-Häufige Probleme und Lösungen:
-- **Problem:** Intro läuft bei Neustart nicht
-  **Lösung:** Alle Animations-Variablen zurücksetzen
-
-- **Problem:** Sound spielt nicht
-  **Lösung:** Check Sound-Blöcke auf "warte bis fertig"
-
-- **Problem:** Effekte bleiben hängen
-  **Lösung:** "Stoppe alle Effekte" am Ende
-
-### Challenge
-Erstelle ein Intro mit:
-1. Animiertem Titel
-2. Mindestens einem Sound-Effekt
-3. Bewegtem Hintergrund
-4. Skip-Option
-5. Übergang zum Spiel
-
-### Checkliste: Ist dein Intro bereit?
-- [ ] Läuft flüssig ohne Ruckeln
-- [ ] Sounds funktionieren
-- [ ] Nicht zu lang
-- [ ] Skip funktioniert
-- [ ] Übergang zum Spiel klappt
-- [ ] Alle Variablen werden zurückgesetzt
-- [ ] Sieht auch nach 10x noch gut aus
-
-### Extra Credits
-- Füge Easter Eggs ein
-- Erstelle verschiedene Intros für verschiedene Level
-- Baue eine Credit-Sequenz
-- Experimentiere mit 3D-Effekten
-
-Viel Spaß beim Designen deines Intros! 🎮✨
+https://pad.kidslab.de/p/GamesLab-Intro (QR Code)
 
 ---

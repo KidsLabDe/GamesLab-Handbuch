@@ -5,8 +5,15 @@ SPRING! Programmiere den Klassiker nach und lass deinen Dino über alle Hinderni
 >
 > ## nerdY Fun Facts:
 >
-> Du kannst das Spiel im Chrome Browser spielen, wenn du keine Internetverbindung hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: `chrome://dino `
+> Der Chrome Dino wurde 2014 von einem Chrome-Entwickler als Zeitvertreib entwickelt - aber er hat sich so einen Kult-Status erarbeitet. Du kannst das Spiel im Chrome Browser spielen, wenn du keine Internetverbindung hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: `chrome://dino `
 > Warum kommt da ein T-Rex-Dino, wenn man kein Internet hat? Weil man dann informationstechnisch in Prähistorischen-Zeiten ist!
+
+## Was du hier lernst 🎯
+
+- Ein endlos laufendes Jump'n'Run entwickeln
+- Mit Clone-Objekten arbeiten
+- Kollisionen erkennen und reagieren
+- Gravitation und Sprungmechanik programmieren
 
 ## Dino-Runner - der Plan!
 
@@ -90,13 +97,15 @@ Die Katze soll schauen, ob sie den Kaktus berührt… wenn ja: `Game Over`!
 
 
 
-
-
 # ... das war jetzt aber sehr schnell!
 
 Kein Problem - hier noch mal alles in langsam, schritt für schritt:
 
-https://pad.kidslab.de/GamesLab-Dino
+https://pad.kidslab.de/GamesLab-Dino (QR Code)
+
+Das fertige Spiel findest du hier:
+
+https://scratch.mit.edu/projects/1102220876/ 
 
 
 
