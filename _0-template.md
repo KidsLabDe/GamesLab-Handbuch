@@ -11,9 +11,6 @@ date: "November 2024"
 subject: "Scratch Programmierung für Kinder und Jugnedliche"
 # keywords: [Markdown, ]
 
-mainfont: "DejaVu Sans"
-sansfont: "Liberation Sans"
-monofont: "DejaVu Sans Mono"
 emoji: "Noto Color Emoji"
 
 lang: "de"
