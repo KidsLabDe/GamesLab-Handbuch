@@ -85,12 +85,4 @@ Mach aus der Katze einen Filmstar!
 
 ---
 
-
-
-## Checkliste:
-
-- [ ] Du kannst deinem Mitschüler erklären, was sich wo im Arbeitsbereich befindet
-- [ ] Die Katze dreht sich fleißig im Kreis, wenn du die grüne Flagge klickst
-- [ ] Sie ist animiert, wenn man auf sie klickt
-- [ ] Du hast der Katze einen Bart, rote Augen oder Eselsohren gemalt 
-- [ ] Die Katze ist verschwunden! Und du hast sie wiedergefunden (außerhalb der Bühne)
+- [ ] 

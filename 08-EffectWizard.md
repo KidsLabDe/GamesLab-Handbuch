@@ -107,10 +107,6 @@ Als erstes wieder unsere Fabrik:
 
 
 
-### Challenge: Werde zum Effekt-Meister! 
-- [ ] Baue die Wolken in Dino-Runner ein
-- [ ] Mache eine Regenbogen-Power-Animation beim Laufen
-- [ ] Erstelle eine Siegertanz wenn 20 Kakteen geschafft sind!
 
 Mögen deine Effekte magisch sein! ✨🎮
 

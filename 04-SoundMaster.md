@@ -40,13 +40,6 @@ Obacht - es gibt 2 `spiele Klang`-Befehl:
 - [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
 ![alt text](scratch/ton-effekt.png)
 - [ ] Mache eine `wiederhole 10 mal` um den Ton-Effekt 
- # Checkliste
-
-- [ ] Einstein macht lustige geräusche
-- [ ] Sie ändern sich, wenn er wiele Mäuse gefressen hat
-- [ ] Die Töne sind total nervig und dein Lehrer hat gesagt "Um Gottes Willen, macht mal den Ton aus"  
-- [ ] Not-Aus-Knopf für den Lehrer eingebaut 😉
-
 ## NerdY Side Quests 🎮
 
 Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es:
