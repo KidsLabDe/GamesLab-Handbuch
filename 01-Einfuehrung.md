@@ -35,9 +35,27 @@ Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag 
 
 # Deine Zugangsdaten
 
-Username: 	_______________________________________
+### Deine Scratch-Zugangsdaten 🔑
 
-Passwort: 	____________________
+## NerdY Erkläromat: 
 
-NerdY Erkläromat: Ja, es ist **keine** gute Idee, Passwörter aufzuschreiben - nimm also nicht dein Passwort, das du sonst auch verwendest. 
+Im Normalfall solltest du Passwörter nie aufschreiben. Für deinen Scratch-Account machen wir eine Ausnahme, weil:
+
+- Dies ein Lern-Account ist
+- Du in Scratch keine persönlichen oder geheimen Sachen speicherst
+- Du ansonsten das Passwort vergisst und nicht weiter an deinem Spiel arbeite kannst! 
+
+**Daher diese wichtigen Regeln:**
+
+- Verwende hier ein eigenes, neues Passwort
+- Nutze NICHT dein Standard-Passwort von anderen Accounts
+
+Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentrieren, ohne dich um vergessene Zugangsdaten sorgen zu müssen! 🎮
+
+------
+
+**Meine Scratch-Zugangsdaten:**
+
+- Benutzername: _________________
+- Passwort: _________________
 

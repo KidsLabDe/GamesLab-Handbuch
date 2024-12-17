@@ -22,7 +22,9 @@
 
 ## 05 Cookie King
 
-
+- [ ] Klick-Feedback ist satisfying
+- [ ] Upgrades sind balanced
+- [ ] Spieler bleiben motiviert
 
 ## 06 Dino Runner
 

@@ -35,14 +35,15 @@ Obacht - es gibt 2 `spiele Klang`-Befehl:
 - Der `spiele Klang`-Befehl startet das Abspielen, aber das Programm läuft weiter.
 - Der `spiele Klang ... ganz` wartet an dies Stelle solange, bis der ganze Klang gespielt ist, erst dann läuft der rest des Programmes weiter.
 
- # NerdY-Side-Quests
+ # NerdY Side Quests 🎮
 
 - [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
 ![alt text](scratch/ton-effekt.png)
 - [ ] Mache eine `wiederhole 10 mal` um den Ton-Effekt 
-## NerdY Side Quests 🎮
+- [ ] Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es:
 
-Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es:
+  https://scratch.mit.edu/projects/537008383/
+## 
 
-https://scratch.mit.edu/projects/537008383/
+
 

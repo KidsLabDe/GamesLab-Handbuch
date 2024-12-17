@@ -44,33 +44,21 @@ Figuren einrichten:
 
 https://scratch.mit.edu/projects/1099494165
 
-### Profi-Tricks 🎓
-
-1. Smooth Movement
-   - Kleinere Schritte für flüssigere Bewegung
-   - Beschleunigung einbauen
-   - Prelle von Rand ab
-2. Cleverer Staubsauger
-   - Verschiedene Bewegungsmuster
-   - Geschwindigkeit erhöhen mit Zeit
-   - "Wütend" werden bei Punkten
-3. Power-Up System
-   - Verschiedene Power-Up Typen
-   - Zeitlich begrenzte Effekte
-   - Combo-System
-
-## Challenges  🎯
-
-- [ ] Füge einen Timer hinzu
-- [ ] Mache den Staubsauger schneller
 
 
-## Checkliste
+### NerdY Side Quests 🎮
 
-- [ ] Du kannst die Katze bewegen
-- [ ] Die Maus landet im Magen des Katers und verschwindet
-- [ ] Der Roboter ist viel zu schnell und du schaffst es trotzdem 5 Mäuse zu fressen
-- [ ] Die Katze verschwindet im Off und du kannst sie nicht mehr sehen, wie krieg ich die wieder her? 
+- Cleverer Staubsauger
+
+  - Verschiedene Bewegungsmuster
+
+  - Geschwindigkeit erhöhen mit Zeit
+
+  - "Wütend" werden bei Punkten
+
+- Füge einen Timer hinzu
+
+- Lass den Staubsauger immer schneller werden
 
 ## nerdY weiß:
-Die Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
+Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
