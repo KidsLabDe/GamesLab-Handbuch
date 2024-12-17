@@ -6,9 +6,9 @@
 
 Scratch ist wie ein digitaler Baukasten zum Programmieren. Du kannst damit ganz einfach eigene Spiele, Animationen und Geschichten erstellen - auch ohne Vorkenntnisse!
 
-> [!TIP]
-> ### NerdY Fun-Fact: 
-> Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen **500.000** neue Projekte dazu! Es gibt Scratches aus **jedem** Land unserer Welt.
+### NerdY Fun-Fact: 
+
+Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen **500.000** neue Projekte dazu! Es gibt Scratches aus **jedem** Land unserer Welt.
 
 ## So funktioniert's:
 
@@ -37,16 +37,16 @@ Scratch ist wie ein digitaler Baukasten zum Programmieren. Du kannst damit ganz 
 
 ### Deine Scratch-Zugangsdaten 🔑
 
-> [!NOTE]
-> ## NerdY Erkläromat: 
-> Im Normalfall solltest du Passwörter nie aufschreiben. Für deinen Scratch-Account machen wir eine Ausnahme, weil:
-> - Dies ein Lern-Account ist
-> - Du in Scratch keine persönlichen oder geheimen Sachen speicherst
-> - Du ansonsten das Passwort vergisst und nicht weiter an deinem Spiel arbeite kannst! 
-> **Daher diese wichtigen Regeln:**
-> - Verwende hier ein eigenes, neues Passwort
-> - Nutze NICHT dein Standard-Passwort von anderen Accounts
-
+:::: note
+### NerdY Erkläromat: 
+Im Normalfall solltest du Passwörter nie aufschreiben. Für deinen Scratch-Account machen wir eine Ausnahme, weil:
+- Dies ein Lern-Account ist
+- Du in Scratch keine persönlichen oder geheimen Sachen speicherst
+- Du ansonsten das Passwort vergisst und nicht weiter an deinem Spiel arbeite kannst! 
+**Daher diese wichtigen Regeln:**
+- Verwende hier ein eigenes, neues Passwort
+- Nutze NICHT dein Standard-Passwort von anderen Accounts
+::::
 Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentrieren, ohne dich um vergessene Zugangsdaten sorgen zu müssen! 🎮
 
 ------
@@ -56,4 +56,3 @@ Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentriere
 - Benutzername: _________________
 - Passwort: _________________
 
----

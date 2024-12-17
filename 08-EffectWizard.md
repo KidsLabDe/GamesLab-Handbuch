@@ -1,12 +1,11 @@
 # Effect Wizard ✨ [⭐⭐⭐⭐]
 Abrakadabra! Zaubere magische Effekte in dein Spiel und lass es in neuem Glanz erstrahlen.
 
-
-
-### NerdY Fun-Fact
-Die berühmten Partikeleffekte in Mario Kart entstanden ursprünglich durch einen Bug - die Entwickler fanden sie aber so cool, dass sie sie im Spiel gelassen haben! 🏎️✨
-
----
+> [!TIP]
+>
+> ### NerdY Fun-Fact
+>
+> Die berühmten Partikeleffekte in Mario Kart entstanden ursprünglich durch einen Bug - die Entwickler fanden sie aber so cool, dass sie sie im Spiel gelassen haben! 🏎️✨
 
 # Effekte-Spotlight: Paralax-Effekt!
 
@@ -25,7 +24,7 @@ Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Parala
 
 
 
-![alt text](bilder/paralax.png)
+![alt text](bilder/paralax.jpg)
 
 ### So gehts:
 

@@ -1,9 +1,9 @@
 
 # Katzen Freund 😺 [⭐]
 
-### NerdY Fun-Fact
-
-Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katzen auf der ganzen Welt haben seitdem einen neuen Erzfeind - oder ein neues Transportmittel! 🤖
+> [!TIP]
+> ### NerdY Fun-Fact
+> Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katzen auf der ganzen Welt haben seitdem einen neuen Erzfeind - oder ein neues Transportmittel! 🤖
 
 ### Was du hier lernst
 
@@ -15,8 +15,6 @@ Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katz
 ## Kater Einstein vs. Evil-Staubsauger
 
 Kater Einstein, das klügste Haustier der Stadt, muss vor einem durchgedrehten Saugroboter fliehen. Sammle Wollknäule für Extra-Power!
-
-
 
 ![03-Figuren](screenshots/03-Figuren.png)
 
@@ -34,31 +32,34 @@ Figuren einrichten:
 
 ### Für den Saugroboter:
 
-![03-Programm Maus](screenshots/03-ProgrammMaus.png)
+![03-Programm Sauger](screenshots/03-ProgrammSauger.png)
 
 ### Für die Quietsche-Maus:
 
-![03-Programm Sauger](screenshots/03-ProgrammSauger.png)
+![03-Programm Maus](screenshots/03-ProgrammMaus.png)
 
 ### und fertig:
 
 https://scratch.mit.edu/projects/1099494165
 
+> [!IMPORTANT]
+>
+> ### NerdY Side Quests 🎮
+>
+> - [ ] Cleverer Staubsauger
+>
+>   - Verschiedene Bewegungsmuster
+>
+>   - Geschwindigkeit erhöhen mit Zeit
+>
+>   - "Wütend" werden bei Punkten
+>
+> - [ ] Füge einen Timer hinzu
+>
+> - [ ] Lass den Staubsauger immer schneller werden
 
+> [!NOTE]
+> ## nerdY Erkläromat:
+> Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
 
-### NerdY Side Quests 🎮
-
-- Cleverer Staubsauger
-
-  - Verschiedene Bewegungsmuster
-
-  - Geschwindigkeit erhöhen mit Zeit
-
-  - "Wütend" werden bei Punkten
-
-- Füge einen Timer hinzu
-
-- Lass den Staubsauger immer schneller werden
-
-## nerdY weiß:
-Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
+---

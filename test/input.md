@@ -6,9 +6,9 @@
 
 Scratch ist wie ein digitaler Baukasten zum Programmieren. Du kannst damit ganz einfach eigene Spiele, Animationen und Geschichten erstellen - auch ohne Vorkenntnisse!
 
-> [!TIP]
-> ### NerdY Fun-Fact: 
-> Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen **500.000** neue Projekte dazu! Es gibt Scratches aus **jedem** Land unserer Welt.
+### NerdY Fun-Fact: 
+
+Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen **500.000** neue Projekte dazu! Es gibt Scratches aus **jedem** Land unserer Welt.
 
 ## So funktioniert's:
 
@@ -56,4 +56,3 @@ Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentriere
 - Benutzername: _________________
 - Passwort: _________________
 
----

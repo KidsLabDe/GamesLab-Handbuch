@@ -1,8 +1,12 @@
 # Movie Director 🎬 [⭐]
 
-### NerdY Fun-Fact
 
-Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß "Fantasmagorie". Er bestand aus über 700 einzelnen Zeichnungen, die nacheinander fotografiert wurden! 📽️
+
+
+
+> [!TIP]
+> ### NerdY Fun-Fact
+> Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß "Fantasmagorie". Er bestand aus über 700 einzelnen Zeichnungen, die nacheinander fotografiert wurden! 📽️
 
 ### Was du hier lernst
 
@@ -59,30 +63,34 @@ Und jetzt mach noch ein ganzes Programm draus!
 
 Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30> 
 
-### Profi-Tricks 🎓
+> [!NOTE]
+>
+> ### Nerdy-Erkläromat
+>
+> 1. Figuren schnell duplizieren
+>    - Rechtsklick auf Figur → Duplizieren
+>    - Spart Zeit beim Erstellen ähnlicher Figuren
+> 2. Kostüme clever nutzen
+>    - Kostüme für verschiedene Zustände
+>    - Animation durch Kostümwechsel
+>    - Kostüme aus der Bibliothek mixen
+> 3. Ordnung im Projekt
+>    - Figuren sinnvoll benennen
+>    - Blöcke kommentieren
+>    - Ähnliche Blöcke gruppieren
+>
+> 
 
-1. Figuren schnell duplizieren
-   - Rechtsklick auf Figur → Duplizieren
-   - Spart Zeit beim Erstellen ähnlicher Figuren
-2. Kostüme clever nutzen
-   - Kostüme für verschiedene Zustände
-   - Animation durch Kostümwechsel
-   - Kostüme aus der Bibliothek mixen
-3. Ordnung im Projekt
-   - Figuren sinnvoll benennen
-   - Blöcke kommentieren
-   - Ähnliche Blöcke gruppieren
 
-## Challenge 🎯
 
-Mach aus der Katze einen Filmstar!
+> [!IMPORTANT]
+> ## Nerdy-Side-Quest
+> Mach aus der Katze einen Filmstar!
+> - füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
+>   - ![alt text](scratch/click-block.png)
+>   - ![alt text](scratch/naechstes-kostuem.png)
+> - Klicke auf die Katze, was passiert?
 
-- füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
-  - ![alt text](scratch/click-block.png)
-  - ![alt text](scratch/naechstes-kostuem.png)
-- Klicke auf die Katze, was passiert?
-- Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
 
 ---
-
-- [ ] 

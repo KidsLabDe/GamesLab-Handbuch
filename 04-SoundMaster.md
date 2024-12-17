@@ -1,8 +1,9 @@
 # Sound Master 🎵 [⭐⭐]
 
-### NerdY Fun-Fact 🤓
-
-Wusstest du? Das "Jump"-Geräusch von Super Mario wurde 1985 erfunden, weil der Komponist keine Melodie mehr unterbringen konnte - heute ist es eines der bekanntesten Soundeffekte der Welt! 🎮
+> [!TIP]
+> ### NerdY Fun-Fact 🤓
+> Wusstest du? Das "Jump"-Geräusch von Super Mario wurde 1985 erfunden, weil der Komponist keine Melodie mehr unterbringen konnte - heute ist es eines der bekanntesten Soundeffekte der Welt! 🎮
+>
 
 ### Was du hier lernst
 
@@ -26,24 +27,19 @@ Deine Aufgaben:
   - Orientiere dich am Code des Staubsaugerroboters
   - `spiele Klang Miau` wenn er sich eine Maus schnappt.
 
-## NerdY Pannenhilfe 🚑 
+> [!WARNING]
+> ## NerdY Pannenhilfe 🚑 
+> Obacht - es gibt 2 `spiele Klang`-Befehl:
+> ![spiele-ganz](scratch/spiele-ganz.png)
+> - Der `spiele Klang`-Befehl startet das Abspielen, aber das Programm läuft weiter.
+> - Der `spiele Klang ... ganz` wartet an dies Stelle solange, bis der ganze Klang gespielt ist, erst dann läuft der rest des Programmes weiter.
 
-Obacht - es gibt 2 `spiele Klang`-Befehl:
+> [!IMPORTANT]
+>  # NerdY Side Quests 🎮
+> - [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
+>   ![alt text](scratch/ton-effekt.png)
+> - [ ] Mache eine `wiederhole 10 mal` um den Ton-Effekt 
+> - [ ] Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es:
+>   https://scratch.mit.edu/projects/537008383/
 
-![spiele-ganz](/Users/kingbbq/Library/CloudStorage/GoogleDrive-gregor@kidslab.de/Geteilte Ablagen/GamesLab/GamesLab-Handbuch/scratch/spiele-ganz.png)
-
-- Der `spiele Klang`-Befehl startet das Abspielen, aber das Programm läuft weiter.
-- Der `spiele Klang ... ganz` wartet an dies Stelle solange, bis der ganze Klang gespielt ist, erst dann läuft der rest des Programmes weiter.
-
- # NerdY Side Quests 🎮
-
-- [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
-![alt text](scratch/ton-effekt.png)
-- [ ] Mache eine `wiederhole 10 mal` um den Ton-Effekt 
-- [ ] Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es:
-
-  https://scratch.mit.edu/projects/537008383/
-## 
-
-
-
+---

@@ -1,3 +1,9 @@
+## 01 Einführung
+
+- [ ] Zugangsdaten aufgeschrieben 
+- [ ] Gecheckt, warum das nur manchmal ne gute Idee ist
+- [ ] Überlegt, ob ich schon mal Passwörter aufgeschrieben habe
+
 ## 02 Movie Director
 
 - [ ] Du kannst deinem Mitschüler erklären, was sich wo im Arbeitsbereich befindet

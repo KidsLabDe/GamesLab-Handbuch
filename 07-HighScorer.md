@@ -1,8 +1,12 @@
 # High-Score Master 🏆 [⭐⭐⭐]
 ## Für die Ewigkeit! Speichere die besten Leistungen
 
-### NerdY Fun-Fact
-Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸
+> [!TIP]
+>
+> ### NerdY Fun-Fact
+>
+> Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸
+>
 
 ### Was ein High-Score System können muss
 ```
@@ -151,3 +155,7 @@ Bonus = Grundwert * Level-Faktor
 ```
 
 Remember: Ein gutes Highscore-System motiviert die Spieler, immer wieder zu spielen und sich zu verbessern! 🎮
+
+
+---
+

@@ -1,8 +1,6 @@
 # Extension King 🧩 [⭐⭐⭐⭐]
 Power-Up! Nutze die geheimen Superkräfte von Scratch-Erweiterungen und TurboWarp.
 
-[comment]: soll auf 2 seiten passen. Also gerne kürzen!
-
 ## TurboWarp
 
 TurboWarp ist wie ein Power-Booster für deine Scratch-Projekte! Es ist eine spezielle Version von Scratch, die deine Spiele und Animationen bis zu 10x schneller macht. Das ist besonders cool, wenn du:
@@ -58,3 +56,5 @@ Geht leider nur mit dem Browser Google Chrome, such im Chrome-Extension-Store na
 ## PengiunMod
 
 PengiunMod ist ein aufgemotztes Scratch, es verbindet TurboWarp mit zusätzlichen Features: https://penguinmod.com/
+
+---

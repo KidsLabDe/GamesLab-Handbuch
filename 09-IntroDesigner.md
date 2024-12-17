@@ -1,11 +1,14 @@
 # Intro Designer 🎬 [⭐⭐⭐⭐]
 Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Game-Over-Screen.
 
-# 09 Intro Designer
 ## Der erste Eindruck zählt!
 
-### NerdY Fun-Fact
-Wusstest du? Das berühmte Nintendo "Ba-Ding" Sound-Logo wurde 1983 von Koji Kondo komponiert - dem gleichen Komponisten, der auch die Super Mario und Zelda Musik geschrieben hat!
+> [!TIP]
+>
+> ### NerdY Fun-Fact
+>
+> Wusstest du? Das berühmte Nintendo "Ba-Ding" Sound-Logo wurde 1983 von Koji Kondo komponiert - dem gleichen Komponisten, der auch die Super Mario und Zelda Musik geschrieben hat!
+>
 
 ### Was du hier lernst
 - Ein packendes Intro für dein Spiel erstellen
@@ -131,3 +134,5 @@ Erstelle ein Intro mit:
 - Experimentiere mit 3D-Effekten
 
 Viel Spaß beim Designen deines Intros! 🎮✨
+
+---
