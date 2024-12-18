@@ -331,7 +331,9 @@
 </CharacterStyleRange>}
 {
 \hypersetup{linkcolor=}
-\setcounter{tocdepth}{}
+\setcounter{tocdepth}{<CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+  <Content>2</Content>
+</CharacterStyleRange>}
 \tableofcontents
 \newpage
 }
@@ -344,8 +346,8 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#um-was-geht-es-hier" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Um was geht es hier?</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#deine-reise-ins-spieleentwickeln" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Deine Reise ins Spieleentwickeln</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -357,25 +359,58 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Willkommen im GamesLab Handbuch! Hier geht es darum, </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>wie du selbst Spiele entwickeln kannst</Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> – und zwar mit Scratch, einer coolen Programmiersprache, die speziell für Einsteiger gemacht ist. In diesem Handbuch lernst du alles, was du brauchst, um eigene Spiele zu programmieren, Effekte einzubauen und deine Ideen zum Leben zu erwecken. Egal ob du ein einfaches Klick-Spiel oder ein cooles Jump’n’Run machen willst, hier findest du die richtigen Tutorials und jede Menge Tipps, damit dein Projekt ein echter Erfolg wird.</Content>
+    <Content>Willkommen im GamesLab Handbuch! Hast du schon mal davon geträumt, dein eigenes Spiel zu entwickeln? Hier lernst du, wie das geht – mit Scratch, einer coolen Plattform, die Programmieren super einfach macht. Scratch funktioniert wie ein Baukasten: Du kombinierst Blöcke und bringst Figuren in Bewegung, für deine ganz eigenen Spiele, Animationen oder Geschichten.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Was dich erwartet:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first" NumberingContinue="false">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Dein erstes Spiel:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Wir starten mit einfachen Klick-Spielen und arbeiten uns zu spannenden Jump‘n‘Runs vor.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Tolle Effekte:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Von coolen Animationen bis hin zu Sounds und Partikel-Effekten.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Schritt-für-Schritt-Anleitungen:</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> Du wirst sehen, wie einfach es ist, deine Ideen in die Tat umzusetzen.</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Egal ob du schon Erfahrung hast oder ganz neu bist – hier wirst du zum Spiele-Entwickler!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Lass uns loslegen und gemeinsam richtig tolle Spiele bauen!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Gregor, Regine, Irmel, MatzE, Daniel … und alle anderen Mentorinnen und Mentoren</Content>
+    <Content>Gregor, Regine, Irmel, MatzE, Daniel, Johannes… und alle anderen Mentorinnen und Mentoren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -413,10 +448,22 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#einführung" Name="Destination" DestinationUniqueKey="1" />
-    <Content>01 Einführung</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#achievements" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Achievements</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wenn du das Handbuch durcharbeitest, kannst Du hier alles abchecken, was du schon geschafft hast!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 1 Einführung</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -438,10 +485,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#movie-director" Name="Destination" DestinationUniqueKey="1" />
-    <Content>02 Movie Director</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 2 Movie Director</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -475,10 +521,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#katzenfreund" Name="Destination" DestinationUniqueKey="1" />
-    <Content>03 Katzenfreund</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 3 Katzenfreund</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -506,10 +551,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#sound-master" Name="Destination" DestinationUniqueKey="1" />
-    <Content>04 Sound Master</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 4 Sound Master</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -543,10 +587,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#cookie-king" Name="Destination" DestinationUniqueKey="1" />
-    <Content>05 Cookie King</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 5 Cookie King</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -568,10 +611,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#dino-runner" Name="Destination" DestinationUniqueKey="1" />
-    <Content>06 Dino Runner</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 6 Dino Runner</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -617,10 +659,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#highscorer" Name="Destination" DestinationUniqueKey="1" />
-    <Content>07 HighScorer</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 7 HighScorer</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -654,10 +695,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#effect-wizard" Name="Destination" DestinationUniqueKey="1" />
-    <Content>08 Effect Wizard</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 8 Effect Wizard</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -685,10 +725,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#intro-designer" Name="Destination" DestinationUniqueKey="1" />
-    <Content>09 Intro Designer</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 9 Intro Designer</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -716,10 +755,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#extension-king" Name="Destination" DestinationUniqueKey="1" />
-    <Content>10 Extension King</Content>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <Content>Level 10 Extension King</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -769,7 +807,7 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact" Name="Destination" DestinationUniqueKey="1" />
-    <Content>NerdY Fun-Fact:</Content>
+    <Content>NerdY Fun-Fact</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -794,7 +832,7 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#so-funktionierts" Name="Destination" DestinationUniqueKey="1" />
-    <Content>So funktioniert’s:</Content>
+    <Content>So funktioniert’s</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -825,7 +863,7 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#das-kannst-du-damit-machen" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Das kannst du damit machen:</Content>
+    <Content>Das kannst du damit machen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -861,14 +899,22 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#das-beste-daran" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Das Beste daran:</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#das-beste-an-scratch" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Das Beste an Scratch</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Scratch ist komplett kostenlos</Content>
+    <Content>Scratch ist komplett kostenlos und du kannst es unter </Content>
+  </CharacterStyleRange>
+  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+      <Content>scratch.mit.edu</Content>
+    </CharacterStyleRange>
+  </HyperlinkTextSource>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> kostenlos nutzen.</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -955,7 +1001,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#movie-director-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#movie-director" Name="Destination" DestinationUniqueKey="1" />
     <Content>Movie Director 🎬 [⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -1139,7 +1185,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Die Blöcke sind nach Farben sortiert:</Content>
+    <Content>Die Blöcke sind nach Farben sortiert, so findest du sie leichter:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1216,7 +1262,13 @@
     <Content>Ziehe einen blauen </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>“gehe 10er-Schritt”</Content>
+    <Content>“</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>gehe 10er-Schritt</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>-Block in den Programmierbereich</Content>
@@ -1458,13 +1510,13 @@
     </Rectangle>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> - Klicke auf die Katze, was passiert? ::: Wechsle im Arbeitsbereich auf </Content>
+    <Content> - Klicke auf die Katze, was passiert? - Wechsle im Arbeitsbereich auf </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>Kostüme</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> und male etwas auf der Katze rum</Content>
+    <Content> und male etwas auf der Katze rum ::: ::: ::: ::: ::: —</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1566,8 +1618,9 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#so-programmierst-du-es" Name="Destination" DestinationUniqueKey="1" />
     <Content>So programmierst du es:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -1721,19 +1774,6 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#und-fertig" Name="Destination" DestinationUniqueKey="1" />
-    <Content>und fertig:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>https://scratch.mit.edu/projects/1099494165</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-side-quests" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Side Quests 🎮</Content>
   </CharacterStyleRange>
@@ -1791,9 +1831,28 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#und-fertig" Name="Destination" DestinationUniqueKey="1" />
+    <Content>..und fertig:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Das fertige Projekt und mehr Beispiele und erklärungen findest du hier:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>https://pad.kidslab.de/p/GamesLab-Katzenfreund (QR Code)</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#sound-master-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#sound-master" Name="Destination" DestinationUniqueKey="1" />
     <Content>Sound Master 🎵 [⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -1995,7 +2054,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!IMPORTANT] # NerdY Side Quests 🎮 - [ ] Füge den Block </Content>
+    <Content>[!IMPORTANT] ### NerdY Side Quests 🎮 - [ ] Füge den Block </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>ändere Effekt</Content>
@@ -2041,7 +2100,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#cookie-king-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#cookie-king" Name="Destination" DestinationUniqueKey="1" />
     <Content>Cookie King 🍪 [⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -2050,6 +2109,12 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#mmh-kekse" Name="Destination" DestinationUniqueKey="1" />
     <Content>Mmh, Kekse!</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wer kann dem Duft von frisch gebackenen Keksen widerstehen? Und auch der Cookie-Clicker erfreut sich großer Beliebtheit. Wie den Keksen gehts auch bei Spielen um das ganze Erlebnis: Riechen, Sehen, Schmecken!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2066,7 +2131,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#was-du-hier-lernst-3" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was du hier lernst 🎯</Content>
@@ -2158,7 +2223,7 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#die-variablen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Die Variablen!</Content>
@@ -2196,16 +2261,10 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>::: ::: ##</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#und-so-zählt-dein-cookie-hoch" Name="Destination" DestinationUniqueKey="1" />
-    <Content>.. und so zählt dein Cookie hoch:</Content>
+    <Content>.. und so zählt dein Cookie hoch</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2285,7 +2344,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#das-upgrade-system" Name="Destination" DestinationUniqueKey="1" />
     <Content>Das Upgrade-System</Content>
@@ -2468,7 +2527,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#dino-runner-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#dino-runner" Name="Destination" DestinationUniqueKey="1" />
     <Content>Dino Runner 🦖 [⭐⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -2498,7 +2557,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#was-du-hier-lernst-4" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was du hier lernst 🎯</Content>
@@ -2606,7 +2665,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#hintergrund-und-hauptfigur" Name="Destination" DestinationUniqueKey="1" />
     <Content>1. Hintergrund und Hauptfigur</Content>
@@ -2655,7 +2714,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#wie-bringt-man-einem-pixel-dino-das-hüpfen-bei" Name="Destination" DestinationUniqueKey="1" />
     <Content>2. Wie bringt man einem Pixel-Dino das Hüpfen bei?</Content>
@@ -2696,7 +2755,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#sprungkraft" Name="Destination" DestinationUniqueKey="1" />
     <Content>Sprungkraft!</Content>
@@ -2757,7 +2816,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#boden-bewege-dich" Name="Destination" DestinationUniqueKey="1" />
     <Content>3. Boden, bewege dich!</Content>
@@ -2831,7 +2890,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#kaktus-kommt" Name="Destination" DestinationUniqueKey="1" />
     <Content>4. Kaktus kommt!</Content>
@@ -2880,7 +2939,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#game-over" Name="Destination" DestinationUniqueKey="1" />
     <Content>5. Game Over!</Content>
@@ -2899,7 +2958,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#das-war-jetzt-aber-sehr-schnell" Name="Destination" DestinationUniqueKey="1" />
     <Content>… das war jetzt aber sehr schnell!</Content>
@@ -2914,19 +2973,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>https://pad.kidslab.de/GamesLab-Dino (QR Code)</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Das fertige Spiel findest du hier:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>https://scratch.mit.edu/projects/1102220876/</Content>
+    <Content>https://pad.kidslab.de/p/GamesLab-Dino (QR Code)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2937,7 +2984,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#für-die-ewigkeit-speichere-die-besten-leistungen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Für die Ewigkeit! Speichere die besten Leistungen</Content>
@@ -2957,7 +3004,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#was-du-hier-lernst-5" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was du hier lernst 🎯</Content>
@@ -2994,14 +3041,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#teil-1-die-basics" Name="Destination" DestinationUniqueKey="1" />
     <Content>Teil 1: Die Basics</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#punkte-sammeln" Name="Destination" DestinationUniqueKey="1" />
     <Content>Punkte sammeln</Content>
@@ -3047,7 +3094,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#punkte-abspeichern" Name="Destination" DestinationUniqueKey="1" />
     <Content>Punkte abspeichern</Content>
@@ -3103,7 +3150,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#teil-2-pimp-my-highscore" Name="Destination" DestinationUniqueKey="1" />
     <Content>Teil 2: Pimp my Highscore!</Content>
@@ -3142,7 +3189,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#effect-wizard-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#effect-wizard" Name="Destination" DestinationUniqueKey="1" />
     <Content>Effect Wizard ✨ [⭐⭐⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -3166,7 +3213,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#was-du-hier-lernst-6" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was du hier lernst 🎯</Content>
@@ -3197,7 +3244,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#effekte-spotlight-paralax-effekt" Name="Destination" DestinationUniqueKey="1" />
     <Content>Effekte-Spotlight: Paralax-Effekt!</Content>
@@ -3210,7 +3257,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#wie-funktioniert-das" Name="Destination" DestinationUniqueKey="1" />
     <Content>Wie funktioniert das?</Content>
@@ -3272,7 +3319,7 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content> </Content>
   </CharacterStyleRange>
-  <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
   </HyperlinkTextSource>
 </ParagraphStyleRange>
 <Br />
@@ -3285,7 +3332,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#regenbogen-power" Name="Destination" DestinationUniqueKey="1" />
     <Content>Regenbogen-Power 🌈</Content>
@@ -3319,7 +3366,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#sparkle-lass-die-funken-fliegen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Sparkle! Lass die Funken fliegen!</Content>
@@ -3344,7 +3391,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#die-klon-muddi" Name="Destination" DestinationUniqueKey="1" />
     <Content>Die Klon-Muddi</Content>
@@ -3378,7 +3425,7 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#und-die-kids" Name="Destination" DestinationUniqueKey="1" />
     <Content>… und die Kids!</Content>
@@ -3439,19 +3486,22 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Schlau-Nerdy erklärt:</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-was-sind-lokale-und-globale-variablen" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Nerdy Erkläromat:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-was-sind-lokale-und-globale-variablen" Name="Destination" DestinationUniqueKey="1" />
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-was-sind-lokale-und-globale-variablen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was sind lokale und globale Variablen?</Content>
   </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Sind das vielleich Variablen aus deiner Region, die dann extra frisch? Weit gefehlt!</Content>
   </CharacterStyleRange>
@@ -3514,13 +3564,13 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Weitere Effekte und wie sie funktionieren findest du hier: ## QR Code: https://pad.kidslab.de/GamesLab-Effekte#</Content>
+    <Content>Weitere Effekte und wie sie funktionieren findest du hier: QR Code: https://pad.kidslab.de/p/GamesLab-Effekte#</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#intro-designer-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#intro-designer" Name="Destination" DestinationUniqueKey="1" />
     <Content>Intro Designer 🎬 [⭐⭐⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -3618,13 +3668,19 @@
     <Content>“verdrahten”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>. Das heißt, wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt </Content>
+    <Content>. Wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Game Over”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> ist. Mit den Nachrichten können die Figuren sozusagen Gedankenübertragen: | </Content>
+    <Content> ist. Mit den </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
+    <Content>Nachrichten</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> können die Figuren sozusagen Gedankenübertragen: | </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 163.13287 -107.74825">
@@ -3712,14 +3768,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#teil-1-das-intro" Name="Destination" DestinationUniqueKey="1" />
     <Content>Teil 1: Das Intro</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#so-fesselst-du-deine-spieler-von-anfang-an" Name="Destination" DestinationUniqueKey="1" />
     <Content>So fesselst du deine Spieler von Anfang an</Content>
@@ -3744,14 +3800,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#teil-2-game-over-mit-stil" Name="Destination" DestinationUniqueKey="1" />
     <Content>Teil 2: Game Over mit Stil</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header4">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#aus-spielende-mach-spielerlebnis" Name="Destination" DestinationUniqueKey="1" />
     <Content>Aus Spielende mach Spielerlebnis</Content>
@@ -3823,7 +3879,7 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#extension-king-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#extension-king" Name="Destination" DestinationUniqueKey="1" />
     <Content>Extension King 🧩 [⭐⭐⭐⭐]</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -3834,7 +3890,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-facts-1" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Fun-Facts 💡🤓</Content>
@@ -3847,7 +3903,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#was-du-hier-lernst-8" Name="Destination" DestinationUniqueKey="1" />
     <Content>Was du hier lernst 🎯</Content>
@@ -4014,14 +4070,14 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#pengiunmod" Name="Destination" DestinationUniqueKey="1" />
-    <Content>PengiunMod</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#pengiunmod-httpspenguinmod.com" Name="Destination" DestinationUniqueKey="1" />
+    <Content>PengiunMod (https://penguinmod.com/)</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>PengiunMod ist ein aufgemotztes Scratch, es verbindet TurboWarp mit zusätzlichen Features: https://penguinmod.com/</Content>
+    <Content>PengiunMod ist ein aufgemotztes Scratch, es verbindet TurboWarp mit zusätzlichen Features!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -4038,16 +4094,17 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
-  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#mein-spiel" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Mein Spiel 🎮</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#spielinformationen" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#mein-spiel-spielinformationen" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Mein Spiel 🎮</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#mein-spiel-spielinformationen" Name="Destination" DestinationUniqueKey="1" />
+    <Content> </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#mein-spiel-spielinformationen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Spielinformationen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
@@ -4416,10 +4473,10 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#dann-nichts-wie-los" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Dann nichts wie los</Content>
+    <Content>Dann nichts wie los:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -4819,8 +4876,8 @@
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#oder-nutze-den-telefon-joker" Name="Destination" DestinationUniqueKey="1" />
-    <Content>Oder: Nutze den Telefon-Joker!</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nutze-den-telefon-joker" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Nutze den Telefon-Joker!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />

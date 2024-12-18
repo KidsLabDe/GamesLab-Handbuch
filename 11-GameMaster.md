@@ -1,9 +1,7 @@
 # Game Master 🎮 [⭐⭐⭐⭐⭐]
 Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist jetzt ein echter Game Developer!
 
-# **Mein Spiel 🎮**
-
-## **Spielinformationen**
+## **Mein Spiel 🎮** **Spielinformationen**
 
 **Name deines Spiels:** 
 
@@ -141,7 +139,7 @@ Reiche dein Spiel beim GamesPreis ein und gewinne mega krasse Preise!
   - Kontaktinformationen angegeben?
 
 
-# Dann nichts wie los
+### Dann nichts wie los:
 https://kidslab.de/gamespreis/ (QR Code)
 
 ---

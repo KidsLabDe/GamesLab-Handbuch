@@ -6,6 +6,7 @@ logo-width: 100mm
 toc: true
 toc-title: "Übersicht"
 toc-own-page: true
+toc-depth: 2
 author: KidsLab.de gGmbH
 date: "November 2024"
 subject: "Scratch Programmierung für Kinder und Jugnedliche"

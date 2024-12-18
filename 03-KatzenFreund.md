@@ -18,7 +18,7 @@ Kater Einstein, das klügste Haustier der Stadt, muss vor einem durchgedrehten S
 
 ![03-Figuren](screenshots/03-Figuren.png)
 
-So programmierst du es:
+### So programmierst du es:
 
 Figuren einrichten:
 
@@ -38,10 +38,6 @@ Figuren einrichten:
 
 ![03-Programm Maus](screenshots/03-ProgrammMaus.png)
 
-### und fertig:
-
-https://scratch.mit.edu/projects/1099494165
-
 > [!IMPORTANT]
 >
 > ### NerdY Side Quests 🎮
@@ -59,7 +55,15 @@ https://scratch.mit.edu/projects/1099494165
 > - [ ] Lass den Staubsauger immer schneller werden
 
 > [!NOTE]
-> ## nerdY Erkläromat:
+> ### nerdY Erkläromat:
 > Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!
+
+### ..und fertig:
+
+Das fertige Projekt und mehr Beispiele und erklärungen findest du hier:
+
+https://pad.kidslab.de/p/GamesLab-Katzenfreund (QR Code)
+
+
 
 ---

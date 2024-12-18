@@ -22,25 +22,25 @@ Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Ga
 >
 > ### Nerdy-Erkläromat: Nachrichten senden und empfangen
 >
-> Für das Intro, Game-Over etc. müssen wir die einzelnen Figuren im Scratch miteinander "verdrahten". Das heißt, wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt "Game Over" ist.
+> Für das Intro, Game-Over etc. müssen wir die einzelnen Figuren im Scratch miteinander "verdrahten". Wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt "Game Over" ist.
 >
-> Mit den Nachrichten können die Figuren sozusagen Gedankenübertragen:
+> Mit den `Nachrichten` können die Figuren sozusagen Gedankenübertragen:
 >
 > | ![09-nachricht-senden](screenshots/09-nachricht-senden.png) | ![09-nachrichten](screenshots/09-nachrichten.png) | ![09-nachricht-empfangen](screenshots/09-nachricht-empfangen.png) |
 >| ----------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
 > 
 > Das nutzen wir auch, um den Figuren unseres Spiel mitzuteilen, dass jetzt Zeit für ihren Auftritt ist. Oder eben Schluss: Game Over!
 
-### Teil 1: Das Intro
-#### So fesselst du deine Spieler von Anfang an
+## Teil 1: Das Intro
+### So fesselst du deine Spieler von Anfang an
 
 **Der große Auftritt: Titel-Animation**
 
 - Trick: Lass deinen Spieltitel nicht einfach erscheinen - bring ihn in Bewegung!
 - Arbeite mit Farb- und Größenänderungen
 
-### Teil 2: Game Over mit Stil
-#### Aus Spielende mach Spielerlebnis
+## Teil 2: Game Over mit Stil
+### Aus Spielende mach Spielerlebnis
 
 1. **Der dramatische Abgang**
    - Zeitlupe-Effekt beim letzten Leben

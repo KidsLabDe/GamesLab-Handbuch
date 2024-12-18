@@ -35,7 +35,7 @@
 ## Die Blöcke
 
 - Links in der Mitte findest du alle Befehlsblöcke
-- Die Blöcke sind nach Farben sortiert:
+- Die Blöcke sind nach Farben sortiert, so findest du sie leichter:
   - Blaue Blöcke für Bewegung
   - Violette Blöcke für Aussehen
   - Gelbe Blöcke für Events (was wann passieren soll)
@@ -51,7 +51,7 @@
 ## Leg los: lass die Katze laufen!
 
 1. Klicke auf die Scratch-Katze
-2. Ziehe einen blauen "gehe 10er-Schritt"-Block in den Programmierbereich
+2. Ziehe einen blauen "`gehe 10er-Schritt`"-Block in den Programmierbereich
 3. Klicke auf den Block
 4. Die Katze bewegt sich!
 
@@ -90,7 +90,10 @@ Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30>
 >   - ![alt text](scratch/click-block.png)
 >   - ![alt text](scratch/naechstes-kostuem.png)
 > - Klicke auf die Katze, was passiert?
+> - Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
 
-Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+
+
+
 
 ---

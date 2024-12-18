@@ -52,7 +52,7 @@ Remember: Jeder Programmierer macht Fehler - das Geheimnis ist, sie zu finden! ð
 
 
 
-# Oder: Nutze den Telefon-Joker!
+# Nutze den Telefon-Joker!
 
 Alles ausprobiert, aber geht immer nich nicht?
 

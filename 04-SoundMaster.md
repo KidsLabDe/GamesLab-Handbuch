@@ -28,14 +28,14 @@ Deine Aufgaben:
   - `spiele Klang Miau` wenn er sich eine Maus schnappt.
 
 > [!WARNING]
-> ## NerdY Pannenhilfe 🚑 
+> ### NerdY Pannenhilfe 🚑 
 > Obacht - es gibt 2 `spiele Klang`-Befehl:
 > ![spiele-ganz](scratch/spiele-ganz.png)
 > - Der `spiele Klang`-Befehl startet das Abspielen, aber das Programm läuft weiter.
 > - Der `spiele Klang ... ganz` wartet an dies Stelle solange, bis der ganze Klang gespielt ist, erst dann läuft der rest des Programmes weiter.
 
 > [!IMPORTANT]
->  # NerdY Side Quests 🎮
+>  ### NerdY Side Quests 🎮
 > - [ ] Füge den Block `ändere Effekt` hinzu, wenn man auf Einstein klickt. Was passiert? Klicke ganz oft drauf!
 >   ![alt text](scratch/ton-effekt.png)
 > - [ ] Mache eine `wiederhole 10 mal` um den Ton-Effekt 

@@ -3,12 +3,12 @@ SPRING! Programmiere den Klassiker nach und lass deinen Dino über alle Hinderni
 
 > [!TIP]
 >
-> ## nerdY Fun Facts:
+> ### nerdY Fun Facts:
 >
 > Der Chrome Dino wurde 2014 von einem Chrome-Entwickler als Zeitvertreib entwickelt - aber er hat sich so einen Kult-Status erarbeitet. Du kannst das Spiel im Chrome Browser spielen, wenn du keine Internetverbindung hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: `chrome://dino `
 > Warum kommt da ein T-Rex-Dino, wenn man kein Internet hat? Weil man dann informationstechnisch in Prähistorischen-Zeiten ist!
 
-## Was du hier lernst 🎯
+### Was du hier lernst 🎯
 
 - Ein endlos laufendes Jump'n'Run entwickeln
 - Mit Clone-Objekten arbeiten
@@ -27,7 +27,7 @@ Am Anfang ist es immer gut, sich einen Plan zu machen: ob es ein StoryBoard für
 
 ![DinoRunner-start-plan](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/DinoRunner-start-plan.png)
 
-## 1. Hintergrund und Hauptfigur
+### 1. Hintergrund und Hauptfigur
 
 - Hauptfigur ist bei mir die Katze - du kannst natürlich jede beliebiege Figur nehmen!
 - Der Boden ist auch eine Figur, so erstellst du ihn:
@@ -36,11 +36,11 @@ Am Anfang ist es immer gut, sich einen Plan zu machen: ob es ein StoryBoard für
   - gleichmäßig - waagerechte linien
   - keine Steine oder so - das kommt im nächsten Schritt
 
-## 2. Wie bringt man einem Pixel-Dino das Hüpfen bei?
+### 2. Wie bringt man einem Pixel-Dino das Hüpfen bei?
 
 ![Huepfen-beschriftet](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/Huepfen-beschriftet.png)
 
-### Sprungkraft!
+#### Sprungkraft!
 
 - Wir verwenden eine Variable namens "Sprungkraft" - das bestimmt, wie schnell die Katze nach oben fliegt
 - Wenn die Katze los springt, hat sie erst mal volle "Sprungkraft": sie bewegt sicht mit 10 Punkten nach oben.
@@ -48,7 +48,7 @@ Am Anfang ist es immer gut, sich einen Plan zu machen: ob es ein StoryBoard für
 - Irgendwann wird die Sprungkraft "negativ" - dann fliegt die Katze wieder runter
 - Sobald sie den Boden berührt, ist schluss mit Fliegen und wir setzen die Sprungkraft wieder auf 0
 
-## 3. Boden, bewege dich!
+### 3. Boden, bewege dich!
 
 Wir machen jetzt einen Trick, statt den Boden zu Bewegen, machen wir Steine, die sich  auf der Bühne bewegen - dann siehts so aus, als ob sich alles bewegt.
 
@@ -79,7 +79,7 @@ So gehts:
 >
 > Mit Klonen sparst du dir viel Arbeit, da du nicht jedes Element einzeln erstellen musst. Sie sind perfekt für sich wiederholende Spielelemente: beim Dino-Runner sind das die Kakteen und Steine...
 
-# 4. Kaktus kommt!
+### 4. Kaktus kommt!
 
 Jetzt fehlt für die erste Version des Spiels nur noch ein Kaktus, der Gegner für unseren Dino!
 
@@ -91,23 +91,17 @@ So gehts:
 2. Kostüm anpassen - male den Katkus!
 3. Position und Größe anpassen.
 
-# 5. Game Over!
+### 5. Game Over!
 
 Die Katze soll schauen, ob sie den Kaktus berührt… wenn ja: `Game Over`!
 
 
 
-# ... das war jetzt aber sehr schnell!
+## ... das war jetzt aber sehr schnell!
 
 Kein Problem - hier noch mal alles in langsam, schritt für schritt:
 
-https://pad.kidslab.de/GamesLab-Dino (QR Code)
-
-Das fertige Spiel findest du hier:
-
-https://scratch.mit.edu/projects/1102220876/ 
-
-
+https://pad.kidslab.de/p/GamesLab-Dino (QR Code)
 
 ---
 

@@ -1,5 +1,5 @@
 # High-Score Master 🏆 [⭐⭐⭐]
-## Für die Ewigkeit! Speichere die besten Leistungen
+### Für die Ewigkeit! Speichere die besten Leistungen
 
 > [!TIP]
 >
@@ -7,7 +7,7 @@
 >
 > Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸
 
-## Was du hier lernst 🎯
+### Was du hier lernst 🎯
 
 - Ein Highscore-System entwickeln
 - Mit Cloud-Variablen arbeiten
@@ -15,9 +15,9 @@
 - Eine Bestenliste programmieren
 - Mit dem Scratch Community-System interagieren
 
-### Teil 1: Die Basics
+## Teil 1: Die Basics
 
-#### Punkte sammeln
+### Punkte sammeln
 
 Puntke haben wir bis her ja auch schon gesammelt - dafür nimmst du eine Variable!
 
@@ -27,7 +27,7 @@ Puntke haben wir bis her ja auch schon gesammelt - dafür nimmst du eine Variabl
 - Wenn die Katze den leckeren `Tako` berührt...
 - ... dann `ändere Punkte um 1`
 
-#### Punkte abspeichern
+### Punkte abspeichern
 
 Jedesmal, wenn du dein Spiel neu lädst, sind ja alle Variablen zurückgesetzt. Zum Speichern gibt es eine erweiterte Variablen-Art, die `Cloud-Variable`. 
 
@@ -53,7 +53,7 @@ Einfach prüfen, ob der aktuelle Punktestand größer ist, als der Highscore - w
 >
 > Warum? Mit Cloud-Variablen kann man Blödsinn anstellen. Mehr Infos findest du hier: https://de.scratch-wiki.info/wiki/R%C3%A4nge
 
-### Teil 2: Pimp my Highscore!
+## Teil 2: Pimp my Highscore!
 
 Aber da geht noch mehr:
 

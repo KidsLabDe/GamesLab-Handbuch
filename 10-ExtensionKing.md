@@ -3,11 +3,11 @@ Bereit für die geheimen Superkräfte von Scratch? Mit TurboWarp, Erweiterungen 
 
 > [!TIP]
 >
-> # NerdY Fun-Facts 💡🤓
+> ### NerdY Fun-Facts 💡🤓
 >
 > Wusstest du? Der TurboWarp Compiler wurde von einem Teenager entwickelt, der Scratch schneller machen wollte - heute nutzen Millionen von Scratchern seine Erfindung!
 
-## Was du hier lernst 🎯
+### Was du hier lernst 🎯
 
 - Scratch mit TurboWarp beschleunigen
 - Coole Erweiterungen nutzen
@@ -47,8 +47,8 @@ Die "Blocklive" Extension ist ein cooles Tool für Teamarbeit in Scratch!
 
 Installation und Infos: https://pad.kidslab.de/p/GamesLab-LiveScratch (QR code)
 
-## PengiunMod
+## PengiunMod (https://penguinmod.com/)
 
-PengiunMod ist ein aufgemotztes Scratch, es verbindet TurboWarp mit zusätzlichen Features: https://penguinmod.com/
+PengiunMod ist ein aufgemotztes Scratch, es verbindet TurboWarp mit zusätzlichen Features!
 
 ---

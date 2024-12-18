@@ -1,14 +1,22 @@
 # Willkommen im GamesLab
 
-## Um was geht es hier?
+## Deine Reise ins Spieleentwickeln
 
-Hey! 
+Hey!
 
-Willkommen im GamesLab Handbuch! Hier geht es darum, **wie du selbst Spiele entwickeln kannst** – und zwar mit Scratch, einer coolen Programmiersprache, die speziell für Einsteiger gemacht ist. In diesem Handbuch lernst du alles, was du brauchst, um eigene Spiele zu programmieren, Effekte einzubauen und deine Ideen zum Leben zu erwecken. Egal ob du ein einfaches Klick-Spiel oder ein cooles Jump’n’Run machen willst, hier findest du die richtigen Tutorials und jede Menge Tipps, damit dein Projekt ein echter Erfolg wird. 
+Willkommen im GamesLab Handbuch! Hast du schon mal davon geträumt, dein eigenes Spiel zu entwickeln? Hier lernst du, wie das geht – mit Scratch, einer coolen Plattform, die Programmieren super einfach macht. Scratch funktioniert wie ein Baukasten: Du kombinierst Blöcke und bringst Figuren in Bewegung, für deine ganz eigenen Spiele, Animationen oder Geschichten.
 
-*Lass uns loslegen und gemeinsam richtig tolle Spiele bauen!*
+**Was dich erwartet:**
 
-Gregor, Regine, Irmel, MatzE, Daniel ... und alle anderen Mentorinnen und Mentoren 
+- **Dein erstes Spiel:** Wir starten mit einfachen Klick-Spielen und arbeiten uns zu spannenden Jump‘n‘Runs vor.
+- **Tolle Effekte:** Von coolen Animationen bis hin zu Sounds und Partikel-Effekten.
+- **Schritt-für-Schritt-Anleitungen:** Du wirst sehen, wie einfach es ist, deine Ideen in die Tat umzusetzen.
+
+Egal ob du schon Erfahrung hast oder ganz neu bist – hier wirst du zum Spiele-Entwickler!
+
+**Lass uns loslegen und gemeinsam richtig tolle Spiele bauen!**
+
+Gregor, Regine, Irmel, MatzE, Daniel, Johannes... und alle anderen Mentorinnen und Mentoren 
 
 ![Mentoren](bilder/Mentoren.jpg)
 

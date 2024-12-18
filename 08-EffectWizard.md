@@ -7,18 +7,18 @@ Abrakadabra! Zaubere magische Effekte in dein Spiel und lass es in neuem Glanz e
 >
 > Die berühmten Partikeleffekte in Mario Kart entstanden ursprünglich durch einen Bug - die Entwickler fanden sie aber so cool, dass sie sie im Spiel gelassen haben! 🏎️✨
 
-## Was du hier lernst 🎯
+### Was du hier lernst 🎯
 
 - Visuelle Effekte in deine Spiele einbauen
 - Partikel-Systeme mit Klonen erstellen
 - Mit Bewegungs- und Grafikeffekten arbeiten
 - Animationen und Übergänge programmieren
 
-# Effekte-Spotlight: Paralax-Effekt!
+## Effekte-Spotlight: Paralax-Effekt!
 
 Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Paralax-Effekt!
 
-## Wie funktioniert das?
+### Wie funktioniert das?
 
 ### Dinge im Hintergrund: 
 - bewegen sich langsamer
@@ -46,7 +46,7 @@ Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Parala
 
 
 
-# Regenbogen-Power 🌈
+## Regenbogen-Power 🌈
 
 Mit diesem Effekt kannst du einer Figur einen Regenbogen-Schweif verleihen, wie ein Komet! 
 
@@ -60,7 +60,7 @@ Beispiel: https://scratch.mit.edu/projects/1103963666/
 
 
 
-# Sparkle! Lass die Funken fliegen!
+## Sparkle! Lass die Funken fliegen!
 
 Noch ein kleiner feiner Effekt zum Abschluss - eignet sich hervorragend alse Game-Over oder Gewonnen-Effekt!
 
@@ -70,7 +70,7 @@ Ach ja, wieder mal arbeiten wir mit Klonen! Nur gut, dass wir genug Klone haben 
 
 
 
-## Die Klon-Muddi
+### Die Klon-Muddi
 
 Als erstes wieder unsere Fabrik: 
 
@@ -80,7 +80,7 @@ Als erstes wieder unsere Fabrik:
 
 <img src="screenshots/08-Sparkle1.png" alt="08-Sparkle1" style="zoom:50%;" />
 
-## ... und die Kids!
+### ... und die Kids!
 
 - Erstelle 2 lokale Variable:
   - `SpeedX` - wie schnell gehts links und rechts.
@@ -91,7 +91,7 @@ Als erstes wieder unsere Fabrik:
 
 > [!NOTE]
 >
-> **Schlau-Nerdy erklärt:** <u>Was sind lokale und globale Variablen?</u>
+> ### **Nerdy Erkläromat:** <u>Was sind lokale und globale Variablen?</u>
 >
 > *Sind das vielleich Variablen aus deiner Region, die dann extra frisch? Weit gefehlt!*
 >
@@ -120,7 +120,7 @@ Remember: Mit großer Effekt-Power kommt große Verantwortung! 🧙
 
 
 Weitere Effekte und wie sie funktionieren findest du hier: 
-## QR Code: https://pad.kidslab.de/GamesLab-Effekte#
+QR Code: https://pad.kidslab.de/p/GamesLab-Effekte#
 
 ---
 
