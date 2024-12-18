@@ -766,9 +766,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP] ### NerdY Fun-Fact: Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Fun-Fact:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Bis her wurden unglaubliche 1 Milliarde Projekte veröffentlicht! Und jeden Tag kommen </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>500.000</Content>
@@ -903,9 +910,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE] ## NerdY Erkläromat: Im Normalfall solltest du Passwörter nie aufschreiben. Für deinen Scratch-Account machen wir eine Ausnahme, weil: - Dies ein Lern-Account ist - Du in Scratch keine persönlichen oder geheimen Sachen speicherst - Du ansonsten das Passwort vergisst und nicht weiter an deinem Spiel arbeite kannst! </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Erkläromat:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Im Normalfall solltest du Passwörter nie aufschreiben. Für deinen Scratch-Account machen wir eine Ausnahme, weil: - Dies ein Lern-Account ist - Du in Scratch keine persönlichen oder geheimen Sachen speicherst - Du ansonsten das Passwort vergisst und nicht weiter an deinem Spiel arbeite kannst! </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Daher diese wichtigen Regeln:</Content>
@@ -946,9 +960,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP] ### NerdY Fun-Fact Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-1" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Fun-Fact</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Fantasmagorie”</Content>
@@ -1294,88 +1315,82 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-1" Name="Destination" DestinationUniqueKey="1" />
     <Content>Nerdy-Erkläromat</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; first" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Figuren schnell duplizieren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList &gt; first" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Rechtsklick auf Figur → Duplizieren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Spart Zeit beim Erstellen ähnlicher Figuren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kostüme clever nutzen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList &gt; first" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kostüme für verschiedene Zustände</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Animation durch Kostümwechsel</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Kostüme aus der Bibliothek mixen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ordnung im Projekt</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList &gt; first" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Figuren sinnvoll benennen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Blöcke kommentieren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; NumList &gt; BulList">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/NumList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ähnliche Blöcke gruppieren</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!IMPORTANT] ## Nerdy-Side-Quest Mach aus der Katze einen Filmstar! - füge den Block </Content>
+    <Content>::: ::: [!IMPORTANT] ### Nerdy-Side-Quest Mach aus der Katze einen Filmstar! - füge den Block </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>wenn auf figur geklickt</Content>
@@ -1443,13 +1458,7 @@
     </Rectangle>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> - Klicke auf die Katze, was passiert?</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wechsle im Arbeitsbereich auf </Content>
+    <Content> - Klicke auf die Katze, was passiert? ::: Wechsle im Arbeitsbereich auf </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>Kostüme</Content>
@@ -1466,9 +1475,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP] ### NerdY Fun-Fact Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katzen auf der ganzen Welt haben seitdem einen neuen Erzfeind - oder ein neues Transportmittel! 🤖</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-2" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Fun-Fact</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wusstest du? Der erste digitale Staubsauger-Roboter wurde 2002 eingeführt. Katzen auf der ganzen Welt haben seitdem einen neuen Erzfeind - oder ein neues Transportmittel! 🤖</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1716,38 +1732,32 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!IMPORTANT]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-side-quests" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Side Quests 🎮</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>☐ Cleverer Staubsauger</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Verschiedene Bewegungsmuster</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; BulList &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Geschwindigkeit erhöhen mit Zeit</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; BulList &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Wütend”</Content>
   </CharacterStyleRange>
@@ -1756,21 +1766,28 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>☐ Füge einen Timer hinzu</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>☐ Lass den Staubsauger immer schneller werden</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE] ## nerdY Erkläromat: Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-2" Name="Destination" DestinationUniqueKey="1" />
+    <Content>nerdY Erkläromat:</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Viele Bilder für dieses Handbuch haben wir mit ChatGPT und Dall-E erzeugt. Du kannst deine Bilder selber malen, pixeln oder natürlich auch mit einer KI erzeugen!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -1781,9 +1798,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP] ### NerdY Fun-Fact 🤓 Wusstest du? Das </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-3" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Fun-Fact 🤓</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Wusstest du? Das </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Jump”</Content>
@@ -1910,9 +1934,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!WARNING] ## NerdY Pannenhilfe 🚑 Obacht - es gibt 2 </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-pannenhilfe" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Pannenhilfe 🚑</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Obacht - es gibt 2 </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>spiele Klang</Content>
@@ -1962,7 +1993,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>[!IMPORTANT] # NerdY Side Quests 🎮 - [ ] Füge den Block </Content>
   </CharacterStyleRange>
@@ -2004,7 +2035,7 @@
     <Content>wiederhole 10 mal</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> um den Ton-Effekt - [ ] Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es: https://scratch.mit.edu/projects/537008383/</Content>
+    <Content> um den Ton-Effekt - [ ] Bitte schau dir mal dieses Projekt an - es ist von EricR, einem der Master-Minds hinter Scratch, ich liebe es: https://scratch.mit.edu/projects/537008383/ ::: —</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2022,9 +2053,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP] ### NerdY Fun-Fact Der originale Cookie Clicker wurde 2013 von einem französischen Programmierer in seiner Mittagspause entwickelt - heute haben über 4 Millionen Menschen mehr als 1 Trillion virtuelle Kekse gebacken! 🏭 Das orginale Spiel findest du hier: https://orteil.dashnet.org/cookieclicker/</Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-4" Name="Destination" DestinationUniqueKey="1" />
+    <Content>NerdY Fun-Fact</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Der originale Cookie Clicker wurde 2013 von einem französischen Programmierer in seiner Mittagspause entwickelt - heute haben über 4 Millionen Menschen mehr als 1 Trillion virtuelle Kekse gebacken! 🏭 Das orginale Spiel findest du hier: https://orteil.dashnet.org/cookieclicker/</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2127,9 +2165,16 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE] ### Nerdy-Erkläromat: Var-I-Was? Eine Variable ist wie eine beschriftete Box, in der du Dinge aufbewahren kannst. Stell dir vor, du hast mehrere Kisten: - Eine Box mit der Aufschrift </Content>
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-var-i-was" Name="Destination" DestinationUniqueKey="1" />
+    <Content>Nerdy-Erkläromat: Var-I-Was?</Content>
+  </CharacterStyleRange>
+</ParagraphStyleRange>
+<Br />
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Eine Variable ist wie eine beschriftete Box, in der du Dinge aufbewahren kannst. Stell dir vor, du hast mehrere Kisten: - Eine Box mit der Aufschrift </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Punkte”</Content>
@@ -2151,7 +2196,10 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>::: ::: ##</Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -2381,20 +2429,14 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/TableCaption">
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!IMPORTANT]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-side-quests-knusprige-animation" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Side Quests: Knusprige Animation!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Ein Spiel lebt ja auch davon, dass es sich gut </Content>
   </CharacterStyleRange>
@@ -2402,23 +2444,17 @@
     <Content>“anfühlt”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> - also es beim Klicken Effekte gibt!</Content>
+    <Content> - also es beim Klicken Effekte gibt! Probiere diesen Code mal bei deinem Spiel aus!</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Probiere diesen Code mal bei deinem Spiel aus!</Content>
+    <Content>&#x2028;</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Du musst die Werte bei Größe entsprechend deinem Cookie anpassen, also die Zahlen: 150, 120 und 180.</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2443,20 +2479,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-facts" Name="Destination" DestinationUniqueKey="1" />
     <Content>nerdY Fun Facts:</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Der Chrome Dino wurde 2014 von einem Chrome-Entwickler als Zeitvertreib entwickelt - aber er hat sich so einen Kult-Status erarbeitet. Du kannst das Spiel im Chrome Browser spielen, wenn du keine Internetverbindung hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: </Content>
   </CharacterStyleRange>
@@ -2776,88 +2806,28 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header2">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-was-sind-klone" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Erkläromat: Was sind Klone</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Klone in Scratch sind wie Kopien von Figuren, die während des Spiels automatisch erstellt und wieder gelöscht werden können. Das ist besonders nützlich für Sich wiederholende Elemente wie:</Content>
+    <Content>Klone in Scratch sind wie Kopien von Figuren, die während des Spiels automatisch erstellt und wieder gelöscht werden können. Das ist besonders nützlich für Sich wiederholende Elemente wie: - Regentropfen - Münzen zum Einsammeln - Projektile/Schüsse - Partikeleffekte </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; first" NumberingContinue="false">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Regentropfen</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Münzen zum Einsammeln</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Projektile/Schüsse</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Partikeleffekte</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Wichtig:</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; first" NumberingContinue="false">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Das Original ist die </Content>
+    <Content> - Das Original ist die </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>“Fabrik”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> die Klone erzeugt</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Klone führen eigene Befehle aus</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Klone sollten gelöscht werden wenn nicht mehr benötigt</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Nicht zu viele Klone gleichzeitig (max ~300) sonst wird das Spiel langsam</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mit Klonen sparst du dir viel Arbeit, da du nicht jedes Element einzeln erstellen musst. Sie sind perfekt für sich wiederholende Spielelemente: beim Dino-Runner sind das die Kakteen und Steine…</Content>
+    <Content> die Klone erzeugt - Klone führen eigene Befehle aus - Klone sollten gelöscht werden wenn nicht mehr benötigt - Nicht zu viele Klone gleichzeitig (max ~300) sonst wird das Spiel langsam Mit Klonen sparst du dir viel Arbeit, da du nicht jedes Element einzeln erstellen musst. Sie sind perfekt für sich wiederholende Spielelemente: beim Dino-Runner sind das die Kakteen und Steine…</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -2974,20 +2944,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-5" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Fun-Fact</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸</Content>
   </CharacterStyleRange>
@@ -3114,20 +3078,14 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!WARNING]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header2">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-pannenhilfe" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-pannenhilfe-1" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Pannenhilfe 🚑</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Um Cloud-Variablen benutzen zu können, musst du ein </Content>
   </CharacterStyleRange>
@@ -3135,43 +3093,13 @@
     <Content>“Verifizierter”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Scratcher sein. Mit einem neuen Konto bist du erst mal nur ein NPC - du musst dir den Status als echter Scratcher erst verdienen. Dazu musst du:</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList &gt; first" NumberingContinue="false">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>aktiv auf Scratch sein</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Projekte veröffentlichen</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; BulList">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Andere Projekte kommentieren und liken</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Das geschieht nach frühestens zwei Wochen durch einen Link (</Content>
+    <Content> Scratcher sein. Mit einem neuen Konto bist du erst mal nur ein NPC - du musst dir den Status als echter Scratcher erst verdienen. Dazu musst du: - aktiv auf Scratch sein - Projekte veröffentlichen - Andere Projekte kommentieren und liken Das geschieht nach frühestens zwei Wochen durch einen Link (</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Become a Scratcher</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>) auf der Profilseite hinter dem Profilbild.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Warum? Mit Cloud-Variablen kann man Blödsinn anstellen. Mehr Infos findest du hier: https://de.scratch-wiki.info/wiki/R%C3%A4nge</Content>
+    <Content>) auf der Profilseite hinter dem Profilbild. Warum? Mit Cloud-Variablen kann man Blödsinn anstellen. Mehr Infos findest du hier: https://de.scratch-wiki.info/wiki/R%C3%A4nge</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -3225,20 +3153,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-1" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-6" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Fun-Fact</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Die berühmten Partikeleffekte in Mario Kart entstanden ursprünglich durch einen Bug - die Entwickler fanden sie aber so cool, dass sie sie im Spiel gelassen haben! 🏎️✨</Content>
   </CharacterStyleRange>
@@ -3517,13 +3439,7 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
     <Content>Schlau-Nerdy erklärt:</Content>
   </CharacterStyleRange>
@@ -3533,45 +3449,27 @@
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Was sind lokale und globale Variablen?</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> </Content>
+  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Sind das vielleich Variablen aus deiner Region, die dann extra frisch? Weit gefehlt!</Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Wenn du eine Variable erstellst, können alle Figuren darauf zugreifen und auch den Inhalt ändern. So kannst du zum Beispiel super Infos zwischen Figuren teilen. Programmierer nennen solche Variablen </Content>
+    <Content> Wenn du eine Variable erstellst, können alle Figuren darauf zugreifen und auch den Inhalt ändern. So kannst du zum Beispiel super Infos zwischen Figuren teilen. Programmierer nennen solche Variablen </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>global</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Für uns bestimmen die beiden Variablen SpeedX und SpeedY die bewegung jeden einzelnen Funkens.</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Jeder soll sich anders bewegen, der eine links, der andere rechts, schneller und langsamer. Hier brauchen wir </Content>
+    <Content>. Für uns bestimmen die beiden Variablen SpeedX und SpeedY die bewegung jeden einzelnen Funkens. Jeder soll sich anders bewegen, der eine links, der andere rechts, schneller und langsamer. Hier brauchen wir </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Code">
     <Content>lokale</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Variable.</Content>
+    <Content> Variable. </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Figure">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 193.34266 -123.86014">
       <Properties>
@@ -3596,12 +3494,6 @@
         <Link Self="ueb" LinkResourceURI="file:screenshots/LokaleVariable.png" />
       </Image>
     </Rectangle>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Caption">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>LokaleVariable</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -3646,20 +3538,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-2" Name="Destination" DestinationUniqueKey="1" />
+    <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-fact-7" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Fun-Fact</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Das erste Videospiel-Intro überhaupt war eine simple Animation im Spiel </Content>
   </CharacterStyleRange>
@@ -3667,14 +3553,7 @@
     <Content>“Space Invaders”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> (1978) - die außerirdischen Invasoren marschierten von oben nach unten ins Bild! Space Invader ist so berühmt, dass es sogar sein eigenes Emojy hat</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header1">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <HyperlinkTextDestination Self="HyperlinkTextDestination/#section-1" Name="Destination" DestinationUniqueKey="1" />
-    <Content>👾</Content>
+    <Content> (1978) - die außerirdischen Invasoren marschierten von oben nach unten ins Bild! Space Invader ist so berühmt, dass es sogar sein eigenes Emojy hat # 👾</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -3724,20 +3603,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!NOTE]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header3">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header3">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-erkläromat-nachrichten-senden-und-empfangen" Name="Destination" DestinationUniqueKey="1" />
     <Content>Nerdy-Erkläromat: Nachrichten senden und empfangen</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Für das Intro, Game-Over etc. müssen wir die einzelnen Figuren im Scratch miteinander </Content>
   </CharacterStyleRange>
@@ -3751,111 +3624,91 @@
     <Content>“Game Over”</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> ist.</Content>
+    <Content> ist. Mit den Nachrichten können die Figuren sozusagen Gedankenübertragen: | </Content>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Mit den Nachrichten können die Figuren sozusagen Gedankenübertragen:</Content>
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 163.13287 -107.74825">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-163.13287 -107.74825" LeftDirection="-163.13287 -107.74825" RightDirection="-163.13287 -107.74825" />
+              <PathPointType Anchor="-163.13287 107.74825" LeftDirection="-163.13287 107.74825" RightDirection="-163.13287 107.74825" />
+              <PathPointType Anchor="163.13287 107.74825" LeftDirection="163.13287 107.74825" RightDirection="163.13287 107.74825" />
+              <PathPointType Anchor="163.13287 -107.74825" LeftDirection="163.13287 -107.74825" RightDirection="163.13287 -107.74825" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1 0 0 1 -163.13287 -107.74825">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+          <GraphicBounds Left="0" Top="0" Right="326.26573" Bottom="215.4965" />
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachricht-senden.png" />
+      </Image>
+    </Rectangle>
   </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<Table AppliedTableStyle="TableStyle/Table" HeaderRowCount="1" BodyRowCount="0" ColumnCount="0">
-  <Cell Name="0:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; TablePar &gt; TableHeader">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 163.13287 -107.74825">
-          <Properties>
-            <PathGeometry>
-              <GeometryPathType PathOpen="false">
-                <PathPointArray>
-                  <PathPointType Anchor="-163.13287 -107.74825" LeftDirection="-163.13287 -107.74825" RightDirection="-163.13287 -107.74825" />
-                  <PathPointType Anchor="-163.13287 107.74825" LeftDirection="-163.13287 107.74825" RightDirection="-163.13287 107.74825" />
-                  <PathPointType Anchor="163.13287 107.74825" LeftDirection="163.13287 107.74825" RightDirection="163.13287 107.74825" />
-                  <PathPointType Anchor="163.13287 -107.74825" LeftDirection="163.13287 -107.74825" RightDirection="163.13287 -107.74825" />
-                </PathPointArray>
-              </GeometryPathType>
-            </PathGeometry>
-          </Properties>
-          <Image Self="ue6" ItemTransform="1 0 0 1 -163.13287 -107.74825">
-            <Properties>
-              <Profile type="string">
-                $ID/Embedded
-              </Profile>
-              <GraphicBounds Left="0" Top="0" Right="326.26573" Bottom="215.4965" />
-            </Properties>
-            <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachricht-senden.png" />
-          </Image>
-        </Rectangle>
-      </CharacterStyleRange>
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="1:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; TablePar &gt; TableHeader">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 229.34266 -113.28671">
-          <Properties>
-            <PathGeometry>
-              <GeometryPathType PathOpen="false">
-                <PathPointArray>
-                  <PathPointType Anchor="-229.34266 -113.28671" LeftDirection="-229.34266 -113.28671" RightDirection="-229.34266 -113.28671" />
-                  <PathPointType Anchor="-229.34266 113.28671" LeftDirection="-229.34266 113.28671" RightDirection="-229.34266 113.28671" />
-                  <PathPointType Anchor="229.34266 113.28671" LeftDirection="229.34266 113.28671" RightDirection="229.34266 113.28671" />
-                  <PathPointType Anchor="229.34266 -113.28671" LeftDirection="229.34266 -113.28671" RightDirection="229.34266 -113.28671" />
-                </PathPointArray>
-              </GeometryPathType>
-            </PathGeometry>
-          </Properties>
-          <Image Self="ue6" ItemTransform="1 0 0 1 -229.34266 -113.28671">
-            <Properties>
-              <Profile type="string">
-                $ID/Embedded
-              </Profile>
-              <GraphicBounds Left="0" Top="0" Right="458.68531" Bottom="226.57343" />
-            </Properties>
-            <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachrichten.png" />
-          </Image>
-        </Rectangle>
-      </CharacterStyleRange>
-    </ParagraphStyleRange>
-  </Cell>
-  <Cell Name="2:0" AppliedCellStyle="CellStyle/Cell">
-    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; TablePar &gt; TableHeader">
-      <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-        <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 202.40559 -98.68531">
-          <Properties>
-            <PathGeometry>
-              <GeometryPathType PathOpen="false">
-                <PathPointArray>
-                  <PathPointType Anchor="-202.40559 -98.68531" LeftDirection="-202.40559 -98.68531" RightDirection="-202.40559 -98.68531" />
-                  <PathPointType Anchor="-202.40559 98.68531" LeftDirection="-202.40559 98.68531" RightDirection="-202.40559 98.68531" />
-                  <PathPointType Anchor="202.40559 98.68531" LeftDirection="202.40559 98.68531" RightDirection="202.40559 98.68531" />
-                  <PathPointType Anchor="202.40559 -98.68531" LeftDirection="202.40559 -98.68531" RightDirection="202.40559 -98.68531" />
-                </PathPointArray>
-              </GeometryPathType>
-            </PathGeometry>
-          </Properties>
-          <Image Self="ue6" ItemTransform="1 0 0 1 -202.40559 -98.68531">
-            <Properties>
-              <Profile type="string">
-                $ID/Embedded
-              </Profile>
-              <GraphicBounds Left="0" Top="0" Right="404.81119" Bottom="197.37063" />
-            </Properties>
-            <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachricht-empfangen.png" />
-          </Image>
-        </Rectangle>
-      </CharacterStyleRange>
-    </ParagraphStyleRange>
-  </Cell>
-</Table>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; TableCaption">
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Das nutzen wir auch, um den Figuren unseres Spiel mitzuteilen, dass jetzt Zeit für ihren Auftritt ist. Oder eben Schluss: Game Over!</Content>
+    <Content> | </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 229.34266 -113.28671">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-229.34266 -113.28671" LeftDirection="-229.34266 -113.28671" RightDirection="-229.34266 -113.28671" />
+              <PathPointType Anchor="-229.34266 113.28671" LeftDirection="-229.34266 113.28671" RightDirection="-229.34266 113.28671" />
+              <PathPointType Anchor="229.34266 113.28671" LeftDirection="229.34266 113.28671" RightDirection="229.34266 113.28671" />
+              <PathPointType Anchor="229.34266 -113.28671" LeftDirection="229.34266 -113.28671" RightDirection="229.34266 -113.28671" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1 0 0 1 -229.34266 -113.28671">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+          <GraphicBounds Left="0" Top="0" Right="458.68531" Bottom="226.57343" />
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachrichten.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> | </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" StrokeWeight="0" ItemTransform="1 0 0 1 202.40559 -98.68531">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-202.40559 -98.68531" LeftDirection="-202.40559 -98.68531" RightDirection="-202.40559 -98.68531" />
+              <PathPointType Anchor="-202.40559 98.68531" LeftDirection="-202.40559 98.68531" RightDirection="-202.40559 98.68531" />
+              <PathPointType Anchor="202.40559 98.68531" LeftDirection="202.40559 98.68531" RightDirection="202.40559 98.68531" />
+              <PathPointType Anchor="202.40559 -98.68531" LeftDirection="202.40559 -98.68531" RightDirection="202.40559 -98.68531" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1 0 0 1 -202.40559 -98.68531">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+          </Profile>
+          <GraphicBounds Left="0" Top="0" Right="404.81119" Bottom="197.37063" />
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:screenshots/09-nachricht-empfangen.png" />
+      </Image>
+    </Rectangle>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> | &gt;| ———————————————————– | ————————————————- | ———————————————————— | Das nutzen wir auch, um den Figuren unseres Spiel mitzuteilen, dass jetzt Zeit für ihren Auftritt ist. Oder eben Schluss: Game Over!</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
@@ -3981,20 +3834,14 @@
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>[!TIP]</Content>
-  </CharacterStyleRange>
-</ParagraphStyleRange>
-<Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Header1">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <HyperlinkTextDestination Self="HyperlinkTextDestination/#nerdy-fun-facts-1" Name="Destination" DestinationUniqueKey="1" />
     <Content>NerdY Fun-Facts 💡🤓</Content>
   </CharacterStyleRange>
 </ParagraphStyleRange>
 <Br />
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Wusstest du? Der TurboWarp Compiler wurde von einem Teenager entwickelt, der Scratch schneller machen wollte - heute nutzen Millionen von Scratchern seine Erfindung!</Content>
   </CharacterStyleRange>

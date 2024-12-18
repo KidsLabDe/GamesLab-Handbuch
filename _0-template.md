@@ -11,8 +11,6 @@ date: "November 2024"
 subject: "Scratch Programmierung für Kinder und Jugnedliche"
 # keywords: [Markdown, ]
 
-emoji: "Noto Color Emoji"
-
 lang: "de"
 colorlinks: true
 header-includes:
