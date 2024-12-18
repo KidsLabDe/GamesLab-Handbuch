@@ -8,11 +8,12 @@ mkdir -p .tmp
 cp _index.md .tmp/0-OER.md
 # copy and reaname all the index.md (index.md is required for website generation)
 # take only the folders starting with a number
-for f in *.md; do
-    # ls $f
-    cp $f .tmp/$(ls $f | sed "s/\//-/g")
-done
+#for f in *.md; do
+#    # ls $f
+#    cp $f .tmp/$(ls $f | sed "s/\//-/g")
+#done
 
+cp *.md .tmp/
 
 # copy all the pngs
 rsync -av \
@@ -99,12 +100,15 @@ done
 
 # convert with pandoc
 # pandoc *.md -o "../GamesLab-Handbuch.docx"
-pandoc *.md -o "../GamesLab-Handbuch.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
-# pandoc *.md -t icml -s -o "../GamesLab-Handbuch.icml" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
+pandoc *.md -o "../GamesLab-Handbuch.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex -V mainfont="FreeSerif"
+echo "jetzt das icml dokument"
+pandoc *.md -t icml -s -o "../GamesLab-Handbuch.icml" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
 
+
+cd ..
 
 
 # get rid of .tmp/
-rm -r .tmp
+# rm -r .tmp
 
 
