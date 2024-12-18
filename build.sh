@@ -100,7 +100,7 @@ done
 
 # convert with pandoc
 # pandoc *.md -o "../GamesLab-Handbuch.docx"
-pandoc *.md -o "../GamesLab-Handbuch.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex -V mainfont="FreeSerif"
+pandoc *.md -o "../GamesLab-Handbuch.pdf" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex 
 echo "jetzt das icml dokument"
 pandoc *.md -t icml -s -o "../GamesLab-Handbuch.icml" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
 
