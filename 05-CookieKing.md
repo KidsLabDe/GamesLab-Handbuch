@@ -5,7 +5,9 @@
 Wer kann dem Duft von frisch gebackenen Keksen widerstehen? Und auch der Cookie-Clicker erfreut sich großer Beliebtheit. Wie den Keksen gehts auch bei Spielen um das ganze Erlebnis: Riechen, Sehen, Schmecken!
 
 > [!TIP]
-> ### NerdY Fun-Fact
+>
+> **NerdY Fun-Fact**
+>
 > Der originale Cookie Clicker wurde 2013 von einem französischen Programmierer in seiner Mittagspause entwickelt - heute haben über 4 Millionen Menschen mehr als 1 Trillion virtuelle Kekse gebacken! 🏭 Das orginale Spiel findest du hier: https://orteil.dashnet.org/cookieclicker/ 
 
 ### Was du hier lernst 🎯
@@ -34,16 +36,24 @@ Du kannst:
 
 
 > [!NOTE]
-> ## Nerdy-Erkläromat: Var-I-Was?
+>
+> **Nerdy-Erkläromat: Var-I-Was?**
+>
 > Eine Variable ist wie eine beschriftete Box, in der du Dinge aufbewahren kannst. Stell dir vor, du hast mehrere Kisten:
-> - Eine Box mit der Aufschrift "Punkte" - hier speicherst du deinen Spielstand
-> - Eine Box mit "Leben" - hier merkst du dir, wie viele Leben noch übrig sind
-> - Eine Box "Name" - hier steht der Name deines Charakters drin
-> Das Besondere an diesen Boxen ist:
-> - Du kannst jederzeit reinschauen, was drin ist
-> - Du kannst den Inhalt ändern
-> - Du kannst mit dem Inhalt rechnen (bei Zahlen)
-> - Du kannst den Inhalt für verschiedene Dinge im Spiel verwenden
+> 1. Eine Box mit der Aufschrift "Punkte" - hier speicherst du deinen Spielstand
+>
+> 2. Eine Box mit "Leben" - hier merkst du dir, wie viele Leben noch übrig sind
+>
+> 3. Eine Box "Name" - hier steht der Name deines Charakters drin
+>    Das Besondere an diesen Boxen ist:
+>
+> 4. Du kannst jederzeit reinschauen, was drin ist
+>
+> 5. Du kannst den Inhalt ändern
+>
+> 6. Du kannst mit dem Inhalt rechnen (bei Zahlen)
+>
+> 7. Du kannst den Inhalt für verschiedene Dinge im Spiel verwenden
 
 ## .. und so zählt dein Cookie hoch
 
@@ -64,7 +74,7 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 
 > [!IMPORTANT]
 >
-> ### NerdY Side Quests: Knusprige Animation!
+> **NerdY Side Quests: Knusprige Animation!**
 >
 > Ein Spiel lebt ja auch davon, dass es sich gut "anfühlt" - also es beim Klicken Effekte gibt!
 >
@@ -77,3 +87,4 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 **Remember**: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
 
 \newpage
+

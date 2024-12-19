@@ -5,7 +5,7 @@
 
 
 > [!TIP]
-> ### NerdY Fun-Fact
+> **NerdY Fun-Fact**
 > Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß "Fantasmagorie". Er bestand aus über 700 einzelnen Zeichnungen, die nacheinander fotografiert wurden! 📽️
 
 ### Was du hier lernst
@@ -55,11 +55,11 @@
 3. Klicke auf den Block
 4. Die Katze bewegt sich!
 
-![alt text](scratch/gehe.png)
+<img src="scratch/gehe.png" alt="alt text" style="zoom:50%;" />
 
 Und jetzt mach noch ein ganzes Programm draus!
 
-![Programm für die TanzeKatze](screenshots/02-TanzeKatze.png)
+<img src="screenshots/02-TanzeKatze.png" alt="Programm für die TanzeKatze" style="zoom:50%;" />
 
 Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30> 
 
@@ -82,15 +82,17 @@ Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30>
 > 
 
 
-
 > [!IMPORTANT]
-> ## Nerdy-Side-Quest
+> 
+> ### Nerdy-Side-Quest
+> 
 > Mach aus der Katze einen Filmstar!
-> - füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
->   - ![alt text](scratch/click-block.png)
->   - ![alt text](scratch/naechstes-kostuem.png)
-> - Klicke auf die Katze, was passiert?
-> - Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+> 1. füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
+>   - <img src="scratch/click-block.png" alt="alt text" style="zoom:50%;" />
+>   - <img src="scratch/naechstes-kostuem.png" alt="alt text" style="zoom:50%;" />
+> 2. Klicke auf die Katze, was passiert?
+> 3. Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+> 
 
 
 

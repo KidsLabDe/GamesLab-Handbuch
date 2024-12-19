@@ -48,7 +48,7 @@ Wenn mehrere Dinge gleichzeitig passieren sollen, kann es Chaos geben. Baue klei
 
 Manchmal hilft es, einfach mal 5 Minuten vom Computer wegzugehen. Mit frischem Kopf sieht man Fehler oft sofort!
 
-Remember: Jeder Programmierer macht Fehler - das Geheimnis ist, sie zu finden! 🐞✨
+**Remember:** Jeder Programmierer macht Fehler - das Geheimnis ist, sie zu finden! 🐞✨
 
 
 

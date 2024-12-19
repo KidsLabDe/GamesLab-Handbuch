@@ -3,7 +3,7 @@ SPRING! Programmiere den Klassiker nach und lass deinen Dino über alle Hinderni
 
 > [!TIP]
 >
-> ### nerdY Fun Facts:
+> **nerdY Fun Facts:**
 >
 > Der Chrome Dino wurde 2014 von einem Chrome-Entwickler als Zeitvertreib entwickelt - aber er hat sich so einen Kult-Status erarbeitet. Du kannst das Spiel im Chrome Browser spielen, wenn du keine Internetverbindung hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: `chrome://dino `
 > Warum kommt da ein T-Rex-Dino, wenn man kein Internet hat? Weil man dann informationstechnisch in Prähistorischen-Zeiten ist!
@@ -61,7 +61,7 @@ So gehts:
 
 > [!NOTE]
 >
-> ## NerdY Erkläromat: Was sind Klone 
+> **NerdY Erkläromat: Was sind Klone** 
 >
 > Klone in Scratch sind wie Kopien von Figuren, die während des Spiels automatisch erstellt und wieder gelöscht werden können. Das ist besonders nützlich für Sich wiederholende Elemente wie:
 >
@@ -104,4 +104,6 @@ Kein Problem - hier noch mal alles in langsam, schritt für schritt:
 https://pad.kidslab.de/p/GamesLab-Dino (QR Code)
 
 \newpage
+
+
 

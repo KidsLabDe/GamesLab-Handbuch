@@ -1,27 +1,40 @@
 ---
 title: "GamesLab Handbuch"
-author: "KidsLab gGmbH, Gregor Walter, Johannes Reitmayer"
+
+titlepage: true
+titlepage-logo: "bilder/LogoGamesLab.jpg"
+logo-width: 100mm
+toc: true
+toc-title: "Übersicht"
+toc-own-page: true
+
+lang: "de"
+
+author: "KidsLab.de"
 date: "2024-12-18"
 colorlinks: true
 mainfont: Ubuntu
 mainfontfallback:
+  - "FreeSans:"
   - "NotoColorEmoji:mode=harf"
 pandoc-latex-environment:
   noteblock: [note]
   tipblock: [tip]
   warningblock: [warning]
-  cautionblock: [caution]
+  cautionblock: [important]
 header-includes:
 - \usepackage{awesomebox}
-
+- \addtokomafont{disposition}{\rmfamily}
+- \setkomafont{disposition}{\rmfamily\addfontfeatures{RawFeature={fallback=emojifallback}}}
 - \directlua{luaotfload.add_fallback
    ("emojifallback",
     {
-      "NotoColorEmoji:mode=harf;script=DFLT;"
+      "Twemoji Mozilla:mode=harf;script=DFLT;"
     }
    )}
+
 ...
 `\renewcommand{\familydefault}{\sfdefault}`{=latex}
 `\setmainfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
 `\setsansfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
-
+|

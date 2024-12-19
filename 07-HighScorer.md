@@ -3,7 +3,7 @@
 
 > [!TIP]
 >
-> ### NerdY Fun-Fact
+> **NerdY Fun-Fact**
 >
 > Der erste dokumentierte High-Score der Videospielgeschichte wurde 1976 im Spiel Sea Wolf aufgestellt. Damals musste man noch ein Foto vom Bildschirm machen, um seinen Score zu beweisen! 📸
 
@@ -41,7 +41,7 @@ Einfach prüfen, ob der aktuelle Punktestand größer ist, als der Highscore - w
 
 > [!WARNING]
 >
-> ## NerdY Pannenhilfe 🚑
+> **NerdY Pannenhilfe 🚑**
 >
 > Um Cloud-Variablen benutzen zu können, musst du ein "Verifizierter" Scratcher sein. Mit einem neuen Konto bist du erst mal nur ein NPC - du musst dir den Status als echter Scratcher erst verdienen. Dazu musst du:
 >

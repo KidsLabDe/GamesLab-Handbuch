@@ -9,7 +9,7 @@ Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Ga
 >
 > Das erste Videospiel-Intro überhaupt war eine simple Animation im Spiel "Space Invaders" (1978) - die außerirdischen Invasoren marschierten von oben nach unten ins Bild! Space Invader ist so berühmt, dass es sogar sein eigenes Emojy hat 
 >
-> # 👾
+> 👾
 
 ### Was du hier lernst
 - Ein packendes Intro für dein Spiel erstellen
@@ -25,11 +25,13 @@ Der erste Eindruck zählt! Kreiere ein packendes Intro und einen dramatischen Ga
 > Für das Intro, Game-Over etc. müssen wir die einzelnen Figuren im Scratch miteinander "verdrahten". Wenn zum Beispiel der Dino mit dem Katkus zusammesstösst, müssen auch die Steine und die Wolken wissen, dass jetzt "Game Over" ist.
 >
 > Mit den `Nachrichten` können die Figuren sozusagen Gedankenübertragen:
->
-> | ![09-nachricht-senden](screenshots/09-nachricht-senden.png) | ![09-nachrichten](screenshots/09-nachrichten.png) | ![09-nachricht-empfangen](screenshots/09-nachricht-empfangen.png) |
->| ----------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-> 
 > Das nutzen wir auch, um den Figuren unseres Spiel mitzuteilen, dass jetzt Zeit für ihren Auftritt ist. Oder eben Schluss: Game Over!
+
+| Programm Sender                                             |                                                   | Programm Empfänger                                           |
+| ----------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| ![09-nachricht-senden](screenshots/09-nachricht-senden.png) | ![09-nachrichten](screenshots/09-nachrichten.png) | ![09-nachricht-empfangen](screenshots/09-nachricht-empfangen.png) |
+
+
 
 ## Teil 1: Das Intro
 ### So fesselst du deine Spieler von Anfang an

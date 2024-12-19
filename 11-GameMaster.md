@@ -118,8 +118,6 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 
 # Der GamesPreis!
 
-(1 seite)
-
 Reiche dein Spiel beim GamesPreis ein und gewinne mega krasse Preise!
 
 - Preise
@@ -168,7 +166,7 @@ In diesem fesselnden Videospiel schlüpft ihr in die Rolle eines UFO-Piloten und
 
 https://scratch.mit.edu/projects/971388807 (QR Code)
 
-<img src="bilder/gamespreis-1.png" alt="gamespreis-1" style="zoom:25%;" />
+<img src="bilder/gamespreis-1.png" alt="Gravity Glide" style="zoom:25%;" />
 
 ### 2. Platz - Water Facility
 
@@ -178,7 +176,7 @@ Auf zu neuen Herausforderungen und möge die Flamme der Hoffnung niemals erlösc
 
 https://scratch.mit.edu/projects/966666194 (QR Code)
 
-<img src="bilder/gamespreis-2.png" alt="gamespreis-2" style="zoom: 33%;" />
+<img src="bilder/gamespreis-2.png" alt="Water Facility" style="zoom: 33%;" />
 
 ### 3. Platz - Imersion 2009 
 
@@ -186,6 +184,6 @@ Taucht ein in die düstere Welt von 'Immersion 2009', einem visuellen Roman und 
 
 https://scratch.mit.edu/projects/964668818
 
-<img src="bilder/gamespreis-3.png" alt="gamespreis-3" style="zoom:25%;" />
+<img src="bilder/gamespreis-3.png" alt="Immersion 2009" style="zoom:25%;" />
 
 \newpage

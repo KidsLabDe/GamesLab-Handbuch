@@ -1,6 +1,6 @@
-# Achievements
+# Level up: Achievements
 
-Wenn du das Handbuch durcharbeitest, kannst Du hier alles abchecken, was du schon geschafft hast!
+Level Up! Hier kannst du deine Game-Developer-Skills tracken und sehen, was du schon alles drauf hast! 🎮
 
 **Level 1 Einführung**
 
@@ -28,7 +28,7 @@ Wenn du das Handbuch durcharbeitest, kannst Du hier alles abchecken, was du scho
 - [ ] Einstein macht lustige geräusche
 - [ ] Sie ändern sich, wenn er wiele Mäuse gefressen hat
 - [ ] Die Töne sind total nervig und dein Lehrer hat gesagt "Um Gottes Willen, macht mal den Ton aus"  
-- [ ] Not-Aus-Knopf für den Lehrer eingebaut 😉
+- [ ] Not-Aus-Knopf für den Lehrer eingebaut
 
 **Level 5 Cookie King**
 
@@ -74,3 +74,5 @@ Wenn du das Handbuch durcharbeitest, kannst Du hier alles abchecken, was du scho
 - [ ] Offline-Version funktioniert
 - [ ] Dein Spiel läuft so smooth, dass die anderen denken, es wäre gekauft
 - [ ] Du hast versehentlich so viele Extensions aktiviert, dass dein Browser streikt
+
+\newpage

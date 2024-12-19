@@ -18,6 +18,6 @@ Egal ob du schon Erfahrung hast oder ganz neu bist – hier wirst du zum Spiele-
 
 Gregor, Regine, Irmel, MatzE, Daniel, Johannes... und alle anderen Mentorinnen und Mentoren 
 
-![Mentoren](bilder/Mentoren.jpg)
+![Diese Mentorinnen und Mentoren begleiten euch!](bilder/Mentoren.jpg)
 
 \newpage
