@@ -1,32 +1,44 @@
-
-
-
-
 ---
-title: "GitHub Markdown Notes Example"
-author: "Your Name"
-date: "2024-12-18"
+title: "GamesLab Handbuch"
+titlepage: true
+# titlepage-logo: "titelbild.png"
+logo-width: 100mm
+toc: true
+toc-title: "Übersicht"
+toc-own-page: true
+toc-depth: 2
+author: KidsLab.de gGmbH
+date: "November 2024"
+subject: "Scratch Programmierung für Kinder und Jugnedliche"
+# keywords: [Markdown, ]
+
+lang: "de"
 colorlinks: true
 mainfont: Ubuntu
 mainfontfallback:
   - "FreeSans:"
   - "NotoColorEmoji:mode=harf"
-header-includes:
-- |
-  ```{=latex}
-  \usepackage{awesomebox}
-  ```
 pandoc-latex-environment:
   noteblock: [note]
   tipblock: [tip]
   warningblock: [warning]
   cautionblock: [caution]
-  importantblock: [important]
+header-includes:
+- \usepackage{awesomebox}
+
+- \directlua{luaotfload.add_fallback
+   ("emojifallback",
+    {
+      "Twemoji Mozilla:mode=harf;script=DFLT;"
+    }
+   )}
 ...
----
 `\renewcommand{\familydefault}{\sfdefault}`{=latex}
 `\setmainfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
 `\setsansfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
+
+
+🚀 🌑
 
 # Bugs? No Problem! 🐛
 
@@ -56,7 +68,3 @@ Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentriere
 This is a custom note box with modified styles.
 und eine zweite zeile.
 :::
-
-# Game Master 🎮 [⭐⭐⭐⭐⭐]
-Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist jetzt ein echter Game Developer!
-

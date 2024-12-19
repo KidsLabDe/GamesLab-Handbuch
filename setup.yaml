@@ -1,0 +1,27 @@
+---
+title: "GamesLab Handbuch"
+author: "KidsLab gGmbH, Gregor Walter, Johannes Reitmayer"
+date: "2024-12-18"
+colorlinks: true
+mainfont: Ubuntu
+mainfontfallback:
+  - "NotoColorEmoji:mode=harf"
+pandoc-latex-environment:
+  noteblock: [note]
+  tipblock: [tip]
+  warningblock: [warning]
+  cautionblock: [caution]
+header-includes:
+- \usepackage{awesomebox}
+
+- \directlua{luaotfload.add_fallback
+   ("emojifallback",
+    {
+      "NotoColorEmoji:mode=harf;script=DFLT;"
+    }
+   )}
+...
+`\renewcommand{\familydefault}{\sfdefault}`{=latex}
+`\setmainfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
+`\setsansfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
+
