@@ -1,6 +1,6 @@
 #!/bin/bash
-rm all.tmp
 
+rm all.tmp
 
 # copy all the md files into one large file
 cat setup.yaml > all.tmp && cat $(ls -1 *.md | sort) >> all.tmp
@@ -13,8 +13,5 @@ pandoc all.tmp -o "../GamesLab-Handbuch.pdf" --from markdown --template eisvogel
 #pandoc *.md -t icml -s -o "../GamesLab-Handbuch.icml" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
 
 
-
-
-# get rid of .tmp/
-
-
+##
+rm all.tmp
