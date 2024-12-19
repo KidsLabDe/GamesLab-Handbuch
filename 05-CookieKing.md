@@ -76,4 +76,4 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 
 **Remember**: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
 
----
+\newpage

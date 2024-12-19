@@ -63,3 +63,5 @@ Aber da geht noch mehr:
 
 Und das findest du alles hier: https://pad.kidslab.de/p/GamesLab-Highscore (QR Code)
 
+
+\newpage

@@ -7,7 +7,7 @@ Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist
 
 **Genre:** (z.B. Jump'n'Run, Clicker, Quiz, etc.)
 
----
+
 
 **Was ist die Story in deinem Spiel:**
 
@@ -15,7 +15,7 @@ Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist
 
 
 
----
+
 
 **Mein Spiel erklärt in einem Satz:**
 
@@ -23,9 +23,8 @@ Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist
 
 
 
----
 
----
+___
 
 ### **2\. Spielmechanik**
 
@@ -39,9 +38,9 @@ Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist
 
 Mit diesen Tasten / Maus etc. kann man im Spiel laufen, springen, schießen etc.:
 
----
+______
 
-- ---
+- ____
 
 **Punktesystem:** 
 
@@ -67,9 +66,9 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 
 
 
-- ---
+- ________
 
-- ---
+- ______
 
 ### **4\. Level**
 
@@ -77,19 +76,16 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 
 **Das macht mein Spiel besonders spannend:**
 
-- ---
-
-- ---
-
-- ---
-
+- ______
+- ______
+- ___
 **Level/Abschnitte:**
 
-1. ---
+1. ___
 
-2. ---
+2. ___
 
-3. ---
+3. ___
 
 ### **5\. Grafik & Sound**
 
@@ -118,7 +114,7 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 - Dokumentiere deinen Code mit Kommentaren  
 - 
 
----
+\newpage
 
 # Der GamesPreis!
 
@@ -142,8 +138,7 @@ Reiche dein Spiel beim GamesPreis ein und gewinne mega krasse Preise!
 ### Dann nichts wie los:
 https://kidslab.de/gamespreis/ (QR Code)
 
----
-
+\newpage
 
 
 # Der GamesPreis 2024
@@ -162,8 +157,7 @@ Die sichtlich stolzen Gewinner freuten sich über ihre Pokale und die von  AUFWI
 
 ![GamesPreisGewinner](bilder/GamesPreisGewinner.jpg)
 
----
-
+\newpage
 
 
 ## Die 3 Hauptgewinner:
@@ -194,3 +188,4 @@ https://scratch.mit.edu/projects/964668818
 
 <img src="bilder/gamespreis-3.png" alt="gamespreis-3" style="zoom:25%;" />
 
+\newpage

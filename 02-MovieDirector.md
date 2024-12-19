@@ -25,7 +25,7 @@
 
 ## Deine Figuren
 
-- Links unten siehst du alle Figuren in deinem Projekt
+- Rechts unten siehst du alle Figuren in deinem Projekt
 - Am Anfang ist nur die Scratch-Katze da
 - Mit dem "+"-Button kannst du neue Figuren hinzufügen:
   - Fertige Figuren aus der Bibliothek wählen
@@ -34,7 +34,7 @@
 
 ## Die Blöcke
 
-- Links in der Mitte findest du alle Befehlsblöcke
+- Links findest du alle Befehlsblöcke
 - Die Blöcke sind nach Farben sortiert, so findest du sie leichter:
   - Blaue Blöcke für Bewegung
   - Violette Blöcke für Aussehen
@@ -96,4 +96,4 @@ Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30>
 
 
 
----
+\newpage

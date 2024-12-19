@@ -45,12 +45,12 @@ Scratch ist wie ein digitaler Baukasten zum Programmieren. Du kannst damit ganz 
 
 Diese pragmatische Lösung hilft dir, dich auf das Programmieren zu konzentrieren, ohne dich um vergessene Zugangsdaten sorgen zu müssen! 🎮
 
-------
+\newpage
 
 **Meine Scratch-Zugangsdaten:**
 
 - Benutzername: _________________
 - Passwort: _________________
 
----
+\newpage
 

@@ -42,7 +42,7 @@ Schnapp dir dein Dino-Spiel - wir pimpen es mal ein bisschen auf! Mit dem Parala
 
 (Beispielprojekt - QR Code? https://scratch.mit.edu/projects/1103943291/)
 
----
+\newpage
 
 
 
@@ -122,5 +122,5 @@ Remember: Mit großer Effekt-Power kommt große Verantwortung! 🧙
 Weitere Effekte und wie sie funktionieren findest du hier: 
 QR Code: https://pad.kidslab.de/p/GamesLab-Effekte#
 
----
+\newpage
 
