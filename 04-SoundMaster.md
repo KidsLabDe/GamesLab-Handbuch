@@ -19,7 +19,7 @@ Dirigiere deine eigene **Spiele-Symphonie**! Erschaffe dynamische **Soundeffekte
 
 Mit diesem **Block** kannst du **Töne** und **Musik** abspielen:
 
-<img src="scratch/spiele.png" alt="alt text" style="zoom:50%;" />
+![alt text](scratch/spiele.png){ width=50% }
 
 Deine Aufgaben:
 
@@ -32,7 +32,7 @@ Deine Aufgaben:
 > **NerdY Pannenhilfe 🚑** 
 >
 > Obacht - es gibt 2 `spiele Klang`-Befehle:
-> <img src="scratch/spiele-ganz.png" alt="spiele-ganz" style="zoom:50%;" />
+> ![spiele-ganz](scratch/spiele-ganz.png){ width=50% }
 >
 > 1. Der `spiele Klang`-Befehl startet das **Abspielen**, aber das **Programm** läuft weiter.
 > 2. Der `spiele Klang ... ganz` wartet an dieser Stelle solange, bis der ganze **Klang** gespielt ist, erst dann läuft der Rest des **Programmes** weiter.
@@ -40,7 +40,7 @@ Deine Aufgaben:
 > [!IMPORTANT]
 >  **NerdY Side Quests 🎮**
 > - [ ] Füge den **Block** `ändere Effekt` hinzu, wenn man auf **Einstein** klickt. Was passiert? Klicke ganz oft drauf!
->   <img src="scratch/ton-effekt.png" alt="alt text" style="zoom:50%;" />
+>   ![alt text](scratch/ton-effekt.png){ width=50% }
 > - [ ] Mache eine `wiederhole 10 mal` um den **Ton-Effekt**
 > - [ ] Bitte schau dir mal dieses **Projekt** an - es ist von **EricR**, einem der **Master-Minds** hinter **Scratch**, ich liebe es:
 >   https://scratch.mit.edu/projects/537008383/

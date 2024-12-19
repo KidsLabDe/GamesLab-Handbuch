@@ -43,7 +43,8 @@ Die **Browser-Erweiterung** von **Griffpatch** macht **Scratch** besser und prak
 
 Die "Blocklive" **Extension** ist ein cooles Tool für **Teamarbeit** in **Scratch**!
 
-<img src="screenshots/10-livescratch.png" alt="10-livescratch" style="zoom:50%;" />
+ ![Zusammen Scratch benutzen](screenshots/10-livescratch.png){ width=50% }
+ 
 
 Installation und Infos: https://pad.kidslab.de/p/GamesLab-LiveScratch (QR code)
 

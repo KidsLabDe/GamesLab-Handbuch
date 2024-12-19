@@ -164,9 +164,7 @@ Die sichtlich stolzen Gewinner freuten sich über ihre Pokale und die von  AUFWI
 
 In diesem fesselnden Videospiel schlüpft ihr in die Rolle eines UFO-Piloten und tretet eine epische Reise an, in der ihr durch die Manipulation von Planeten und ihrer Gravitation euer Ziel erreichen müsst. Doch das ist noch nicht alles! Strategisch platzierte Planeten und geschickte Nutzung ihrer Gravitationskräfte sind der Schlüssel, um euer UFO sicher durch jedes Level zu manövrieren. Herzlichen Glückwunsch und weiterhin viel Erfolg auf euren Reisen durch die unendlichen Weiten des Spieluniversums!
 
-https://scratch.mit.edu/projects/971388807 (QR Code)
-
-<img src="bilder/gamespreis-1.png" alt="Gravity Glide" style="zoom:25%;" />
+![Gravity Glide](bilder/gamespreis-1.png){ width=25% }
 
 ### 2. Platz - Water Facility
 
@@ -176,7 +174,7 @@ Auf zu neuen Herausforderungen und möge die Flamme der Hoffnung niemals erlösc
 
 https://scratch.mit.edu/projects/966666194 (QR Code)
 
-<img src="bilder/gamespreis-2.png" alt="Water Facility" style="zoom: 33%;" />
+![Water Facility](bilder/gamespreis-2.png){ width=25% }
 
 ### 3. Platz - Imersion 2009 
 
@@ -184,6 +182,6 @@ Taucht ein in die düstere Welt von 'Immersion 2009', einem visuellen Roman und 
 
 https://scratch.mit.edu/projects/964668818
 
-<img src="bilder/gamespreis-3.png" alt="Immersion 2009" style="zoom:25%;" />
+![Immersion 2009](bilder/gamespreis-3.png){ width=25% }
 
 \newpage

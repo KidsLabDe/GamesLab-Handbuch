@@ -17,7 +17,7 @@
 
 **Kater Einstein**, das klügste Haustier der Stadt, muss vor einem durchgedrehten **Saugroboter** fliehen. **Sammle Wollknäule** für **Extra-Power**!
 
-<img src="screenshots/03-Figuren.png" alt="03-Figuren" style="zoom: 33%;" />
+![03-Figuren](screenshots/03-Figuren.png){ width=50% }
 
 ### So programmierst du es:
 
@@ -29,15 +29,15 @@
 
 ### Für Kater Einstein:
 
-<img src="screenshots/03-ProgrammEinstein.png" alt="03-Programm Einstein" style="zoom:50%;" />
+![03-Programm Einstein](screenshots/03-ProgrammEinstein.png)
 
 ### Für den Saugroboter:
 
-<img src="screenshots/03-ProgrammSauger.png" alt="03-Programm Sauger" style="zoom:50%;" />
+![03-Programm Sauger](screenshots/03-ProgrammSauger.png){ width=50% }
 
 ### Für die Quietsche-Maus:
 
-<img src="screenshots/03-ProgrammMaus.png" alt="03-Programm Maus" style="zoom:50%;" />
+![03-Programm Maus](screenshots/03-ProgrammMaus.png)
 
 > [!IMPORTANT]
 >

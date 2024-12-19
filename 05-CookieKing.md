@@ -28,7 +28,7 @@ Du kannst:
 - eine neue `Malen`
 - oder eine mit **ChatGPT** erzeugen und die `Figur hochladen`
 
-<img src="scratch/Figur-neu.png" alt="Figur-neu" style="zoom:50%;" />
+![Figur-neu](scratch/Figur-neu.png)
 
 ## Die Variablen!
 
@@ -56,7 +56,7 @@ Du kannst:
 
 ## .. und so zählt dein Cookie hoch
 
-![05-cookie-code](screenshots/05-cookie-code.png)
+![Programm für den Cookie](screenshots/05-cookie-code.png)
 
 - Erstelle eine neue Variable: clicke auf `Neue Variable`
 - Nenne die Variable "Cookies"
@@ -81,9 +81,8 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 >
 > **Du musst die Werte bei Größe entsprechend deinem Cookie anpassen, also die Zahlen: 150, 120 und 180.** 
 >
-> <img src="screenshots/05-cookie-effect.png" alt="05-cookie-effect" style="zoom:33%;" />
+> ![05-cookie-effect](screenshots/05-cookie-effect.png){ width=50% }
 
 **Remember**: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
 
 \newpage
-

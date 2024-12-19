@@ -28,15 +28,15 @@ Schnapp dir dein **Dino-Spiel** - wir pimpen es mal ein bisschen auf! Mit dem **
 - bewegen sich **schneller**
 - sind **größer**
 
-<img src="bilder/paralax.jpg" alt="alt text" style="zoom:50%;" />
+![alt text](bilder/paralax.jpg){ width=50% }
 
 ### So gehts:
 
-<img src="screenshots/paralax/Variable-erstellen-beschriftet.png" alt="Variable erstellen" style="zoom:33%;" />
+![Variable erstellen](screenshots/paralax/Variable-erstellen-beschriftet.png){ width=33% }
 
-<img src="screenshots/paralax/Paralax-Code-Master.png" alt="alt text" style="zoom:50%;" /> [](08-EffectWizard.md)
+![alt text](screenshots/paralax/Paralax-Code-Master.png){ width=50% } [](08-EffectWizard.md)
 
-<img src="screenshots/paralax/Paralax-Code-Klone.png" alt="alt text" style="zoom:50%;" />
+![alt text](screenshots/paralax/Paralax-Code-Klone.png){ width=50% }
 
 (Beispielprojekt - QR Code? https://scratch.mit.edu/projects/1103943291/)
 
@@ -50,7 +50,7 @@ Eignet sich super für **Super-Power**, **Power-Ups** oder **Unverwundbarkeit**.
 
 Und wieder sind die **Klonen** am Start!
 
-<img src="screenshots/08-Regenbogen-Effekt.png" alt="alt text" style="zoom:50%;" />
+![alt text](screenshots/08-Regenbogen-Effekt.png){ width=50% }
 
 Beispiel: https://scratch.mit.edu/projects/1103963666/
 
@@ -70,7 +70,7 @@ Als erstes wieder unsere **Fabrik**:
 - Geh zur **Figur** oder Stelle, wie es funkelt
 - erzeug ganz viele **Klonen**...
 
-<img src="screenshots/08-Sparkle1.png" alt="08-Sparkle1" style="zoom:50%;" />
+![08-Sparkle1](screenshots/08-Sparkle1.png){ width=50% }
 
 ### ... und die **Kids!**
 
@@ -93,9 +93,9 @@ Als erstes wieder unsere **Fabrik**:
 >
 > Jeder soll sich anders bewegen, der eine links, der andere rechts, schneller und langsamer. Hier brauchen wir `lokale` **Variablen**. 
 >
-> ![LokaleVariable](screenshots/LokaleVariable.png)
+> ![LokaleVariable](screenshots/LokaleVariable.png){ width=50% }
 
-<img src="screenshots/08-Sparkle2.png" alt="08-Sparkle2" style="zoom:50%;" />
+![08-Sparkle2](screenshots/08-Sparkle2.png){ width=50% }
 
 Mögen deine **Effekte** magisch sein! ✨🎮
 

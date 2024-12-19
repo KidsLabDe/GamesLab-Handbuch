@@ -21,7 +21,7 @@
 
 Punkte haben wir bis her ja auch schon gesammelt - dafür nimmst du eine **Variable**!
 
-<img src="screenshots/07-punkte.png" alt="07-punkte" style="zoom:50%;" />
+![Programm Punkte](screenshots/07-punkte.png){ width=50% }
 
 - Am Anfang: `setze Punkte auf 0`
 - Wenn die **Katze** den leckeren `Tako` berührt...
@@ -31,11 +31,14 @@ Punkte haben wir bis her ja auch schon gesammelt - dafür nimmst du eine **Varia
 
 Jedesmal, wenn du dein **Spiel** neu lädst, sind ja alle **Variablen** zurückgesetzt. Zum **Speichern** gibt es eine erweiterte **Variablen-Art**, die `Cloud-Variable`. 
 
-<img src="screenshots/07-cloud-var.png" alt="07-cloud-var" style="zoom:50%;" />
+![Cloud Variablen](screenshots/07-cloud-var.png){ width=50% }
+
 
 Einfach prüfen, ob der aktuelle **Punktestand** größer ist, als der **Highscore** - wenn ja: denn ist ein neuer **Highscore** erreicht!
 
-<img src="screenshots/07-punkte-high.png" alt="07-punkte-high" style="zoom:50%;" />
+![Punkte Highscore](screenshots/07-punkte-high.png){ width=50% }
+
+
 
 
 

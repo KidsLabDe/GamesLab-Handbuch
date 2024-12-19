@@ -1,45 +1,41 @@
 # Movie Director 🎬 [⭐]
 
-
-
-
-
 > [!TIP]
 > **NerdY Fun-Fact**
-> Wusstest du? Der erste Animationsfilm der Welt wurde 1908 von Émile Cohl erstellt und hieß "Fantasmagorie". Er bestand aus über 700 einzelnen Zeichnungen, die nacheinander fotografiert wurden! 📽️
+> **Wusstest du?** Der erste **Animationsfilm** der Welt wurde **1908** von **Émile Cohl** erstellt und hieß "**Fantasmagorie**". Er bestand aus über **700** einzelnen **Zeichnungen**, die nacheinander **fotografiert** wurden! 📽️
 
 ### Was du hier lernst
 
-- Die Scratch-Oberfläche kennenlernen
-- Figuren und Sprites steuern
-- Erste Animationen erstellen
-- Mit der Bühne und Kostümen arbeiten
+- Die **Scratch-Oberfläche** kennenlernen
+- **Figuren** und **Sprites** steuern
+- Erste **Animationen** erstellen
+- Mit der **Bühne** und **Kostümen** arbeiten
 
 ![02-Übersicht Scratch IDE](screenshots/02-UebersichtScratchIDE.png)
 
 ## Die Bühne
 
-- Rechts siehst du die "Bühne" - das ist dein Spielfeld
-- Hier bewegen sich deine Figuren und hier passiert die ganze Action
-- Die Bühne kannst du auch als Vollbild anzeigen lassen
+- Rechts siehst du die "**Bühne**" - das ist dein **Spielfeld**
+- Hier bewegen sich deine **Figuren** und hier passiert die ganze **Action**
+- Die **Bühne** kannst du auch als **Vollbild** anzeigen lassen
 
 ## Deine Figuren
 
-- Rechts unten siehst du alle Figuren in deinem Projekt
-- Am Anfang ist nur die Scratch-Katze da
-- Mit dem "+"-Button kannst du neue Figuren hinzufügen:
-  - Fertige Figuren aus der Bibliothek wählen
-  - Eigene Figuren malen
-  - Bilder von deinem Computer hochladen
+- Rechts unten siehst du alle **Figuren** in deinem **Projekt**
+- Am Anfang ist nur die **Scratch-Katze** da
+- Mit dem "+"-Button kannst du neue **Figuren** hinzufügen:
+  - Fertige **Figuren** aus der **Bibliothek** wählen
+  - Eigene **Figuren** malen
+  - **Bilder** von deinem **Computer** hochladen
 
 ## Die Blöcke
 
-- Links findest du alle Befehlsblöcke
-- Die Blöcke sind nach Farben sortiert, so findest du sie leichter:
-  - Blaue Blöcke für Bewegung
-  - Violette Blöcke für Aussehen
-  - Gelbe Blöcke für Events (was wann passieren soll)
-  - Orange Blöcke für Steuerung
+- Links findest du alle **Befehlsblöcke**
+- Die **Blöcke** sind nach **Farben** sortiert, so findest du sie leichter:
+  - Blaue **Blöcke** für **Bewegung**
+  - Violette **Blöcke** für **Aussehen**
+  - Gelbe **Blöcke** für **Events** (was wann passieren soll)
+  - Orange **Blöcke** für **Steuerung**
 
 ## Dein Programmierbereich
 
@@ -55,13 +51,13 @@
 3. Klicke auf den **Block**
 4. Die **Katze** bewegt sich!
 
-<img src="scratch/gehe.png" alt="alt text" style="zoom:50%;" />
+![alt text](scratch/gehe.png){ width=50% }
 
 Und jetzt mach noch ein ganzes **Programm** draus!
 
-<img src="screenshots/02-TanzeKatze.png" alt="Programm für die TanzeKatze" style="zoom:50%;" />
+![Programm für die TanzeKatze](screenshots/02-TanzeKatze.png){ width=50% }
 
-Klicke auf die **Grüne Flagge**:  <img src="scratch/play.svg" width=30> 
+Klicke auf die **Grüne Flagge**: 
 
 > [!NOTE]
 >
@@ -89,14 +85,9 @@ Klicke auf die **Grüne Flagge**:  <img src="scratch/play.svg" width=30>
 > Mach aus der **Katze** einen **Filmstar**!
 > 
 > 1. füge den **Block** `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
->   - <img src="scratch/click-block.png" alt="alt text" style="zoom:50%;" />
->   - <img src="scratch/naechstes-kostuem.png" alt="alt text" style="zoom:50%;" />
+>   - ![alt text](scratch/click-block.png){ width=50% }
+>   - ![alt text](scratch/naechstes-kostuem.png){ width=50% }
 > 2. Klicke auf die **Katze**, was passiert?
 > 3. Wechsle im **Arbeitsbereich** auf `Kostüme` und male etwas auf der **Katze** rum
-> 
-
-
-
-
 
 \newpage

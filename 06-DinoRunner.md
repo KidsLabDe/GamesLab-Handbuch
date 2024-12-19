@@ -25,7 +25,7 @@ Am Anfang ist es immer gut, sich einen **Plan** zu machen: ob es ein **StoryBoar
 4. Der **Kaktus** kommt!
 5. **Game Over**
 
-![DinoRunner-start-plan](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/DinoRunner-start-plan.png)
+![DinoRunner - der Plan](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/DinoRunner-start-plan.png)
 
 ### 1. Hintergrund und Hauptfigur
 
@@ -38,7 +38,7 @@ Am Anfang ist es immer gut, sich einen **Plan** zu machen: ob es ein **StoryBoar
 
 ### 2. Wie bringt man einem Pixel-Dino das Hüpfen bei?
 
-![Huepfen-beschriftet](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/Huepfen-beschriftet.png)
+![Huepfen - so gehts](/Users/kingbbq/src/GamesLab-Handbuch/screenshots/Dino/Huepfen-beschriftet.png)
 
 #### Sprungkraft!
 
