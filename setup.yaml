@@ -7,6 +7,7 @@ logo-width: 100mm
 toc: true
 toc-title: "Übersicht"
 toc-own-page: true
+toc-depth: 2
 
 lang: "de"
 
@@ -38,3 +39,4 @@ header-includes:
 `\setmainfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
 `\setsansfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
 |
+

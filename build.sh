@@ -5,18 +5,10 @@ rm all.tmp
 # copy all the md files into one large file
 cat setup.yaml > all.tmp && cat $(ls -1 *.md | sort) >> all.tmp
 
-# cat setup.yaml > all.tmp && cat 12-Debug.md >> all.tmp
-
 # convert with pandoc
-#pandoc *.md -o "../GamesLab-Handbuch.docx"
-# pandoc all.tmp -o "GamesLab-Handbuch.pdf" --from markdown --template eisvogel --filter pandoc-latex-environment --pdf-engine=lualatex --lua-filter test/convert.lua --wrap=preserve
+pandoc all.tmp -o GamesLab-Handbuch.pdf --template eisvogel --lua-filter test/convert.lua --filter pandoc-latex-environment --pdf-engine=lualatex --from markdown
 
+pandoc all.tmp -o test/GamesLab-Handbuch.md  --lua-filter test/convert.lua --filter pandoc-latex-environment --pdf-engine=lualatex --from markdown
 
-pandoc all.tmp -o test.pdf --template eisvogel --lua-filter test/convert.lua --filter pandoc-latex-environment --pdf-engine=lualatex --from markdown
-
-#echo "jetzt das icml dokument"
-#pandoc *.md -t icml -s -o "../GamesLab-Handbuch.icml" --from markdown --template "../eisvogel.latex" --filter pandoc-latex-environment --listings --pdf-engine=xelatex
-
-
-##
-# rm all.tmp
+# cleanup
+rm all.tmp

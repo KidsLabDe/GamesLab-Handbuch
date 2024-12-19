@@ -43,55 +43,56 @@
 
 ## Dein Programmierbereich
 
-- In der Mitte ist dein Programmierbereich
-- Hierhin ziehst du die Blöcke
-- Die Blöcke rasten wie Puzzleteile ineinander ein
-- Alles was du hier zusammenbaust, bestimmt was deine Figur macht
+- In der Mitte ist dein **Programmierbereich**
+- Hierhin ziehst du die **Blöcke**
+- Die **Blöcke** rasten wie **Puzzleteile** ineinander ein
+- Alles was du hier zusammenbaust, bestimmt was deine **Figur** macht
 
 ## Leg los: lass die Katze laufen!
 
-1. Klicke auf die Scratch-Katze
-2. Ziehe einen blauen "`gehe 10er-Schritt`"-Block in den Programmierbereich
-3. Klicke auf den Block
-4. Die Katze bewegt sich!
+1. Klicke auf die **Scratch-Katze**
+2. Ziehe einen blauen "`gehe 10er-Schritt`"-**Block** in den **Programmierbereich**
+3. Klicke auf den **Block**
+4. Die **Katze** bewegt sich!
 
 <img src="scratch/gehe.png" alt="alt text" style="zoom:50%;" />
 
-Und jetzt mach noch ein ganzes Programm draus!
+Und jetzt mach noch ein ganzes **Programm** draus!
 
 <img src="screenshots/02-TanzeKatze.png" alt="Programm für die TanzeKatze" style="zoom:50%;" />
 
-Klicke auf die Grüne Flagge:  <img src="scratch/play.svg" width=30> 
+Klicke auf die **Grüne Flagge**:  <img src="scratch/play.svg" width=30> 
 
 > [!NOTE]
 >
-> ### Nerdy-Erkläromat
+> **Nerdy-Erkläromat**
 >
-> 1. Figuren schnell duplizieren
->    - Rechtsklick auf Figur → Duplizieren
->    - Spart Zeit beim Erstellen ähnlicher Figuren
-> 2. Kostüme clever nutzen
->    - Kostüme für verschiedene Zustände
->    - Animation durch Kostümwechsel
->    - Kostüme aus der Bibliothek mixen
-> 3. Ordnung im Projekt
->    - Figuren sinnvoll benennen
->    - Blöcke kommentieren
->    - Ähnliche Blöcke gruppieren
+> 1. **Figuren** schnell duplizieren
+>    - Rechtsklick auf **Figur** → **Duplizieren**
+>    - Spart Zeit beim Erstellen ähnlicher **Figuren**
+> 2. **Kostüme** clever nutzen
+>    - **Kostüme** für verschiedene Zustände
+>    - **Animation** durch **Kostümwechsel**
+>    - **Kostüme** aus der Bibliothek mixen
+> 3. **Ordnung** im Projekt
+>    - **Figuren** sinnvoll benennen
+>    - **Blöcke** kommentieren
+>    - Ähnliche **Blöcke** gruppieren
 >
 > 
 
 
 > [!IMPORTANT]
 > 
-> ### Nerdy-Side-Quest
+>  **Nerdy-Side-Quest**
 > 
-> Mach aus der Katze einen Filmstar!
-> 1. füge den Block `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
+> Mach aus der **Katze** einen **Filmstar**!
+> 
+> 1. füge den **Block** `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
 >   - <img src="scratch/click-block.png" alt="alt text" style="zoom:50%;" />
 >   - <img src="scratch/naechstes-kostuem.png" alt="alt text" style="zoom:50%;" />
-> 2. Klicke auf die Katze, was passiert?
-> 3. Wechsle im Arbeitsbereich auf `Kostüme` und male etwas auf der Katze rum
+> 2. Klicke auf die **Katze**, was passiert?
+> 3. Wechsle im **Arbeitsbereich** auf `Kostüme` und male etwas auf der **Katze** rum
 > 
 
 

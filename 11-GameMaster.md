@@ -1,7 +1,7 @@
 # Game Master 🎮 [⭐⭐⭐⭐⭐]
 Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist jetzt ein echter Game Developer!
 
-## **Mein Spiel 🎮** **Spielinformationen**
+## Mein Spiel 🎮 Spielinformationen
 
 **Name deines Spiels:** 
 
@@ -26,7 +26,7 @@ Das ultimative Ziel! Erschaffe dein Meisterwerk mit allem drum und dran. Du bist
 
 ___
 
-### **2\. Spielmechanik**
+### 2\. Spielmechanik
 
 **Der Spieler kann:**
 
@@ -48,7 +48,7 @@ So bekommt man Punkte: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 So verliert man: _\_\_\_\_
 
-### **3\. Die Hauptfigur(en)**
+### 3\. Die Hauptfigur(en)
 
 So heißt meine Hauptfigur / das ist meine Hauptfigur:
 
@@ -70,7 +70,7 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 
 - ______
 
-### **4\. Level**
+### 4\. Level
 
 **Schwierigkeitsgrad meines Spiels:** □ Leicht  □ Mittel  □ Schwer
 
@@ -87,7 +87,7 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 
 3. ___
 
-### **5\. Grafik & Sound**
+### 5\. Grafik & Sound
 
 **In diesem Art-Style ist mein Spiel gestaltet:** □ Pixel  □ Comic  □ Realistisch  □ Anders: \_\_\_\_\_\_\_\_\_
 
@@ -97,7 +97,7 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 - □ Effekte für: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 - □ Sonstiges: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **6\. Extra-Features**
+### 6\. Extra-Features
 
 **Nice-to-have** (Falls noch Zeit ist):
 
@@ -105,7 +105,7 @@ Eine Zeichnung oder Beschreibung meiner Hauptfigur(en):
 - □ _\_  
 - □ _\_
 
-### **PRO-TIPPS:**
+### PRO-TIPPS
 
 - Fang klein an\! Du kannst später immer noch Features hinzufügen  
 - Teste früh und oft  
