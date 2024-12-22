@@ -1,4 +1,4 @@
-# Cookie King 🍪 [⭐⭐]
+# Level 4 - Cookie King 🍪 [⭐⭐]
 ## Mmh, Kekse! 
 
 Wer kann dem Duft von frisch gebackenen **Keksen** widerstehen? Und auch der **Cookie-Clicker** erfreut sich großer Beliebtheit. Wie den **Keksen** gehts auch bei **Spielen** um das ganze **Erlebnis**: **Riechen**, **Sehen**, **Schmecken**!
@@ -8,8 +8,10 @@ Wer kann dem Duft von frisch gebackenen **Keksen** widerstehen? Und auch der **C
 > **NerdY Fun-Fact**
 >
 > Der originale **Cookie Clicker** wurde **2013** von einem französischen **Programmierer** in seiner Mittagspause entwickelt - heute haben über **4 Millionen Menschen** mehr als **1 Trillion virtuelle Kekse** gebacken! 🏭 Das originale **Spiel** findest du hier: https://orteil.dashnet.org/cookieclicker/ 
+>
+> ![](qrcodes/05-cookie-game.png)
 
-### Was du hier lernst 🎯
+### Was du hier lernst 
 
 - Ein süchtig machendes **Idle-Game** entwickeln
 - Mit **Variablen** rechnen und Werte speichern
@@ -28,7 +30,7 @@ Du kannst:
 - eine neue `Malen`
 - oder eine mit **ChatGPT** erzeugen und die `Figur hochladen`
 
-![Figur-neu](scratch/Figur-neu.png)
+![](scratch/Figur-neu.png){ width=20% }
 
 ## Die Variablen!
 
@@ -56,20 +58,20 @@ Du kannst:
 
 ## .. und so zählt dein Cookie hoch
 
-![Programm für den Cookie](screenshots/05-cookie-code.png)
+![Programm für den Cookie](screenshots/05-cookie-code.png){ width=50% }
 
-- Erstelle eine neue Variable: clicke auf `Neue Variable`
+- Erstelle eine neue Variable: klicke auf `Neue Variable`
 - Nenne die Variable "Cookies"
-- Beim Stard des Programms - `setze Cookies auf 0` - des Spiel geht ja immer von 0 los.
-- Wenn der Cookie angeklickt wird - `ändere Cookies um 1` -  das erhört die Variable Cookies jeweils um eins.
+- Beim Start des Programms - `setze Cookies auf 0` - das Spiel geht ja immer von 0 los.
+- Wenn der Cookie angeklickt wird - `ändere Cookies um 1` -  das erhöht die Variable Cookies jeweils um eins.
 
 ## Das Upgrade-System
 
 Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du heraus, wenn du die QR-Code scannst!
 
-| Back-Oma                               | Bäckerei                                           | Auto-Klicker                             | Erklärung                                                |
-| -------------------------------------- | -------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------- |
-| ![clicker-oma](bilder/clicker-oma.png) | ![clicker-baeckerei](bilder/clicker-baeckerei.png) | ![clicker-auto](bilder/clicker-auto.png) | https://pad.kidslab.de/p/GamesLab-CookieMaster (QR Code) |
+| Back-Oma                                 | Bäckerei                                       | Auto-Klicker                              | Erklärung                                                    |
+| ---------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------ |
+| ![](bilder/clicker-oma.png){ width=10% } | ![](bilder/clicker-baeckerei.png){ width=10% } | ![](bilder/clicker-auto.png){ width=10% } | ![https://pad.kidslab.de/p/GamesLab-CookieMaster#/](qrcodes/05.png) |
 
 > [!IMPORTANT]
 >
@@ -81,8 +83,12 @@ Jetzt fehlen nur noch die Upgrades - wie genau Du sie programmierst, findest du 
 >
 > **Du musst die Werte bei Größe entsprechend deinem Cookie anpassen, also die Zahlen: 150, 120 und 180.** 
 >
-> ![05-cookie-effect](screenshots/05-cookie-effect.png){ width=50% }
+> ![](screenshots/05-cookie-effect.png){ width=50% }
 
 **Remember**: Der beste Cookie Clicker ist der, den man nicht mehr aufhören kann zu spielen! 🍪✨
+
+### Entdecke mehr! 📱
+
+![https://pad.kidslab.de/p/GamesLab-CookieMaster#/](qrcodes/05.png)
 
 \newpage

@@ -1,4 +1,4 @@
-# Movie Director 🎬 [⭐]
+# Level 1 - Movie Director 🎬 [⭐]
 
 > [!TIP]
 > **NerdY Fun-Fact**
@@ -31,11 +31,14 @@
 ## Die Blöcke
 
 - Links findest du alle **Befehlsblöcke**
+
 - Die **Blöcke** sind nach **Farben** sortiert, so findest du sie leichter:
   - Blaue **Blöcke** für **Bewegung**
   - Violette **Blöcke** für **Aussehen**
   - Gelbe **Blöcke** für **Events** (was wann passieren soll)
   - Orange **Blöcke** für **Steuerung**
+  
+  ![farben_bloecke](scratch/farben_bloecke.png){ width=25% }
 
 ## Dein Programmierbereich
 
@@ -51,11 +54,11 @@
 3. Klicke auf den **Block**
 4. Die **Katze** bewegt sich!
 
-![alt text](scratch/gehe.png){ width=50% }
+![](scratch/gehe.png){ width=25% }
 
 Und jetzt mach noch ein ganzes **Programm** draus!
 
-![Programm für die TanzeKatze](screenshots/02-TanzeKatze.png){ width=50% }
+![Programm für die TanzeKatze](screenshots/02-TanzeKatze.png){ width=25% }
 
 Klicke auf die **Grüne Flagge**: 
 
@@ -85,9 +88,21 @@ Klicke auf die **Grüne Flagge**:
 > Mach aus der **Katze** einen **Filmstar**!
 > 
 > 1. füge den **Block** `wenn auf figur geklickt` und `wechsle zum nächsten kostüm`
->   - ![alt text](scratch/click-block.png){ width=50% }
->   - ![alt text](scratch/naechstes-kostuem.png){ width=50% }
+>   - ![](scratch/click-block.png){ width=25% }
+>   - ![](scratch/naechstes-kostuem.png){ width=25% }
 > 2. Klicke auf die **Katze**, was passiert?
 > 3. Wechsle im **Arbeitsbereich** auf `Kostüme` und male etwas auf der **Katze** rum
+
+
+
+### Entdecke mehr! 📱
+
+Weitere Beispiele und coole fertige Scratch-Filme findest du hier:
+
+![https://pad.kidslab.de/p/GamesLab-Movie](qrcodes/02-movie.png)
+
+
+
+
 
 \newpage

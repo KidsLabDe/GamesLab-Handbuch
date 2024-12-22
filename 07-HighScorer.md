@@ -1,4 +1,4 @@
-# High-Score Master 🏆 [⭐⭐⭐]
+# Level 6 - High-Score Master 🏆 [⭐⭐⭐]
 ### Für die Ewigkeit! Speichere die besten Leistungen
 
 > [!TIP]
@@ -7,7 +7,7 @@
 >
 > Der erste dokumentierte **High-Score** der Videospielgeschichte wurde **1976** im Spiel **Sea Wolf** aufgestellt. Damals musste man noch ein **Foto** vom Bildschirm machen, um seinen **Score** zu beweisen! 📸
 
-### Was du hier lernst 🎯
+### Was du hier lernst 
 
 - Ein **Highscore-System** entwickeln
 - Mit **Cloud-Variablen** arbeiten
@@ -19,7 +19,7 @@
 
 ### Punkte sammeln
 
-Punkte haben wir bis her ja auch schon gesammelt - dafür nimmst du eine **Variable**!
+Punkte haben wir bisher ja auch schon gesammelt - dafür nimmst du eine **Variable**!
 
 ![Programm Punkte](screenshots/07-punkte.png){ width=50% }
 
@@ -27,14 +27,14 @@ Punkte haben wir bis her ja auch schon gesammelt - dafür nimmst du eine **Varia
 - Wenn die **Katze** den leckeren `Tako` berührt...
 - ... dann `ändere Punkte um 1`
 
-### Punkte abspeichern
+### Punkte speichern
 
 Jedesmal, wenn du dein **Spiel** neu lädst, sind ja alle **Variablen** zurückgesetzt. Zum **Speichern** gibt es eine erweiterte **Variablen-Art**, die `Cloud-Variable`. 
 
-![Cloud Variablen](screenshots/07-cloud-var.png){ width=50% }
+![Cloud Variablen](screenshots/07-cloud-var.png){ width=30% }
 
 
-Einfach prüfen, ob der aktuelle **Punktestand** größer ist, als der **Highscore** - wenn ja: denn ist ein neuer **Highscore** erreicht!
+Einfach prüfen, ob der aktuelle **Punktestand** größer als der **Highscore** ist - falls ja: dann ist ein neuer **Highscore** erreicht!
 
 ![Punkte Highscore](screenshots/07-punkte-high.png){ width=50% }
 
@@ -64,7 +64,13 @@ Aber da geht noch mehr:
 - **Namenseingabe**
 - **Datum & Uhrzeit**
 
-Und das findest du alles hier: https://pad.kidslab.de/p/GamesLab-Highscore (QR Code)
+### Entdecke mehr! 📱
+
+Wie der 2. Teil genau geht, findest du hier:
+
+![https://pad.kidslab.de/p/GamesLab-Highscore](qrcodes/07-high.png)
+
+
 
 
 \newpage

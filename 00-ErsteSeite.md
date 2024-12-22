@@ -1,10 +1,13 @@
+
+
+
 # Willkommen im GamesLab
 
-## Deine Reise ins Spieleentwickeln
+## Lust auf eigene Spiele bauen? So geht's!
 
 Hey!
 
-Willkommen im GamesLab Handbuch! Hast du schon mal davon geträumt, dein eigenes Spiel zu entwickeln? Hier lernst du, wie das geht – mit Scratch, einer coolen Plattform, die Programmieren super einfach macht. Scratch funktioniert wie ein Baukasten: Du kombinierst Blöcke und bringst Figuren in Bewegung, für deine ganz eigenen Spiele, Animationen oder Geschichten.
+Willkommen im GamesLab Handbuch! Hast du schon mal davon geträumt, **dein eigenes Spiel zu entwickeln**? Hier lernst du, wie das geht – mit **Scratch**, einer coolen Plattform, die Programmieren super einfach macht. Scratch funktioniert wie ein Baukasten: Du kombinierst Blöcke und bringst Figuren in Bewegung, für deine ganz eigenen Spiele, Animationen oder Geschichten.
 
 **Was dich erwartet:**
 
@@ -16,8 +19,8 @@ Egal ob du schon Erfahrung hast oder ganz neu bist – hier wirst du zum Spiele-
 
 **Lass uns loslegen und gemeinsam richtig tolle Spiele bauen!**
 
-Gregor, Regine, Irmel, MatzE, Daniel, Johannes... und alle anderen Mentorinnen und Mentoren 
 
-![Diese Mentorinnen und Mentoren begleiten euch!](bilder/Mentoren.jpg)
+
+![Diese Mentorinnen und Mentoren begleiten dich!](bilder/Mentoren.jpg){ width=50% }
 
 \newpage

@@ -1,4 +1,4 @@
-# Dino Runner 🦖 [⭐⭐⭐]
+# Level 5 - Dino Runner 🦖 [⭐⭐⭐]
 SPRING! Programmiere den Klassiker nach und lass deinen **Dino** über alle **Hindernisse** hüpfen.
 
 > [!TIP]
@@ -8,7 +8,7 @@ SPRING! Programmiere den Klassiker nach und lass deinen **Dino** über alle **Hi
 > Der Chrome **Dino** wurde **2014** von einem Chrome-Entwickler als Zeitvertreib entwickelt - aber er hat sich so einen Kult-Status erarbeitet. Du kannst das **Spiel** im Chrome Browser spielen, wenn du keine **Internetverbindung** hast. Du kannst es aufrufen, wenn du diesen Befehl in die Adresszeile eingibst: `chrome://dino `
 > Warum kommt da ein **T-Rex-Dino**, wenn man kein **Internet** hat? Weil man dann informationstechnisch in **Prähistorischen-Zeiten** ist!
 
-### Was du hier lernst 🎯
+### Was du hier lernst 
 
 - Ein endlos laufendes **Jump'n'Run** entwickeln
 - Mit **Clone-Objekten** arbeiten
@@ -46,7 +46,11 @@ Am Anfang ist es immer gut, sich einen **Plan** zu machen: ob es ein **StoryBoar
 - Wenn die **Katze** los springt, hat sie erst mal volle "Sprungkraft": sie bewegt sicht mit 10 Punkten nach oben.
 - Bei jedem Durchlauf wird die **Sprungkraft** um "1" kleiner gemacht, sie fliegt also immer langsammer nach oben
 - Irgendwann wird die **Sprungkraft** "negativ" - dann fliegt die **Katze** wieder runter
-- Sobald sie den **Boden** berührt, ist schluss mit Fliegen und wir setzen die **Sprungkraft** wieder auf 0
+- Sobald sie den **Boden** berührt, ist Schluss mit Fliegen und wir setzen die **Sprungkraft** wieder auf 0
+
+![](screenshots/Dino/02-03-bewegung.png){ width=50% }
+
+![](screenshots/Dino/02-05-bodenstop.png){ width=50% }
 
 ### 3. Boden, bewege dich!
 
@@ -58,6 +62,8 @@ So gehts:
 2. Die **Steine** entstehen als “Klone” - zufällig
 3. Wenn die **Klone** entstehen, bewege sie nach links
 4. Wenn sie den **Rand** (links) berühren, sollen sie verschwinden
+
+![](screenshots/Dino/03-03-steine-bewegung.png){ width=50% }
 
 > [!NOTE]
 >
@@ -72,9 +78,9 @@ So gehts:
 >
 > **Wichtig:**
 >
-> - Das Original ist die **"Fabrik"** die **Klone** erzeugt
+> - Das Original ist die **"Fabrik"**, die **Klone** erzeugt
 > - **Klone** führen eigene **Befehle** aus
-> - **Klone** sollten gelöscht werden wenn nicht mehr benötigt
+> - **Klone** sollten gelöscht werden, wenn nicht mehr benötigt
 > - Nicht zu viele **Klone** gleichzeitig (max ~300) sonst wird das **Spiel** langsam
 >
 > Mit **Klonen** sparst du dir viel Arbeit, da du nicht jedes **Element** einzeln erstellen musst. Sie sind perfekt für sich wiederholende **Spielelemente**: beim **Dino-Runner** sind das die **Kakteen** und **Steine**...
@@ -89,19 +95,23 @@ So gehts:
 
 1. **Stein** duplizieren (wir sind faul) und umbenennen
 2. **Kostüm** anpassen - male den **Kaktus**!
-3. **Position** und **Größe** anpassen.
+3. **Position** und **Größe** anpassen. 
 
 ### 5. Game Over!
 
 Die **Katze** soll schauen, ob sie den **Kaktus** berührt… wenn ja: `Game Over`!
 
+![](screenshots/Dino/05-01-kollision.png){ width=50% }
+
+### Entdecke mehr! 📱
+
+### ... das war jetzt aber sehr schnell!
+
+Kein Problem - hier noch mal alles in langsam, Schritt für Schritt:
+
+![https://pad.kidslab.de/p/GamesLab-Dino](qrcodes/06-Dino.png)
 
 
-## ... das war jetzt aber sehr schnell!
-
-Kein Problem - hier noch mal alles in langsam, schritt für schritt:
-
-https://pad.kidslab.de/p/GamesLab-Dino (QR Code)
 
 \newpage
 

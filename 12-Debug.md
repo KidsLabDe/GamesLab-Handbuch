@@ -56,12 +56,13 @@ Alles ausprobiert, aber es geht immer noch nicht?
 - **Veröffentliche** dein Projekt  
 - Schicke uns die **URL** des Projekts  
 - **Foto** reicht auch  
+- Und natürlich: Was dein Bug oder Problem ist?
 
-Entweder per **Mail**:  
+Entweder per **Mail**: 
 **team@kidslab.de**
 
 Oder per **WhatsApp**:  
 
-![whatsapp](bilder/whatsapp.jpeg)
+![whatsapp](bilder/whatsapp.jpeg){ width=50% }
 
 \newpage

@@ -28,6 +28,7 @@
 - Es macht richtig viel **Spaß**
 - Du kannst sofort **loslegen** und **kreativ** werden
 - Wenn etwas nicht klappt, kannst du es einfach noch mal probieren
+- ![https://scratch.mit.edu](qrcodes/scratch.png)
 
 # Deine Zugangsdaten
 
