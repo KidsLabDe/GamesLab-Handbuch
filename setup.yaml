@@ -2,7 +2,7 @@
 title: "GamesLab Handbuch"
 
 titlepage: true
-titlepage-logo: "bilder/LogoGamesLab.jpg"
+titlepage-logo: "bilder/GamesLab-cover.jpg"
 logo-width: 100mm
 toc: true
 toc-title: "Übersicht"
@@ -11,8 +11,8 @@ toc-depth: 2
 
 lang: "de"
 
-author: "KidsLab.de"
-date: "2024-12-18"
+author: "Gregor Walter, KidsLab.de"
+date: "Montag, 23. Dezember 2024"
 colorlinks: true
 mainfont: Ubuntu
 mainfontfallback:
