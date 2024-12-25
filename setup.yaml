@@ -11,6 +11,11 @@ toc-depth: 2
 
 lang: "de"
 
+
+# epub stuff
+
+cover-image: bilder/GamesLab-cover.jpg
+
 author: "Gregor Walter, KidsLab.de"
 date: "Montag, 23. Dezember 2024"
 colorlinks: true
