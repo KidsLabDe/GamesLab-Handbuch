@@ -1,5 +1,11 @@
 # Typische Fehler 
 
+# Dino Runner
+
+## Die Kakteen erscheinen nicht!
+
+Es ist wichtig, dass die Kathen, wenn sie spannen, nicht in Land berühren – es gibt ja die Regel, dass, wenn sie den dann bedienen soll, verschwinden.
+
 ## Programm startet nicht
 
 - Kein Start-Block ("Wenn ⚑ angeklickt") verwendet
