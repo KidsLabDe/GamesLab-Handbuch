@@ -1,46 +1,58 @@
-Hier ist eine lehrerfreundliche Beschreibung für Scratch-Educator-Accounts:
+# **Scratch-Lehreraccount** 
 
-# Scratch für Lehrkräfte: Der Educator Account
+Als Lehrkraft können Sie einen speziellen “Educator-Account” bei Scratch erstellen, der Ihnen zusätzliche Funktionen für den Unterricht bietet.
 
-Als Lehrkraft können Sie einen speziellen Educator Account bei Scratch erstellen, der Ihnen zusätzliche Funktionen für den Unterricht bietet.
+![image1](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image1.png)
 
-## Vorteile des Educator Accounts
+**Vorteile des “Educator-Accounts”**
 
 - Klassen/Kurse anlegen und verwalten
 - Schülerkonten ohne E-Mail-Adressen erstellen
-- Schülerprojekte und -aktivitäten überwachen  
+- Schülerprojekte und -aktivitäten überwachen
 - Vereinfachte Passwort-Verwaltung
 - Zugriff auf spezielle Unterrichtsmaterialien
 
-## So richten Sie einen Educator Account ein
+Weitere Informationen finden Sie hier: https://scratch.mit.edu/educators/.
 
-1. Besuchen Sie scratch.mit.edu
-2. Klicken Sie auf "Werde Scratch-Lehrer"
-3. Füllen Sie das Formular mit Ihren Daten aus:
-   - Name und E-Mail 
+
+
+**So richten Sie einen Lehrkräfte-Account ein**
+
+1. Besuchen Sie: https://scratch.mit.edu/educators/register
+2. Füllen Sie das Formular mit Ihren Daten aus:
+   - Name und E-Mail
    - Schulname und -adresse
    - Kurze Beschreibung Ihrer Lehrtätigkeit
-4. Nach der Verifizierung erhalten Sie Zugang zu den Educator-Funktionen
 
-## Klassen erstellen und verwalten
+1. Sie erhalten eine Mail mit einem Link, den sie zur Bestätigung klicken
+2. Nach der Verifizierung (ca. 1 Tag) erhalten Sie Zugang zu den zusätzlichen Funktionen
 
-1. Legen Sie einen neuen Kurs an
-2. Generieren Sie Schüler-Accounts (max. 35 pro Klasse)
-3. Die Schüler erhalten individuelle Zugangsdaten
-4. Sie können die Projekte und Aktivitäten aller Schüler einsehen
 
-## Praxistipps
 
-- Erstellen Sie eine Übersichtsliste mit allen Zugangsdaten
-- Lassen Sie die Schüler ihre Passwörter notieren
-- Richten Sie die Accounts vor dem Kurs ein
-- Testen Sie einen Beispiel-Account
 
-## Support
 
-Falls Sie Hilfe benötigen:
-- Scratch Help Center: scratch.mit.edu/educators
-- E-Mail: education@scratch.mit.edu 
+**Klasse und Klassenlink** **erstellen**
 
-Mit dem Educator Account können Sie sich voll auf den kreativen Teil des Unterrichts konzentrieren, während die Verwaltung der Schülerkonten einfach und übersichtlich bleibt.
+Legen Sie vor dem GamesLab-Workshop eine Klasse in Ihrem Account an - so haben Sie später die Kontrolle über die Schüler-Accounts und können z.B. verlorene Passwörter zurücksetzen.
 
+Sollten Sie Schwierigkeiten haben, können wir Ihnen auch am Workshop-Tag dabei helfen.
+
+
+
+**So gehen sie vor:**
+
+1.  Melden Sie sich mit ihrem Lehrkraft-Account bei Scratch an: https://scratch.mit.edu 
+
+2. Klicken sie auf “meine Klassen” und erstellen Sie eine neue Klasse 
+
+   ![image2](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image2.png)
+
+   ![image3](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image3.png)
+
+3. Erstellen Sie den Schüler-Registrierungslinks
+
+   ![image4](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image4.png)
+
+4. Kopieren Sie den Link und mailen diesen an: [team@kidslab.de](mailto:team@kidslab.de) 
+
+ 
