@@ -15,7 +15,7 @@
 - URL: https://csfirst.withgoogle.com/c/cs-first/de/curriculum.html
 - Spezieller Game Design Kurs: https://csfirst.withgoogle.com/c/cs-first/de/game-design/overview.html
 
-#### Besondere Merkmale:
+### Besondere Merkmale:
 
 - Etwa 1h Vorbereitungszeit pro Unterrichtseinheit
 - Keine Anmeldung erforderlich

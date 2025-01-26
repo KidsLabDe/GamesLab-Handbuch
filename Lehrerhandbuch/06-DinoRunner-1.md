@@ -6,13 +6,11 @@ Diese Doppelstunde führt die Schüler an eine der wichtigsten Mechaniken der Sp
 
 | Zeit   | Aktivität                                                    | Material & Hinweise                                          |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 15 min | **Inspiration & Planung** <br>- Demo des Chrome Dino <br>- Gemeinsame Analyse der Sprungbewegung <br>- Erstellen eines Entwicklungsplans | - Chrome Browser für Demo <br>- Handbuch Kapitel 6 <br>- Whiteboard für Bewegungsanalyse |
+| 15 min | **Inspiration & Planung** <br>- Demo des Chrome Dino <br>- Gemeinsame Analyse der Sprungbewegung <br>- Erstellen eines Entwicklungsplans | - Chrome Browser für Demo: https://chromedino.com/<br>- Handbuch Kapitel 6 <br>- Whiteboard für Bewegungsanalyse |
 | 30 min | **Grundlegende Sprungmechanik** <br>- Variable "Sprungkraft" einführen <br>- Aufwärtsbewegung programmieren <br>- Schwerkraft implementieren <br>- Boden-Kollision einbauen | - Code-Vorlagen im Handbuch <br>- Debug-Tipps für Sprungverhalten <br>- Wertetabelle für Feintuning |
 | 25 min | **Feintuning & Experimentieren** <br>- Sprunghöhe anpassen <br>- Fallgeschwindigkeit optimieren <br>- Verschiedene Werte testen <br>- Spielgefühl verbessern | - Experimentier-Protokoll <br>- Verschiedene Testszenarien <br>- Optimierungs-Checkliste |
 | 15 min | **Test & Verbesserung** <br>- Gegenseitiges Testen <br>- Feedback sammeln <br>- Werte optimieren | - Feedback-Bögen <br>- Vergleichswerte für gutes "Game Feel" |
 | 5 min  | **Abschluss & Sicherung** <br>- Erfolgreiche Werte notieren <br>- Projekte speichern <br>- Ausblick auf nächste Stunde | - Notizzettel für Erfolgswerte <br>- Speicher-Checkliste     |
-
-Beispiel: https://scratch.mit.edu/projects/1102220876/ Oder: https://scratch.mit.edu/projects/1120295179/
 
 ## Hausaufgabe: "Game Research" 
 
@@ -68,3 +66,15 @@ Remember: Ein präzises Sprungsystem ist die Basis für ein motivierendes Spiele
 > Das nennt man "Game Feel" - und das macht den Unterschied zwischen einem okay Spiel und einem, das man stundenlang spielen kann! 🎮
 
 Die nächste Einheit baut direkt auf dieser Grundmechanik auf. Ein gut funktionierender Sprung ist daher essentiell für den weiteren Erfolg des Projekts.
+
+
+
+### Weitere Infos und Beispiele
+
+![https://pad.kidslab.de/p/GamesLab-Dino](../qrcodes/06-Dino.png)
+
+Beispiele: 
+
+- https://scratch.mit.edu/projects/1102220876/
+- https://scratch.mit.edu/projects/1120295179/
+

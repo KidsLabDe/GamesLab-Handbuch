@@ -11,13 +11,15 @@ toc-depth: 2
 
 lang: "de"
 
+book: true
+papersize: a4
 
 # epub stuff
 
 cover-image: ../bilder/GamesLab-cover.jpg
 
 author: "Gregor Walter, KidsLab.de"
-date: "Montag, 23. Dezember 2024"
+date: "Montag, 13. Januar 2025"
 colorlinks: true
 mainfont: Ubuntu
 mainfontfallback:

@@ -6,25 +6,35 @@ Das Cookie King Kapitel ist der Übergang von einfachen Aktions-Reaktions-Spiele
 
 | Zeit   | Aktivität                                                    | Material & Hinweise                                          |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 15 min | **Einführung in Variablen** <br>- Box-Metapher für Variablen erklären <br>- Live-Demo einer Punktezählung <br>- Gemeinsames Erstellen einer ersten Variable | - Handbuch mit Box-Metapher <br>- Beispiel-Cookie-Clicker    |
+| 15 min | **Einführung in Variablen** <br>- Box-Metapher für Variablen erklären (Seite 24)<br>- Live-Demo einer Punktezählung <br>- Gemeinsames Erstellen einer ersten Variable | - Handbuch mit Box-Metapher <br>- Beispiel-Cookie-Clicker    |
 | 25 min | **Grundmechanik entwickeln** <br>- Cookie-Sprite erstellen und animieren <br>- Klick-Mechanik programmieren <br>- Punktezähler einrichten <br>- Visuelle Feedback-Effekte | - Cookie-Vorlagen <br>- Code-Beispiele im Handbuch <br>- Animation-Tutorial |
-| 25 min | **Upgrade-System** <br>- Erste Upgrade-Variable erstellen <br>- Multiplikatoren implementieren <br>- Automatische Klicker programmieren (Back-Oma) | - Upgrade-Planungsbogen <br>- Wertetabelle für Balance <br>- Debug-Checkliste |
+| 25 min | **Upgrade-System** <br>- Erste Upgrade-Variable erstellen <br>- Multiplikatoren implementieren <br>- Automatische Klicker programmieren (Back-Oma) | - Upgrade-System Übersicht (Seite 28) <br>                   |
 | 15 min | **Balancing-Workshop** <br>- Spiele gegenseitig testen <br>- Werte optimieren <br>- Feedback sammeln und umsetzen | - Feedback-Bögen <br>- Balance-Checkliste <br>- Optimierungs-Tipps |
-| 10 min | **Präsentation & Reflexion** <br>- Erfolgreiche Spiele vorstellen <br>- Unterschiedliche Balance-Ansätze vergleichen <br>- Beste Praktiken sammeln | - Präsentations-Leitfaden <br>- Achievement-Sticker          |
+| 10 min | **Präsentation & Reflexion** <br>- Erfolgreiche Spiele vorstellen <br>- Unterschiedliche Balance-Ansätze vergleichen <br>- Beste Praktiken sammeln |                                                              |
 
 Beispiel: https://scratch.mit.edu/projects/1111026687/ 
 
-## Hausaufgabe: "Balance Master" 
+> [!NOTE]
+>
+> **Cookie Clicker - das sinnloseste Spiel der Welt?**
+>
+> Man kann sich echt wundern – warum sind Cookie Clicker Spiele so beliebt? Wir haben bei uns eine Umfrage unter Kindern das Workshops gemacht und alle haben gesagt, sie lieben Cookie Clicker. Was macht die Faszination aus? Probieren Sie es selbst mal aus: es ist eine entspannende Erfahrung. Man klickt immer nur, man muss sich nicht gross kümmern, aber man hat immer das Gefühl belohnt werden. 
 
-Die Schüler spielen verschiedene Clicker-Spiele (z.B. Cookie Clicker original) und notieren sich, was das Spiel motivierend macht. Sie sollen drei konkrete Ideen aufschreiben, wie sie ihr eigenes Spiel verbessern können.
 
-## Differenzierung: 
+
+### Differenzierung
 
 - Grundstufe: Ein funktionierender Klick-Zähler mit einem einfachen Upgrade. 
 - Mittelstufe: Mehrere Upgrades mit unterschiedlichen Effekten. Expertenstufe: 
 - Komplexes Upgrade-System mit Auto-Clicker und Multiplikatoren.
 
 Hinweis: Ermutigen Sie die Schüler, die Werte für ihr Spiel selbst auszubalancieren
+
+
+
+## Hausaufgabe: "Balance Master" 
+
+Die Schüler spielen verschiedene Clicker-Spiele (z.B. Cookie Clicker original) und notieren sich, was das Spiel motivierend macht. Sie sollen drei konkrete Ideen aufschreiben, wie sie ihr eigenes Spiel verbessern können.
 
 > [!NOTE]
 >
@@ -47,8 +57,11 @@ Hinweis: Ermutigen Sie die Schüler, die Werte für ihr Spiel selbst auszubalanc
 >
 > Denk dran: Ein perfekt ausbalanciertes Spiel fühlt sich an wie eine Treppe - jede Stufe ist ein bisschen höher, aber noch gut zu erreichen! 🎯
 
-
-
-## Didaktischer Ansatz:
+### Didaktischer Ansatz:
 
 Der Cookie Clicker ist ein ideales Projekt zur Einführung von Variablen, da die Schüler deren Notwendigkeit direkt nachvollziehen können: Ohne Variablen keine Punktezählung. Der "NerdY Fun-Fact" über den originalen Cookie Clicker zeigt den Schülern, dass auch sehr simple Spielkonzepte enormen Erfolg haben können, wenn sie gut umgesetzt sind.
+
+
+### Weitere Infos und Beispiele
+
+![https://pad.kidslab.de/p/GamesLab-CookieMaster](../qrcodes/05-cookie-game.png)

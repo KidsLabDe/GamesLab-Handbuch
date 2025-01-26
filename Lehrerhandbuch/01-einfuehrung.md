@@ -10,7 +10,7 @@ Im GamesLab Workshop haben Ihre Schüler einen ersten Eindruck davon bekommen, w
 
 Sie kennen Ihre Schüler am besten und wissen, wie man sie motiviert und unterstützt: Gehen Sie mit gutem Beispiel voran und zeigen Sie, dass es sich lohnt, an einer Sache dranzubleiben, auch wenn es mal schwierig wird.
 
-**Mit Scratch lernen die Jugendlichen, wie man Probleme in kleine Teile zerlegt und Schritt für Schritt löst** - eine Fähigkeit, die in allen Lebensbereichen Gold wert ist. Und nebenbei entstehen auch noch richtig coole Spiele und Animationen, auf die man stolz sein kann. Da macht Lernen doch gleich doppelt Spaß!
+**Mit Scratch lernen die Jugendlichen, wie man Probleme in kleine Teile zerlegt und Schritt für Schritt löst** - eine Fähigkeit, die in allen Lebensbereichen Gold wert ist. Und nebenbei entstehen auch noch richtig coole Spiele und Animationen, auf die man stolz sein kann. Da macht Lernen doch gleich mal Spaß!
 
 **Als Starthilfe haben wir für Sie einen Lehrplan mit konkreten Unterrichtseinheiten zusammengestellt.** Er baut direkt auf dem Schüler-Handbuch auf und enthält Zeitpläne, Lernziele und jede Menge praktische Tipps. Angepasst an Ihre Gegebenheiten lassen sich die Inhalte so ganz einfach in Ihren Unterricht integrieren.
 
@@ -19,3 +19,9 @@ Sie kennen Ihre Schüler am besten und wissen, wie man sie motiviert und unterst
 Viel Freude und Erfolg dabei wünscht 
 
 Ihr GamesLab-Team
+
+
+
+> [!IMPORTANT]
+>
+> **Wir freuen uns auf Ihr Feedback**: was können wir besser machen, was hat funktioniert, welche Probleme hatten Sie? War der Zeitplan zu lang oder zu kurz? Was würden Sie sich sonst noch wünschen einfach eine Mail an team@kidslab.de oder per WhatsApp (siehe Kapitel Gebug & Hilfe) schreiben.

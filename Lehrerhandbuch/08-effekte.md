@@ -1,4 +1,4 @@
-# Doppelstunde 6: High Score & Erweiterungen
+# Doppelstunde 6: Effekte
 
 **Ziel:** Spiele erweitern und verbessern
 
@@ -42,3 +42,10 @@ Partikel-Systeme:
 - Klone als Grundlage für Partikel
 - Bewegungsmathematik
 - Ressourcenmanagement
+
+
+### Weitere Infos und Beispiele
+
+
+Weitere **Effekte** und wie sie funktionieren findet sie hier: 
+![https://pad.kidslab.de/p/GamesLab-Effekte](../qrcodes/08-effekt.png)

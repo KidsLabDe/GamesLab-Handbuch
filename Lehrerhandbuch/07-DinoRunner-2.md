@@ -6,7 +6,7 @@ In dieser Doppelstunde verwandeln wir die Sprungmechanik in ein vollwertiges Spi
 
 | Zeit   | Aktivität                                                    | Material & Hinweise                                          |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 15 min | **Einstieg & Wiederholung** <br>- Präsentation funktionierender Sprungmechaniken <br>- Kurze Wiederholung des Konzepts von Klonen <br>- Vorstellung der Paralax-Demo | - Digitale Tafel für Demo <br>- Beispielprojekt mit Paralax-Effekt |
+| 15 min | **Einstieg & Wiederholung** <br>- Präsentation funktionierender Sprungmechaniken <br>- Kurze Erklärung des Konzepts von Klonen <br>- Vorstellung der Paralax-Demo | - Digitale Tafel für Demo <br>- Beispielprojekt mit Paralax-Effekt |
 | 30 min | **Grundmechaniken** <br>- Kaktus-Klone erstellen <br>- Bewegung nach links programmieren <br>- Kollisionserkennung einbauen <br>- Game Over implementieren | - Handbuch Kapitel 6 <br>- Debug-Tipps für Kollisionen <br>- Checkliste für Klon-Verhalten |
 | 25 min | **Differenzierte Arbeitsphase** <br>*Basis:* <br>- Feintuning der Grundmechanik <br>*Fortgeschritten:* <br>- Steine am Boden implementieren <br>*Experten:* <br>- Wolken mit Paralax-Effekt | - Zusatzmaterial für Paralax <br>- Vorlagen für verschiedene Kakteen <br>- Beispiele für Bodendekoration |
 | 10 min | **Test & Debug** <br>- Gegenseitiges Testen <br>- Fehlersuche & Optimierung <br>- Anpassung der Schwierigkeit | - Testprotokoll im Handbuch <br>- Debug-Checkliste           |
@@ -56,19 +56,23 @@ Der Fokus liegt auf dem Konzept der Klone - einer mächtigen Scratch-Funktion, d
 Kernkonzepte:
 
 1. Hindernisse mit Klonen
-- Der Original-Kaktus ist die "Fabrik", die Klone erzeugt
-- Klone bewegen sich automatisch nach links
-- Klone löschen sich selbst am linken Bildschirmrand
 
+   - Der Original-Kaktus ist die "Fabrik", die Klone erzeugt
+   - Klone bewegen sich automatisch nach links
+   - Klone löschen sich selbst am linken Bildschirmrand
 2. Kollisionserkennung
-- Prüfen, ob der Dino den Kaktus berührt
-- Game Over bei Berührung auslösen
-- Neustart ermöglichen
 
+   - Prüfen, ob der Dino den Kaktus berührt
+   - Game Over bei Berührung auslösen
+   - Neustart ermöglichen
 3. Visuelle Verbesserungen (Differenzierung)
-- Steine am Boden für mehr Atmosphäre
-- Wolken mit Paralax-Effekt für Tiefenwirkung
-- Verschiedene Kaktus-Varianten
+
+   - Steine am Boden für mehr Atmosphäre
+
+   - Wolken mit Paralax-Effekt für Tiefenwirkung
+
+   - Verschiedene Kaktus-Varianten
+
 
 Diese Doppelstunde ist entscheidend für das Spielgefühl. Ein gut getimter Kaktus-Spawn und präzise Kollisionserkennung machen den Unterschied zwischen frustrierend und motivierend. 
 
