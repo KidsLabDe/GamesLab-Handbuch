@@ -1,0 +1,49 @@
+---
+title: "GamesLab Handbuch (Lehrerhandbuch)"
+
+titlepage: true
+titlepage-logo: "../bilder/GamesLab-cover.jpg"
+logo-width: 100mm
+toc: true
+toc-title: "Übersicht"
+toc-own-page: true
+toc-depth: 2
+
+lang: "de"
+
+book: true
+papersize: a4
+
+# epub stuff
+
+cover-image: ../bilder/GamesLab-cover.jpg
+
+author: "Gregor Walter, KidsLab.de"
+date: "Montag, 13. Januar 2025"
+colorlinks: true
+mainfont: Ubuntu
+mainfontfallback:
+  - "FreeSans:"
+  - "NotoColorEmoji:mode=harf"
+pandoc-latex-environment:
+  noteblock: [note]
+  tipblock: [tip]
+  warningblock: [warning]
+  cautionblock: [important]
+header-includes:
+- \usepackage{awesomebox}
+- \addtokomafont{disposition}{\rmfamily}
+- \setkomafont{disposition}{\rmfamily\addfontfeatures{RawFeature={fallback=emojifallback}}}
+- \directlua{luaotfload.add_fallback
+   ("emojifallback",
+    {
+      "Twemoji Mozilla:mode=harf;script=DFLT;"
+    }
+   )}
+
+...
+`\renewcommand{\familydefault}{\sfdefault}`{=latex}
+`\setmainfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
+`\setsansfont{sourcesanspro}[RawFeature={fallback=emojifallback}]`{=latex}
+`\let\oldsection\section`{=latex}
+`\renewcommand{\section}{\clearpage\oldsection}`{=latex}
