@@ -100,9 +100,7 @@ Nicht umsonst wird Scratch an Universitäten wie Harvard und dem MIT im Informat
 - Kopfhörer für Sound-Tutorials
 - Achievement-Sticker (optional)
 
-## 1 oder 2 Schüler pro Computer?
 
-- Die Schüler köttet auch zu zweit an einem Rechner arbeiten. Dies fördert den Austausch und gegenseitige Hilfe. Wichtig ist, dass beide Schüler abwechselnd programmieren.
 
 # Benötigte technische Ausstattung
 
@@ -161,26 +159,28 @@ Grundsätzlich ist es möglich, alleine oder zu zweit an einem Computer die Prog
 - Koordinationsaufwand
 - Geteilte Computerzeit
 
-### Hintergrund und Studien
-
-Es gibt viele Studien, die beim Pair-Programming von Schülern viele Vorteile erkannt haben, zum Beispiel: https://repository.nie.edu.sg/server/api/core/bitstreams/2f9c05e5-b118-4357-9675-f52031d2dcaa/content 
-
-Diese wichtige Studie von 2002 untersuchte die Auswirkungen von Pair Programming in einem Einführungskurs zur Programmierung mit etwa 600 Studierenden. Die Hauptergebnisse:
-
-**Programmierleistung:**
-
-- Paare erzielten deutlich bessere Programmiernoten (86% vs. 67%)
-- Auch im Vergleich zu den besten 50% der Einzelprogrammierer schnitten Paare besser ab (86% vs. 77%)
-
-**Abschlussquoten:**
-
-- Deutlich höhere Kursabschlussquote bei Paaren (92% vs. 76%)
-- Die höhere Abschlussquote deutet darauf hin, dass Pair Programming Studierenden hilft durchzuhalten
-
-**Prüfungsleistung:**
-
-- Vergleichbare Ergebnisse in der Abschlussprüfung
-- Bei Berücksichtigung der unterschiedlichen Abbruchquoten schnitten Paare sogar besser ab
+> [!NOTE]
+>
+> ### Hintergrund und Studien
+>
+> Es gibt viele Studien, die beim Pair-Programming von Schülern viele Vorteile erkannt haben, zum Beispiel: https://repository.nie.edu.sg/server/api/core/bitstreams/2f9c05e5-b118-4357-9675-f52031d2dcaa/content 
+>
+> Diese wichtige Studie von 2002 untersuchte die Auswirkungen von Pair Programming in einem Einführungskurs zur Programmierung mit etwa 600 Studierenden. Die Hauptergebnisse:
+>
+> **Programmierleistung:**
+>
+> - Paare erzielten deutlich bessere Programmiernoten (86% vs. 67%)
+> - Auch im Vergleich zu den besten 50% der Einzelprogrammierer schnitten Paare besser ab (86% vs. 77%)
+>
+> **Abschlussquoten:**
+>
+> - Deutlich höhere Kursabschlussquote bei Paaren (92% vs. 76%)
+> - Die höhere Abschlussquote deutet darauf hin, dass Pair Programming Studierenden hilft durchzuhalten
+>
+> **Prüfungsleistung:**
+>
+> - Vergleichbare Ergebnisse in der Abschlussprüfung
+> - Bei Berücksichtigung der unterschiedlichen Abbruchquoten schnitten Paare sogar besser ab
 
 ### **Empfehlung für den Unterricht:**
 
@@ -189,9 +189,12 @@ Diese wichtige Studie von 2002 untersuchte die Auswirkungen von Pair Programming
 - Bei Bedarf auch Einzelarbeit ermöglichen
 - Flexible Gruppenzusammensetzung je nach Aufgabe
 
-Aber ja - das ist geschackssache, probieren sie aus, was bei ihnen und ihren Schülern besser funktioniert.
+**Aber ja - das ist geschackssache, probieren sie aus, was bei ihnen und ihren Schülern besser funktioniert.**
 
-# Downloads von Unterlagen
+
+# Teilen & Weitermachen erwünscht! 🔄
+
+## Downloads von Unterlagen
 
 Sie können dieses Handbuch als PDF, Word und E-Book unter folgender  Adresse herunterladen:
 https://kidslab.de/gameslab-lehrer
@@ -199,3 +202,20 @@ https://kidslab.de/gameslab-lehrer
 Auch die Handtücher für die Schüler sind in den gleichen Formaten hier verfügbar:
 https://kidslab.de/gameslab-handbuch
 
+
+**Lizenz** CC BY 4.0 KidsLab.de 
+
+So funktioniert's:
+
+- Du darfst das Handbuch...
+  - kopieren und weitergeben
+  - verändern und verbessern
+  - auch für eigene Projekte nutzen
+- Nur zwei Dinge sind wichtig:
+  1. Sag, wer es ursprünglich gemacht hat
+  2. Gib anderen die gleichen Rechte weiter
+
+Das bedeutet: Du kannst mit diesem Handbuch machen, was du willst - solange du sagst, woher es kommt und andere es auch weiterverwenden dürfen. Fair, oder? 👍
+
+Dieses Handbuch wurde mit ❤️ erstellt von deinem KidsLab-Team
+Version 1.0 - 2024

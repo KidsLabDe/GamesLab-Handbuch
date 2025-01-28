@@ -24,4 +24,4 @@ Ihr GamesLab-Team
 
 > [!IMPORTANT]
 >
-> **Wir freuen uns auf Ihr Feedback**: was können wir besser machen, was hat funktioniert, welche Probleme hatten Sie? War der Zeitplan zu lang oder zu kurz? Was würden Sie sich sonst noch wünschen einfach eine Mail an team@kidslab.de oder per WhatsApp (siehe Kapitel Gebug & Hilfe) schreiben.
+> **Wir freuen uns auf Ihr Feedback**: was können wir besser machen, was hat funktioniert, welche Probleme hatten Sie? War der Zeitplan zu lang oder zu kurz? Was würden Sie sich sonst noch wünschen einfach eine Mail an team@kidslab.de oder per WhatsApp (siehe Kapitel Debug & Hilfe) schreiben.

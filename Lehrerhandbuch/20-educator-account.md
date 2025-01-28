@@ -2,7 +2,7 @@
 
 Als Lehrkraft können Sie einen speziellen “Educator-Account” bei Scratch erstellen, der Ihnen zusätzliche Funktionen für den Unterricht bietet.
 
-![image1](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image1.png)
+![Scratch Logo](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image1.png)
 
 **Vorteile des “Educator-Accounts”**
 
@@ -45,13 +45,13 @@ Sollten Sie Schwierigkeiten haben, können wir Ihnen auch am Workshop-Tag dabei 
 
 2. Klicken sie auf “meine Klassen” und erstellen Sie eine neue Klasse 
 
-   ![image2](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image2.png)
+   ![Neue Klasse anlegen](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image2.png)
 
-   ![image3](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image3.png)
+   ![Meine Klassen](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image3.png)
 
 3. Erstellen Sie den Schüler-Registrierungslinks
 
-   ![image4](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image4.png)
+   ![Registrierungslink](/Users/kingbbq/src/GamesLab-Handbuch/Lehrerhandbuch/screenshots/image4.png)
 
 4. Kopieren Sie den Link und mailen diesen an: [team@kidslab.de](mailto:team@kidslab.de) 
 
